@@ -32,3 +32,56 @@
   (spacemacs/setup-startup-hook)
   (require 'server)
   (unless (server-running-p) (server-start)))
+
+;;;;;;;;;;;;;;;;;;; config for myself ;;;;;;;;;;;;;;;;;
+(require 'package)
+(package-initialize)
+(setq package-archives '(("gnu"   . "http://elpa.emacs-china.org/gnu/")
+                         ("melpa" . "http://elpa.emacs-china.org/melpa/")))
+
+
+(global-linum-mode t)
+(setq inhibit-splash-screen 1)
+(set-face-attribute 'default nil :height 140)
+(setq-default cursor-type 'bar)
+(setq make-backup-files nil)
+
+;; open init.el quickly
+(defun open-init-file()
+  (interactive)
+  (find-file "~/.emacs.d/init.el"))
+;; bind fun open-init-file() with <f2>
+(global-set-key (kbd "<f2>") 'open-init-file)
+
+;; open .spacemacs quickly
+(defun open-spacemacs-config-file()
+  (interactive)
+  (find-file "~/.spacemacs"))
+(global-set-key (kbd "<f3>") 'open-spacemacs-config-file)
+
+;; open global Company complete
+(global-company-mode 1)
+
+;; open recently files
+(require 'recentf)
+(recentf-mode 1)
+(setq recentf-max-menu-items 10)
+
+(delete-selection-mode 1)
+
+(load-theme 'monokai)
+
+;; find executable Path on OS X
+(when (memq window-system '(mac ns))
+  (exec-path-from-shell-initialize))
+
+(add-hook 'emacs-lisp-mode-hook 'show-paren-mode)
+(global-hl-line-mode 1)
+
+(hungry-delete-mode 1)
+
+(require 'org)
+(setq org-src-fontify-natively t)
+
+(setq org-agenda-files '("~/org"))
+(global-set-key (kbd "C-c a") 'org-agenda)
