@@ -36,13 +36,17 @@
 ;;;;;;;;;;;;;;;;;;; config for myself ;;;;;;;;;;;;;;;;;
 (require 'package)
 (package-initialize)
-(setq package-archives '(("gnu"   . "http://elpa.emacs-china.org/gnu/")
-                         ("melpa" . "http://elpa.emacs-china.org/melpa/")))
+(setq package-archives '(
+                         ("gnu"   . "http://elpa.emacs-china.org/gnu/")
+                         ("melpa" . "http://elpa.emacs-china.org/melpa/")
+                         ("melpa-stable" . "http://mirrors.tuna.tsinghua.edu.cn/elpa/melpa-stable/")
+                         )
+)
 
 
 (global-linum-mode t)
 (setq inhibit-splash-screen 1)
-(set-face-attribute 'default nil :height 140)
+(set-face-attribute 'default nil :height 145)
 (setq-default cursor-type 'bar)
 (setq make-backup-files nil)
 
@@ -66,6 +70,7 @@
 (require 'recentf)
 (recentf-mode 1)
 (setq recentf-max-menu-items 10)
+(global-set-key (kbd "\C-x\ \C-r") 'recentf-open-files)
 
 (delete-selection-mode 1)
 
@@ -76,7 +81,7 @@
   (exec-path-from-shell-initialize))
 
 (add-hook 'emacs-lisp-mode-hook 'show-paren-mode)
-(global-hl-line-mode 1)
+(global-hl-line-mode t)
 
 (hungry-delete-mode 1)
 
@@ -85,3 +90,18 @@
 
 (setq org-agenda-files '("~/org"))
 (global-set-key (kbd "C-c a") 'org-agenda)
+
+(require 'smex)
+(smex-initialize)
+(global-set-key (kbd "M-x") 'smex)
+
+(ivy-mode 1)
+(setq ivy-use-virtual-buffers t)
+(setq enable-recursive-minibuffers t)
+(global-set-key "\C-s" 'swiper)
+(global-set-key (kbd "C-c C-r") 'ivy-resume)
+(global-set-key (kbd "<f6>") 'ivy-resume)
+(global-set-key (kbd "M-x") 'counsel-M-x)
+(global-set-key (kbd "C-x C-f") 'counsel-find-file)
+(global-set-key (kbd "<f1> f") 'counsel-describe-function)
+(global-set-key (kbd "<f1> v") 'counsel-describe-variable)
