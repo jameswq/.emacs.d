@@ -29,4 +29,29 @@
         (indent-buffer)
         (message "Indent buffer.")))))
 
+
+(setq hippie-expand-try-function-list '(try-expand-debbrev
+                                        try-expand-debbrev-all-buffers
+                                        try-expand-debbrev-from-kill
+                                        try-complete-file-name-partially
+                                        try-complete-file-name
+                                        try-expand-all-abbrevs
+                                        try-expand-list
+                                        try-expand-line
+                                        try-complete-lisp-symbol-partially
+                                        try-complete-lisp-symbol))
+
+(fset 'yes-or-no-p 'y-or-n-p)
+
+(setq dired-recursive-copies 'always)
+(setq dired-recursive-deletes 'always)
+
+(put 'dired-find-alternate-file 'disabled nil)
+
+;(with-eval-after-load 'dired
+;(define-key dired-mode-map (kbd "RET") 'dired-find-alternate-file))
+
+(require 'dired-x)
+(setq dired-dwim-target t)  
+
 (provide 'init-better-defaults)
