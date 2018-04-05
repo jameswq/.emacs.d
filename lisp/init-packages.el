@@ -15,9 +15,9 @@
 (require 'hungry-delete)
 (global-hungry-delete-mode t)
 
-                                        ;(ivy-mode 1)
-                                        ;(setq ivy-use-virtual-buffers t)
-                                        ;(setq enable-recursive-minibuffers t)
+(ivy-mode 1)
+(setq ivy-use-virtual-buffers t)
+(setq enable-recursive-minibuffers t)
 
 ;; open global Company complete
 (global-company-mode 1)
