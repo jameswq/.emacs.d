@@ -1,3 +1,5 @@
+
+
 ;;; init.el --- Spacemacs Initialization File
 ;;
 ;; Copyright (c) 2012-2017 Sylvain Benner & Contributors
@@ -33,75 +35,37 @@
   (require 'server)
   (unless (server-running-p) (server-start)))
 
+
+
+
 ;;;;;;;;;;;;;;;;;;; config for myself ;;;;;;;;;;;;;;;;;
-(require 'package)
 (package-initialize)
-(setq package-archives '(
-                         ("gnu"   . "http://elpa.emacs-china.org/gnu/")
-                         ("melpa" . "http://elpa.emacs-china.org/melpa/")
-                         ("melpa-stable" . "http://mirrors.tuna.tsinghua.edu.cn/elpa/melpa-stable/")
-                         )
-)
 
+(add-to-list 'load-path "~/.emacs.d/lisp/")
 
-(global-linum-mode t)
-(setq inhibit-splash-screen 1)
-(set-face-attribute 'default nil :height 145)
-(setq-default cursor-type 'bar)
-(setq make-backup-files nil)
-
-;; open init.el quickly
 (defun open-init-file()
   (interactive)
-  (find-file "~/.emacs.d/init.el"))
-;; bind fun open-init-file() with <f2>
-(global-set-key (kbd "<f2>") 'open-init-file)
+  (find-file ".emacs.d/init.el"))
 
-;; open .spacemacs quickly
 (defun open-spacemacs-config-file()
   (interactive)
   (find-file "~/.spacemacs"))
-(global-set-key (kbd "<f3>") 'open-spacemacs-config-file)
 
-;; open global Company complete
-(global-company-mode 1)
 
-;; open recently files
-(require 'recentf)
-(recentf-mode 1)
-(setq recentf-max-menu-items 10)
-(global-set-key (kbd "\C-x\ \C-r") 'recentf-open-files)
+(require 'init-packages )
+(require 'init-ui)
+(require 'init-keybindings)
+(require 'init-better-defaults)
+(require 'init-org)
 
-(delete-selection-mode 1)
 
-(load-theme 'monokai)
+(setq  custom-file (expand-file-name "lisp/custom.el" user-emacs-directory)) 
+(load-file custom-file)
 
-;; find executable Path on OS X
-(when (memq window-system '(mac ns))
-  (exec-path-from-shell-initialize))
 
-(add-hook 'emacs-lisp-mode-hook 'show-paren-mode)
-(global-hl-line-mode t)
 
-(hungry-delete-mode 1)
 
-(require 'org)
-(setq org-src-fontify-natively t)
 
-(setq org-agenda-files '("~/org"))
-(global-set-key (kbd "C-c a") 'org-agenda)
 
-(require 'smex)
-(smex-initialize)
-(global-set-key (kbd "M-x") 'smex)
 
-(ivy-mode 1)
-(setq ivy-use-virtual-buffers t)
-(setq enable-recursive-minibuffers t)
-(global-set-key "\C-s" 'swiper)
-(global-set-key (kbd "C-c C-r") 'ivy-resume)
-(global-set-key (kbd "<f6>") 'ivy-resume)
-(global-set-key (kbd "M-x") 'counsel-M-x)
-(global-set-key (kbd "C-x C-f") 'counsel-find-file)
-(global-set-key (kbd "<f1> f") 'counsel-describe-function)
-(global-set-key (kbd "<f1> v") 'counsel-describe-variable)
+
