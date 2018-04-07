@@ -40,6 +40,7 @@
 (require 'popwin)
 (popwin-mode t)
 
+(require 'org-pomodoro)
 
 
 
