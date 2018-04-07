@@ -1,0 +1,17 @@
+
+;; ----- smex-history -----
+(
+ customize-group
+ cd
+ 5x5
+ arp
+ dbx
+ dig
+ erc
+)
+
+;; ----- smex-data -----
+(
+ (cd . 1)
+ (customize-group . 1)
+)

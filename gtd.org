@@ -1,0 +1,15 @@
+* 工作安排
+  
+** TODO [#B] spacemacs第二季第6天的教程要学完
+   DEADLINE: <2018-04-07 Sat 21:00> SCHEDULED: <2018-04-07 Sat 16:00>
+
+** TODO [#B] clean up our emacs configs
+
+
+* Quick notes
+
+** TODO [#C] analysis emacs configuration 
+   http://v.youku.com/v_show/id_XMTU0NjYwNzQ3Mg%3D%3D.html
+ 
+  [2018-04-07 Sat 20:31]
+
