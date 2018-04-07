@@ -22,9 +22,25 @@
 ;; open global Company complete
 (global-company-mode 1)
 
-(load-theme 'monokai)
+;;config for web-mode）
+(defun my-web-mode-indent-setup()
+  (setq web-mode-markup-indent-offset 2);html
+  (setq web-mode-css-indent-offset 2);css
+  (setq web-mode-code-indent-offset 2);js
+  )
+
+(add-hook 'web-mode-hook 'my-web-mode-indent-setup)
+( )
+
+;;config for js2-refactor
+(add-hook 'js2-mode-hook #'js2-refactor-mode)
+(js2r-add-keybindings-with-prefix "C-c C-m")
+
 
 (require 'popwin)
 (popwin-mode t)
+
+
+
 
 (provide 'init-packages)
