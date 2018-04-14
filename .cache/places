@@ -1,19 +1,25 @@
 ;;; -*- coding: utf-8 -*-
-(("/Users/wangqun/.emacs.d/gtd.org" . 157)
- ("/Users/wangqun/.emacs.d/lisp/init-org.el" . 501)
- ("/Users/wangqun/.emacs.d/.cache/recentf" . 1847)
- ("/Users/wangqun/.emacs.d/.cache/layouts/persp-auto-save" . 1559)
- ("/Users/wangqun/.emacs.d/turtletaro.org" . 80)
- ("/Users/wangqun/.emacs.d/lisp/init-packages.el" . 1083)
- ("/Users/wangqun/.emacs.d/lisp/init-better-defaults.el" . 4459)
- ("/Users/wangqun/org/sec.org" . 104)
+(("/Users/wangqun/.emacs.d/lisp/init-packages.el" . 1106)
+ ("/Users/wangqun/.emacs.d/lisp/init-keybindings.el" . 1448)
+ ("/Users/wangqun/.emacs.d/lisp/init-better-defaults.el" . 4531)
+ ("/Users/wangqun/dev/hiemacs/hiemacs.el" . 117)
+ ("/Users/wangqun/.emacs.d/.cache/recentf" . 2501)
+ ("/Users/wangqun/.emacs.d/.cache/layouts/persp-auto-save" . 2715)
+ ("/Users/wangqun/.emacs.d/init.el" . 1265)
+ ("/Users/wangqun/.emacs.d/turtletaro.org" . 120)
+ ("/Users/wangqun/.emacs.d/elpa/evil-20180126.1159/evil-core.el" . 8183)
+ ("/Users/wangqun/.spacemacs" . 3152)
+ ("/usr/local/Cellar/emacs-plus/25.3/share/emacs/25.3/etc/HELLO" . 2851)
+ ("/Users/wangqun/.emacs.d/gtd.org" . 1342)
+ ("/usr/local/Cellar/emacs-plus/25.3/share/emacs/25.3/etc/TODO" . 5828)
+ ("/Users/wangqun/.emacs.d/elpa/iedit-20170916.1024/iedit.el" . 12378)
+ ("/Users/wangqun/.emacs.d/elpa/popwin-20150315.600/popwin.el" . 3148)
+ ("/usr/local/Cellar/emacs-plus/25.3/share/emacs/25.3/lisp/international/mule.el.gz" . 10442)
+ ("/Users/wangqun/.emacs.d/lisp/init-org.el" . 211)
  ("/Users/wangqun/org/first.org" . 36)
- ("/Users/wangqun/.spacemacs" . 3113)
- ("/Users/wangqun/.emacs.d/init.el" . 764)
  ("/Users/wangqun/.emacs.d/elpa/org-plus-contrib-20180129/org-capture.el" . 24953)
  ("/Users/wangqun/org/first.html" . 10383)
  ("/Users/wangqun/dev/hiemacs/testjs.js" . 151)
- ("/Users/wangqun/.emacs.d/lisp/init-keybindings.el" . 1150)
  ("/Users/wangqun/dev/hihtml/tst.html" . 352)
  ("/Users/wangqun/"
   (dired-filename . "/Users/wangqun/DEV"))
@@ -21,8 +27,6 @@
   (dired-filename . "/Users/wangqun/DEV/hipython"))
  ("/Users/wangqun/DEV/hipython/" . 633)
  ("/Users/wangqun/.emacs.d/lisp/init-ui.el" . 218)
- ("/Users/wangqun/.emacs.d/lisp/"
-  (dired-filename . "/Users/wangqun/.emacs.d/lisp/init-packages.el"))
  ("/Users/wangqun/.emacs.d/"
   (dired-filename . "/Users/wangqun/.emacs.d/turtletaro.el"))
  ("/Users/wangqun/.emacs.d/layers/"
@@ -34,10 +38,6 @@
   (dired-filename . "/Users/wangqun/dev/hiemacs/.."))
  ("/Users/wangqun/dev/"
   (dired-filename . "/Users/wangqun/dev/.."))
- ("/Users/wangqun/.emacs.d/tests/core/"
-  (dired-filename . "/Users/wangqun/.emacs.d/tests/core/.."))
- ("/Users/wangqun/.emacs.d/tests/"
-  (dired-filename . "/Users/wangqun/.emacs.d/tests/.."))
  ("/Users/wangqun/.emacs.d/core/"
   (dired-filename . "/Users/wangqun/.emacs.d/core/.."))
  ("/Users/wangqun/.emacs.d.bak/.emacs.d.20180401/init.el" . 1265)

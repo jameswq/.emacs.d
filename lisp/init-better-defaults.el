@@ -114,5 +114,8 @@
                   "return links as string\n"))))
     (format "%s" (s-chop-suffix "\"" (s-chop-prefix "\"" result)))))
 
+;; close backquote
+(sp-local-pair 'emacs-lisp-mode "`" nil :actions nil)
+
 
 (provide 'init-better-defaults)

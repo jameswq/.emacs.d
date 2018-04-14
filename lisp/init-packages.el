@@ -42,6 +42,7 @@
 
 (require 'org-pomodoro)
 
+(require 'which-key)
 
 
 (provide 'init-packages)
