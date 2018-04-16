@@ -1,14 +1,23 @@
 ;;; -*- coding: utf-8 -*-
-(("/Users/wangqun/.emacs.d/lisp/init-packages.el" . 1106)
- ("/Users/wangqun/.emacs.d/lisp/init-keybindings.el" . 1448)
- ("/Users/wangqun/.emacs.d/lisp/init-better-defaults.el" . 4531)
- ("/Users/wangqun/dev/hiemacs/hiemacs.el" . 117)
- ("/Users/wangqun/.emacs.d/.cache/recentf" . 2501)
- ("/Users/wangqun/.emacs.d/.cache/layouts/persp-auto-save" . 2715)
- ("/Users/wangqun/.emacs.d/init.el" . 1265)
- ("/Users/wangqun/.emacs.d/turtletaro.org" . 120)
+(("/Users/wangqun/.emacs.d/lisp/init-packages.el" . 1329)
+ ("/Users/wangqun/dev/hiemacs/testjs.js" . 358)
+ ("/Users/wangqun/.emacs.d/.cache/recentf" . 2623)
+ ("/Users/wangqun/.emacs.d/.cache/layouts/persp-auto-save" . 2496)
+ ("/Users/wangqun/.emacs.d/turtletaro.org" . 253)
+ ("/Users/wangqun/.emacs.d/lisp/"
+  (dired-filename . "/Users/wangqun/.emacs.d/lisp/init-packages.el"))
+ ("/Users/wangqun/dev/hiemacs/hiemacs.el" . 276)
+ ("/usr/bin/"
+  (dired-filename . "/usr/bin/afclip"))
+ ("/Users/wangqun/.emacs.d/lisp/custom.el" . 27)
+ ("/Users/wangqun/.emacs.d/lisp/init-keybindings.el" . 1507)
+ ("/Users/wangqun/.emacs.d/lisp/init-better-defaults.el" . 1723)
+ ("/Users/wangqun/.emacs.d/init.el" . 1350)
+ ("/Users/wangqun/.spacemacs" . 2402)
+ ("/Users/wangqun/"
+  (dired-filename . "/Users/wangqun/.CFUserTextEncoding"))
+ ("/Users/wangqun/org/sec.org" . 210)
  ("/Users/wangqun/.emacs.d/elpa/evil-20180126.1159/evil-core.el" . 8183)
- ("/Users/wangqun/.spacemacs" . 3152)
  ("/usr/local/Cellar/emacs-plus/25.3/share/emacs/25.3/etc/HELLO" . 2851)
  ("/Users/wangqun/.emacs.d/gtd.org" . 1342)
  ("/usr/local/Cellar/emacs-plus/25.3/share/emacs/25.3/etc/TODO" . 5828)
@@ -19,10 +28,7 @@
  ("/Users/wangqun/org/first.org" . 36)
  ("/Users/wangqun/.emacs.d/elpa/org-plus-contrib-20180129/org-capture.el" . 24953)
  ("/Users/wangqun/org/first.html" . 10383)
- ("/Users/wangqun/dev/hiemacs/testjs.js" . 151)
  ("/Users/wangqun/dev/hihtml/tst.html" . 352)
- ("/Users/wangqun/"
-  (dired-filename . "/Users/wangqun/DEV"))
  ("/Users/wangqun/DEV/"
   (dired-filename . "/Users/wangqun/DEV/hipython"))
  ("/Users/wangqun/DEV/hipython/" . 633)

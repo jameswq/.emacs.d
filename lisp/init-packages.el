@@ -44,5 +44,13 @@
 
 (require 'which-key)
 
+(require 'elpy)
+(setq elpy-rpc-python-command "python3")
+(setq python-shell-interpreter "ipython3")
+;(setq pyvenv-virtualenvwrapper-python "/usr/local/bin/python3")
+(elpy-enable)
+
+(add-hook 'js2-mode-hook 'flycheck-mode t)
+
 
 (provide 'init-packages)

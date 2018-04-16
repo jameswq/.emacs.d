@@ -2,6 +2,7 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/wangqun/.emacs.d/" . "lisp/")
  ("/Users/wangqun/" . ".emacs.d/")
 )
 
@@ -13,16 +14,16 @@
 
 ;; ----- ido-work-file-list -----
 (
- 
+ "init-packages.el"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/wangqun/.emacs.d/lisp/" (23240 51527 726786 973000) "init-org.el" "init-better-defaults.el" "init-keybindings.elc" "init-ui.el" "init-keybindings.el" "init-org.elc" "init-ui.elc" "init-better-defaults.elc" "custom.el" ".#init-keybindings.el" "init-packages.el" "init-packages.elc" "../" "./")
+ ("/Users/wangqun/.emacs.d/lisp/" (23252 21802 475323 798000) "init-org.el" "init-better-defaults.el" "init-ui.el" "init-keybindings.el" "init-org.elc" "init-ui.elc" "init-better-defaults.elc" "custom.el" "init-packages.el" ".DS_Store" "init-packages.elc" "../" "./")
 
- ("/Users/wangqun/" (23240 51342 787185 638000) "panasiaRpt/" "AnacondaProjects/" ".conda/" ".viminfo" ".bash_history" ".putty/" ".zcompdump-王群的MacBook Pro-5.3" ".python-eggs/" ".gitconfig" ".python_history" "Downloads/" ".oh-my-zsh/" ".bash_profile" ".m2/" ".spacemacs" ".mysql_history" ".ionic/" ".babel.json" ".swt/" "Documents/" ".npm/" "localhost/" ".jupyter/" ".ipynb_checkpoints/" "DEV/" ".Trash/" ".emacs.d.bak/" ".kettle/" ".zsh-update" "Applications/" "Movies/" ".ssh/" ".anaconda/" "SOFT/" "Public/" ".spacemacs.before_ecb_2.40__1" ".spacemacs.before_ecb_2.40" ".geeknote/" ".bash_sessions/" "project/" ".android/" ".npminstall_tarball/" ".emacs.d/" ".oracle_jre_usage/" ".semanticdb/" ".srecode/" ".npmrc" "Library/" "Desktop/" ".ipython/" ".zsh_history" ".rncache/" ".FineReport80/" "node_modules/" "Pictures/" ".local/" "org/" ".zshrc" "Untitled.ipynb" ".pentaho/" ".vnc/" ".subversion/" ".CFUserTextEncoding" ".zcompdump-王群的MacBook Pro-5.4.2" ".yarnrc" ".DS_Store" ".node-gyp/" ".condarc" "Music/" ".config/" "../" "./")
+ ("/Users/wangqun/.emacs.d/" (23249 58041 185610 414000) "plus/" ".cache/" "assets/" ".git/" "CHANGELOG.org" "elpa/" "doc/" "spacemacs.mk" "gtd.org" ".gitattributes" "private/" ".gitignore" "news/" "pic/" "turtletaro.el" "README.md" "init.el" "COMMUNITY.org" "layers/" "core/" "CONTRIBUTING.org" "eshell/" "smex-items" ".DS_Store" "lisp/" "turtletaro.org" "snippets/" "../" "./")
 
- ("/Users/wangqun/.emacs.d/" (23240 50891 946585 898000) "plus/" ".cache/" "assets/" ".git/" "CHANGELOG.org" "elpa/" "doc/" "spacemacs.mk" "gtd.org" ".gitattributes" ".#gtd.org" "private/" ".gitignore" "news/" "pic/" "turtletaro.el" "README.md" "init.el" "COMMUNITY.org" "layers/" "core/" "CONTRIBUTING.org" "smex-items" ".DS_Store" "lisp/" "turtletaro.org" "snippets/" "../" "./")
+ ("/Users/wangqun/" (23252 20752 311100 334000) "panasiaRpt/" "AnacondaProjects/" ".conda/" ".viminfo" ".bash_history" ".putty/" ".zcompdump-王群的MacBook Pro-5.3" ".python-eggs/" ".gitconfig" ".python_history" "Downloads/" ".oh-my-zsh/" ".bash_profile" ".m2/" ".spacemacs" ".mysql_history" ".ionic/" ".babel.json" ".swt/" "Documents/" ".npm/" "localhost/" ".jupyter/" ".ipynb_checkpoints/" "DEV/" ".Trash/" ".emacs.d.bak/" ".kettle/" ".zsh-update" "Applications/" "Movies/" ".ssh/" ".anaconda/" "SOFT/" "Public/" ".spacemacs.before_ecb_2.40__1" ".spacemacs.before_ecb_2.40" ".geeknote/" ".bash_sessions/" "project/" ".android/" ".npminstall_tarball/" ".emacs.d/" ".oracle_jre_usage/" ".semanticdb/" ".srecode/" ".npmrc" "Library/" "Desktop/" ".ipython/" ".zsh_history" ".rncache/" ".FineReport80/" "node_modules/" "Pictures/" ".local/" "org/" ".zshrc" "Untitled.ipynb" ".pentaho/" ".vnc/" ".subversion/" ".CFUserTextEncoding" ".zcompdump-王群的MacBook Pro-5.4.2" ".yarnrc" ".DS_Store" ".node-gyp/" ".condarc" "Music/" ".config/" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

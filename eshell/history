@@ -7,3 +7,45 @@ cd /
 ls
 pwd
 exit
+emacs
+$PATH
+pwd
+clear
+
+date
+year
+ps -ef | grep emacs
+which python3
+exit
+cd
+where python3
+which python3
+EXIT
+exit
+cd
+npm --version
+npm install -g eslint
+eslint --version
+pwd
+cd 
+cd .emacs.d/ls
+cd .emacs.d
+ls
+cd lisp/ls
+cd lisp/
+ls
+pwd
+ls
+cd 
+cd .emacs.d/ls
+cd .emacs.d/
+ls
+cd lisp/
+ls
+cd ..
+ls
+cd lisp/
+ls
+ls -a
+cd ..
+ls

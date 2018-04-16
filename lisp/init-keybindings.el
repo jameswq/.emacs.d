@@ -36,8 +36,7 @@
   (define-key company-active-map (kbd "C-n") #'company-select-next)
   (define-key company-active-map (kbd "C-p") #'company-select-previous))
 
-(global-set-key (kbd "C-c k m") 'which-key-show-keymap)
-
-;(global-set-key (kbd "C-c p s") 'helm-do-ag-project-root)
+;(global-set-key (kbd "C-c k m") 'which-key-show-keymap)
+(global-set-key (kbd "C-c c j") 'helm-do-ag-project-root)
 
 (provide 'init-keybindings) 

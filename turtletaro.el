@@ -4,7 +4,7 @@
 
 (defun open-init-file()
   (interactive)
-  (find-file ".emacs.d/init.el"))
+  (find-file "~/.emacs.d/lisp/init-packages.el"))
 
 (defun open-spacemacs-config-file()
   (interactive)
