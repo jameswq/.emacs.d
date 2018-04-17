@@ -50,3 +50,39 @@ ls -a
 cd ..
 ls
 brew tap caskroom/fonts && brew cask install font-source-code-pro
+cd
+ls
+ls -a
+cat  .spacemacs
+cd project/
+ls
+cd ssmpapp-doc/
+ls
+j ssmpapp/
+ls
+cd ssmpapp/
+ls
+ls -a
+open .
+cd ..
+ls
+cd ..
+ls
+cd ssmpapp/
+ls
+cd src/
+ls
+cd image/
+ls
+open . 
+cd ..
+open .
+cd ..
+open . 
+cd ~/.emacs.d/
+ls
+git add .
+git commit -m "fixed"
+git different
+git diff 
+exit
