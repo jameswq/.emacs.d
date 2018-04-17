@@ -4,7 +4,7 @@
 (setq-default cursor-type 'bar)
 
 (setq inhibit-splash-screen 1)
-(set-face-attribute 'default nil :height 130)  
+(set-face-attribute 'default nil :height 140)  
 (setq-default cursor-type 'bar)
 (delete-selection-mode 1)
 

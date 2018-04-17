@@ -52,5 +52,11 @@
 
 (add-hook 'js2-mode-hook 'flycheck-mode t)
 
+;(yas-reload-all)
+;(add-hook 'prog-mode-hook #'yas-minor-mode)
 
+;(evil-mode 1)
+;(setq evil-want-C-u-scroll t)
+
+ 
 (provide 'init-packages)

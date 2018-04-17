@@ -1,8 +1,13 @@
 ;;; -*- coding: utf-8 -*-
-(("/Users/wangqun/.emacs.d/lisp/init-packages.el" . 1329)
- ("/Users/wangqun/dev/hiemacs/testjs.js" . 358)
+(("/Users/wangqun/.emacs.d/lisp/init-ui.el" . 137)
+ ("/Users/wangqun/.spacemacs" . 7808)
  ("/Users/wangqun/.emacs.d/.cache/recentf" . 2623)
- ("/Users/wangqun/.emacs.d/.cache/layouts/persp-auto-save" . 2496)
+ ("/Users/wangqun/.emacs.d/.cache/layouts/persp-auto-save" . 1561)
+ ("/Users/wangqun/.emacs.d/lisp/init-packages.el" . 1330)
+ ("/Users/wangqun/.emacs.d/lisp/init-keybindings.el" . 1609)
+ ("/Users/wangqun/dev/hiemacs/testjs.js" . 358)
+ ("/Users/wangqun/"
+  (dired-filename . "/Users/wangqun/.CFUserTextEncoding"))
  ("/Users/wangqun/.emacs.d/turtletaro.org" . 253)
  ("/Users/wangqun/.emacs.d/lisp/"
   (dired-filename . "/Users/wangqun/.emacs.d/lisp/init-packages.el"))
@@ -10,12 +15,8 @@
  ("/usr/bin/"
   (dired-filename . "/usr/bin/afclip"))
  ("/Users/wangqun/.emacs.d/lisp/custom.el" . 27)
- ("/Users/wangqun/.emacs.d/lisp/init-keybindings.el" . 1507)
  ("/Users/wangqun/.emacs.d/lisp/init-better-defaults.el" . 1723)
  ("/Users/wangqun/.emacs.d/init.el" . 1350)
- ("/Users/wangqun/.spacemacs" . 2402)
- ("/Users/wangqun/"
-  (dired-filename . "/Users/wangqun/.CFUserTextEncoding"))
  ("/Users/wangqun/org/sec.org" . 210)
  ("/Users/wangqun/.emacs.d/elpa/evil-20180126.1159/evil-core.el" . 8183)
  ("/usr/local/Cellar/emacs-plus/25.3/share/emacs/25.3/etc/HELLO" . 2851)
@@ -32,7 +33,6 @@
  ("/Users/wangqun/DEV/"
   (dired-filename . "/Users/wangqun/DEV/hipython"))
  ("/Users/wangqun/DEV/hipython/" . 633)
- ("/Users/wangqun/.emacs.d/lisp/init-ui.el" . 218)
  ("/Users/wangqun/.emacs.d/"
   (dired-filename . "/Users/wangqun/.emacs.d/turtletaro.el"))
  ("/Users/wangqun/.emacs.d/layers/"

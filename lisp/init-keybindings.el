@@ -39,4 +39,7 @@
 ;(global-set-key (kbd "C-c k m") 'which-key-show-keymap)
 (global-set-key (kbd "C-c c j") 'helm-do-ag-project-root)
 
+(global-set-key (kbd "C-w") 'backward-kill-word)
+(global-set-key (kbd "C-k") 'delete-backward-char)
+
 (provide 'init-keybindings) 
