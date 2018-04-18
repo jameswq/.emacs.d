@@ -8,6 +8,7 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/wangqun/.emacs.d/layers/+emacs/better-defaults/"
  "/Users/wangqun/.emacs.d/lisp/"
  "/Users/wangqun/.emacs.d/"
 )
@@ -19,6 +20,8 @@
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/Users/wangqun/.emacs.d/layers/+emacs/better-defaults/" (23232 31411 856092 811000) "funcs.el" "README.org" "img/" "config.el" "packages.el" "keybindings.el" "../" "./")
+
  ("/Users/wangqun/.emacs.d/lisp/" (23252 21802 475323 798000) "init-org.el" "init-better-defaults.el" "init-ui.el" "init-keybindings.el" "init-org.elc" "init-ui.elc" "init-better-defaults.elc" "custom.el" "init-packages.el" ".DS_Store" "init-packages.elc" "../" "./")
 
  ("/Users/wangqun/.emacs.d/" (23249 58041 185610 414000) "plus/" ".cache/" "assets/" ".git/" "CHANGELOG.org" "elpa/" "doc/" "spacemacs.mk" "gtd.org" ".gitattributes" "private/" ".gitignore" "news/" "pic/" "turtletaro.el" "README.md" "init.el" "COMMUNITY.org" "layers/" "core/" "CONTRIBUTING.org" "eshell/" "smex-items" ".DS_Store" "lisp/" "turtletaro.org" "snippets/" "../" "./")

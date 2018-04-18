@@ -86,3 +86,14 @@ git commit -m "fixed"
 git different
 git diff 
 exit
+cd project/
+ls
+cd 中远海集团-2017-航标移动应用开发项目/
+ls
+cd 2.\ 设计阶段/
+ls
+svn add 航运管理信息标准化平台移动应用项目-详细设计说明书.doc 
+svn ci 航运管理信息标准化平台移动应用项目-详细设计说明书.doc -m "新增详细设计说明书"
+cd .emacs.d/
+ls
+git remote -v

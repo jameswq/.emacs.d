@@ -44,19 +44,11 @@
 
 (require 'which-key)
 
-(require 'elpy)
-(setq elpy-rpc-python-command "python3")
-(setq python-shell-interpreter "ipython3")
+;(require 'elpy)
+;(setq elpy-rpc-python-command "python3")
+;(setq python-shell-interpreter "ipython3")
 ;(setq pyvenv-virtualenvwrapper-python "/usr/local/bin/python3")
-(elpy-enable)
-
-(add-hook 'js2-mode-hook 'flycheck-mode t)
-
-;(yas-reload-all)
-;(add-hook 'prog-mode-hook #'yas-minor-mode)
-
-;(evil-mode 1)
-;(setq evil-want-C-u-scroll t)
-
+(require 'erc-social-graph)
+(erc-social-graph-enable)
  
 (provide 'init-packages)
