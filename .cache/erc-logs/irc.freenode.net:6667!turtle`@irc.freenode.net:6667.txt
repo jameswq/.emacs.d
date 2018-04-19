@@ -1,0 +1,303 @@
+
+[Thu Apr 19 2018]
+*** Nickname turtle is already in use, trying turtle`                   [09:09]
+*** Welcome to the freenode Internet Relay Chat Network turtle`
+*** Your host is hitchcock.freenode.net[130.185.232.126/6667], running version
+    ircd-seven-1.1.5
+*** This server was created Tue Dec 12 2017 at 21:10:35 UTC
+*** hitchcock.freenode.net ircd-seven-1.1.5 DOQRSZaghilopswz
+    CFILMPQSbcefgijklmnopqrstvz
+*** CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz
+    CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode
+    KNOCK STATUSMSG=@+ CALLERID=g are supported by this server
+*** CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390
+    ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC
+    TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR:
+    are supported by this server
+*** EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU are supported by this
+    server
+*** There are 118 users and 88077 invisible on 33 servers
+*** 26 operator(s) online
+*** 107 unknown connection(s)
+*** 51556 channels formed
+*** I have 4541 clients and 1 servers
+*** Current local users 4541, max 5963
+*** Current global users 88195, max 96964
+*** Highest connection count: 5964 (5963 clients) (1359276 connections
+    received)
+*** -  
+*** - Welcome to hitchcock.freenode.net in Sofia, Bulgaria, EU, kindly
+    sponsored by
+*** - Neterra Communications (www.neterra.net)
+*** -  
+*** - HITCHCOCK, SIR ALFRED [1899 - 1980] Born in Essex,
+*** - England, Sir Alfred Hitchcock was a noted film director
+*** - and producer. Over a long career he pioneered many modern
+*** - techniques in film-making, made more than 50 feature films,
+*** - and influenced many present-day directors and producers.
+*** -  
+*** - Welcome to freenode - supporting the free and open source
+*** - software communities since 1998.
+*** -  
+*** - By connecting to freenode you indicate that you have read and
+*** - accept our policies and guidelines as set out on https://freenode.net
+*** -  
+*** - In the event that you observe behaviour that contravenes our policies,
+*** - please notify a volunteer staff member via private message, or send us
+    an
+*** - e-mail to complaints@freenode.net -- we will do our best to address the
+*** - situation within a reasonable period of time, and we may request further
+*** - information or, as appropriate, involve other parties such as channel
+    operators 
+*** - Group Contacts representing an on-topic group.
+*** -  
+*** - freenode runs an open proxy scanner.
+*** -  
+*** - If you are looking for assistance, you will be able to find a list of
+*** - volunteer staff using the '/who freenode/staff/*' command, and you may
+*** - message any of us at any time. Please note that freenode predominantly
+*** - provides assistance via private message, and while we have a network
+*** - channel the primary venue for support requests is via private message to
+*** - a member of the volunteer staff team.
+*** -  
+*** - From time to time, volunteer staff may send server-wide notices relating
+    to
+*** - the project, or the communities that we host. The majority of such
+    notices
+*** - will be sent as wallops, and you can '/mode <yournick> +w' to ensure
+    that you
+*** - do not miss them. Important messages relating to the freenode project,
+    including
+*** - notices of upcoming maintenance and other scheduled downtime will be
+    issued as
+*** - global notices.
+*** -  
+*** - Representing an on-topic project? Don't forget to register, more
+    information
+*** - can be found on the https://freenode.net website under "Group
+    Registration".
+*** -  
+*** - freenode organises an annual conference, and we would like to extend our
+*** - thanks to the attendees, exhibitors and speakers who made freenode #live
+    2017
+*** - possible. And of course, our generous sponsors: Bytemark, Canonical
+    (Ubuntu),
+*** - Falanx Cyber Security, Private Internet Access and Yubico for footing
+    the bill.
+*** -  
+*** - Thank you also to our server sponsors for the sustained support in
+    keeping the
+*** - network going for close to two decades.
+*** -  
+*** - freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call
+    for
+*** - Proposals is live at https://freenode.live and open until July 31, 2018.
+    If 
+*** - you are interested in sponsoring this event, please send an e-mail to
+*** - sponsor@freenode.live
+*** -  
+*** - Thank you for using freenode!
+*** -  
+*** -  
+*** End of /MOTD command.
+*** turtle` has changed mode for turtle` to +i
+
+[Thu Apr 19 2018]
+*** Nickname turtle is already in use, trying turtle`                   [09:11]
+*** Welcome to the freenode Internet Relay Chat Network turtle`
+*** Your host is hobana.freenode.net[81.18.73.123/6667], running version
+    ircd-seven-1.1.5
+*** This server was created Wed Jan 24 2018 at 21:31:07 UTC
+*** hobana.freenode.net ircd-seven-1.1.5 DOQRSZaghilopswz
+    CFILMPQSbcefgijklmnopqrstvz
+*** CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz
+    CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode
+    KNOCK STATUSMSG=@+ CALLERID=g are supported by this server
+*** CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390
+    ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC
+    TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR:
+    are supported by this server
+*** EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU are supported by this
+    server
+*** There are 118 users and 88076 invisible on 33 servers
+*** 26 operator(s) online
+*** 31 unknown connection(s)
+*** 51543 channels formed
+*** I have 4432 clients and 1 servers
+*** Current local users 4432, max 5496
+*** Current global users 88194, max 96965
+*** Highest connection count: 5497 (5496 clients) (387119 connections
+    received)
+*** - Welcome to hobana.freenode.net in Bucharest, Romania! Thank
+*** - you to RCS-RDS for sponsoring this server!
+*** -  
+*** - Ion Hobana (1931-2011) was a Romanian science fiction writer,
+*** - literary critic and ufologist. Ion Hobana is a literary
+*** - pseudonym, the writer's real name being Aurelian Manta Rosie.
+*** -  
+*** - Welcome to freenode - supporting the free and open source
+*** - software communities since 1998.
+*** -  
+*** - By connecting to freenode you indicate that you have read and
+*** - accept our policies and guidelines as set out on https://freenode.net
+*** -  
+*** - In the event that you observe behaviour that contravenes our policies,
+*** - please notify a volunteer staff member via private message, or send us
+    an
+*** - e-mail to complaints@freenode.net -- we will do our best to address the
+*** - situation within a reasonable period of time, and we may request further
+*** - information or, as appropriate, involve other parties such as channel
+    operators 
+*** - Group Contacts representing an on-topic group.
+*** -  
+*** - freenode runs an open proxy scanner.
+*** -  
+*** - If you are looking for assistance, you will be able to find a list of
+*** - volunteer staff using the '/who freenode/staff/*' command, and you may
+*** - message any of us at any time. Please note that freenode predominantly
+*** - provides assistance via private message, and while we have a network
+*** - channel the primary venue for support requests is via private message to
+*** - a member of the volunteer staff team.
+*** -  
+*** - From time to time, volunteer staff may send server-wide notices relating
+    to
+*** - the project, or the communities that we host. The majority of such
+    notices
+*** - will be sent as wallops, and you can '/mode <yournick> +w' to ensure
+    that you
+*** - do not miss them. Important messages relating to the freenode project,
+    including
+*** - notices of upcoming maintenance and other scheduled downtime will be
+    issued as
+*** - global notices.
+*** -  
+*** - Representing an on-topic project? Don't forget to register, more
+    information
+*** - can be found on the https://freenode.net website under "Group
+    Registration".
+*** -  
+*** - freenode organises an annual conference, and we would like to extend our
+*** - thanks to the attendees, exhibitors and speakers who made freenode #live
+    2017
+*** - possible. And of course, our generous sponsors: Bytemark, Canonical
+    (Ubuntu),
+*** - Falanx Cyber Security, Private Internet Access and Yubico for footing
+    the bill.
+*** -  
+*** - Thank you also to our server sponsors for the sustained support in
+    keeping the
+*** - network going for close to two decades.
+*** -  
+*** - freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call
+    for
+*** - Proposals is live at https://freenode.live and open until July 31, 2018.
+    If 
+*** - you are interested in sponsoring this event, please send an e-mail to
+*** - sponsor@freenode.live
+*** -  
+*** - Thank you for using freenode!
+*** -  
+*** -  
+*** End of /MOTD command.
+*** turtle` has changed mode for turtle` to +i
+
+[Thu Apr 19 2018]
+*** Nickname turtle is already in use, trying turtle`                   [18:01]
+*** Welcome to the freenode Internet Relay Chat Network turtle`
+*** Your host is adams.freenode.net[94.125.182.252/6667], running version
+    ircd-seven-1.1.5
+*** This server was created Fri Jan 12 2018 at 18:47:41 UTC
+*** adams.freenode.net ircd-seven-1.1.5 DOQRSZaghilopswz
+    CFILMPQSbcefgijklmnopqrstvz
+*** CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz
+    CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode
+    KNOCK STATUSMSG=@+ CALLERID=g are supported by this server
+*** CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390
+    ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC
+    TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR:
+    are supported by this server
+*** EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU are supported by this
+    server
+*** There are 120 users and 92205 invisible on 33 servers
+*** 25 operator(s) online
+*** 23 unknown connection(s)
+*** 52116 channels formed
+*** I have 4764 clients and 1 servers
+*** Current local users 4764, max 5750
+*** Current global users 92325, max 96965
+*** Highest connection count: 5751 (5750 clients) (609153 connections
+    received)
+*** - Welcome to adams.freenode.net. Thanks to ATW Internet Kft 
+*** - (http://www.atw.hu) for sponsoring this server!
+*** -  
+*** - ADAMS, DOUGLAS (1952-2001).  Author of The Hitch Hikers Guide
+*** - to the Galaxy and many other witty and humourous books,
+*** - portrayed in his uniquely British irony. He is sorely missed
+*** - by many millions of devoted fans. "So long and thanks for all
+*** - the books!"
+*** -  
+*** - Welcome to freenode - supporting the free and open source
+*** - software communities since 1998.
+*** -  
+*** - By connecting to freenode you indicate that you have read and
+*** - accept our policies and guidelines as set out on https://freenode.net
+*** -  
+*** - In the event that you observe behaviour that contravenes our policies,
+*** - please notify a volunteer staff member via private message, or send us
+    an
+*** - e-mail to complaints@freenode.net -- we will do our best to address the
+*** - situation within a reasonable period of time, and we may request further
+*** - information or, as appropriate, involve other parties such as channel
+    operators 
+*** - Group Contacts representing an on-topic group.
+*** -  
+*** - freenode runs an open proxy scanner.
+*** -  
+*** - If you are looking for assistance, you will be able to find a list of
+*** - volunteer staff using the '/who freenode/staff/*' command, and you may
+*** - message any of us at any time. Please note that freenode predominantly
+*** - provides assistance via private message, and while we have a network
+*** - channel the primary venue for support requests is via private message to
+*** - a member of the volunteer staff team.
+*** -  
+*** - From time to time, volunteer staff may send server-wide notices relating
+    to
+*** - the project, or the communities that we host. The majority of such
+    notices
+*** - will be sent as wallops, and you can '/mode <yournick> +w' to ensure
+    that you
+*** - do not miss them. Important messages relating to the freenode project,
+    including
+*** - notices of upcoming maintenance and other scheduled downtime will be
+    issued as
+*** - global notices.
+*** -  
+*** - Representing an on-topic project? Don't forget to register, more
+    information
+*** - can be found on the https://freenode.net website under "Group
+    Registration".
+*** -  
+*** - freenode organises an annual conference, and we would like to extend our
+*** - thanks to the attendees, exhibitors and speakers who made freenode #live
+    2017
+*** - possible. And of course, our generous sponsors: Bytemark, Canonical
+    (Ubuntu),
+*** - Falanx Cyber Security, Private Internet Access and Yubico for footing
+    the bill.
+*** -  
+*** - Thank you also to our server sponsors for the sustained support in
+    keeping the
+*** - network going for close to two decades.
+*** -  
+*** - freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call
+    for
+*** - Proposals is live at https://freenode.live and open until July 31, 2018.
+    If 
+*** - you are interested in sponsoring this event, please send an e-mail to
+*** - sponsor@freenode.live
+*** -  
+*** - Thank you for using freenode!
+*** -  
+*** -  
+*** End of /MOTD command.
+*** turtle` has changed mode for turtle` to +i

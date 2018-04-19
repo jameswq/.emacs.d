@@ -1,0 +1,89 @@
+
+[Thu Apr 19 2018]
+*** You have joined channel #playonlinux                                [18:49]
+*** Topic for #playonlinux: PlayOnLinux and PlayOnMac Official IRC |
+    http://www.playonlinux.com/ http://www.playonmac.com/ | Latest version:
+    4.2.10 | Please speak English or French | We do not support piracy. |
+    Don't ask if you may ask, just ask. | We do not respond always
+    immediately, please be patient.
+*** #playonlinux: topic set by
+    pango!~petchema@ABordeaux-655-1-142-114.w86-213.abo.wanadoo.fr, 2016-01-12
+    03:07:58
+*** Users on #playonlinux: taro malevolent Yepoleb Darcidride Jonno_FTW
+    Ericounet kimitux PulseAsio Khead mek42 FoolishBrantley hanetzer Mindi
+    Freejack sonicpp sarka ced117 nh2[m] abreu[m] mac_ SpeakerToMeat npanic
+    malinator sarnex Tarius TariusWork TheSilentLink Yugo Cork yarre Raku
+    yawkat xeroks SolarAquarion dobson` freakyy pitastrudl @ChanServ Crash-1
+    hagabaka jwhite RJ45 APLU xiaopi[z]
+<taro> hi ,any body here?                                               [18:51]
+*** #playonlinux modes: +cnt
+*** #playonlinux was created on 2010-01-29 07:57:48
+<taro> this is my first chat with erc                                   [18:52]
+*** #sunpy: You're not on that channel
+*** #playonlinux taro       H    ~user@180.175.178.178 (unknown)
+*** #playonlinux malevolent H    ~quassel@192.146.172.118 (malevolent)
+*** #playonlinux Yepoleb    H
+    ~yepoleb@91-115-119-30.adsl.highway.telekom.at (Gabriel)
+*** #playonlinux Darcidride H    ~Darcidrid@194.2.202.93 (Darcidride__)
+*** #playonlinux Jonno_FTW  H    ~come@zion.sx (Segwinton Buttsworthy)
+*** #playonlinux Ericounet  H    ~Eric@2a01:e0a:54:c220:20e1:e950:ca4e:9bb5
+    (realname)
+*** #playonlinux kimitux    H    ~michael@p4FCFB7C8.dip0.t-ipconnect.de (-)
+*** #playonlinux PulseAsio  H
+    ~PulseAsio@dw7724211510.amsterdam-tc.dataweb.net (realname)
+*** #playonlinux Khead      H    ~manjaro-g@72.187.189.212 (realname)
+*** #playonlinux mek42      H
+    ~quassel@2604:6000:1418:c19b:9292:dd72:aacc:dac8 (Quassel IRC User)
+*** #playonlinux FoolishBrantley H
+    FoolishBra@gateway/vpn/privateinternetaccess/foolishbrantley (Bored
+    AsHellion)
+*** #playonlinux hanetzer   H    ~hanetzer@unaffiliated/ntzrmtthihu777
+    (hanetzer)
+*** #playonlinux Mindi      H    ~Mindi@mindinet.org (Mindi)
+*** #playonlinux Freejack   H    ~quassel@unaffiliated/freejack (freejack)
+*** #playonlinux sonicpp    H    ~jan@ip-89-176-251-2.net.upcbroadband.cz (Jan
+    Havran)
+*** #playonlinux sarka      H    sarka@kapsi.fi (heman)
+*** #playonlinux ced117     H    ~ced117@opensuse/member/ced117 (Cedric
+    Heintz)
+*** #playonlinux nh2[m]     H
+    nh2matrixo@gateway/shell/matrix.org/x-pxycqgwyjsfvddac (@nh2:matrix.org)
+*** #playonlinux abreu[m]   H
+    abreumatri@gateway/shell/matrix.org/x-cvxfwazjqbjkkwud (@abreu:matrix.org)
+*** #playonlinux mac_       H    ~quassel@2a00:1e88:8:8::53 (Pavel Ivanov)
+*** #playonlinux SpeakerToMeat H    ~SpeakerTo@prgmr/customer/SpeakerToMeat
+    (Speaker To Meat)
+*** #playonlinux npanic     G    ~npanic@mail.kmpt.nz (Acidhunter)
+*** #playonlinux malinator  H    ~malinator@unaffiliated/malinator (malinator)
+*** #playonlinux sarnex     G    ~sarnex@unaffiliated/sarnex (Nick Sarnie)
+*** #playonlinux Tarius     G    ~Tarius@unaffiliated/tarius (purple)
+*** #playonlinux TariusWork G    ~Tarius@unaffiliated/tarius (David Tarius)
+*** #playonlinux TheSilentLink G    ~TheSilent@unaffiliated/thesilentlink
+    (realname)
+*** #playonlinux Yugo       H    ~Yugo@163.172.59.80 (Yugo)
+*** #playonlinux Cork       H    ~Cork@firefox/community/cork (Cork)
+*** #playonlinux yarre      H
+    uid37501@gateway/web/irccloud.com/x-vdmtvafcuobaenxp (gkeen)
+*** #playonlinux Raku       G    ~raku@2601:2c7:4300:1b00:230:48ff:fe32:d99f
+    (raku)
+*** #playonlinux yawkat     H    ~yawkat@cats.coffee (Jonas Konrad)
+*** #playonlinux xeroks     H
+    xeroks@gateway/shell/firrre/x-cqqeyrxskibcbyaq (xeroks)
+*** #playonlinux SolarAquarion H
+    SolarAquar@gateway/shell/panicbnc/x-cuxdqjztueuvenbf (Mechanical Angel
+    Aquarion)
+*** #playonlinux dobson`    H    ~dobson@68.ip-149-56-14.net (dobson)
+*** #playonlinux freakyy    H    ~uwe@baby.freakyonline.de (Uwe)
+*** #playonlinux pitastrudl H    ~quassel@unaffiliated/pitastrudl (pitastrudl)
+*** #playonlinux ChanServ   H@   ChanServ@services. (Channel Services)
+*** #playonlinux Crash-1    G    ~Crash-1@104.131.48.176 (Bacon)
+*** #playonlinux hagabaka   G
+    hagabaka@gateway/shell/firrre/x-xfzeyncucuidmdgx (hagabaka)
+*** #playonlinux jwhite     H    ~jwhite@foghorn.codeweavers.com (Jeremy
+    White)
+*** #playonlinux RJ45       H
+    ~GPRS@cpc128850-harb10-2-0-cust723.know.cable.virginm.net (RJ45)
+*** #playonlinux APLU       H    ~mulx@eva.aplu.fr (Aymeric (and you lost the
+    game))
+*** #playonlinux xiaopi[z]  H    ~xiaopiz]@212.83.151.174 (Xiaopi)
+*** #SunPy: You're not on that channel                                  [18:53]

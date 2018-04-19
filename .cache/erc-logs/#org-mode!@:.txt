@@ -1,0 +1,34 @@
+
+[Thu Apr 19 2018]
+*** You have joined channel #org-mode                                   [18:07]
+*** Topic for #org-mode: Emacs org-mode: http://orgmode.org
+*** #org-mode: topic set by johnw, 2009-10-21 06:20:22
+*** Users on #org-mode: taro ur5us d-sha thc202 kenzo obrowny csantosb bokuno
+    johnw MoziM isokee krishnab tecepe d4ryus1 Stromeko cliluw drymer mgaare
+    Gianormagantrous Thaodan average thomases markus1189 n2o4 ineiros
+    bennofs[m] Hasimir TheAdversary cybrNaut armyriad fsbot BerntH |Rain| sm
+    jeapostrophe francisv epony zjason budric[m] caseypme[m] jkamat
+    Zorroness[m] rgaiacs[m] taohansen ywecur[m] r3vlibre[m] sielicki
+    kenbolton[m] rhololkeolke[m] RainSlide[m] mm-[m] blackorzar hiq[m]
+*** Users on #org-mode: zestyflout kumori[m] Lexi[m] uhoreg h_ndrik[m]
+    mantlepro[m] kar1[m] lycium[m] randomenduser[m] mesopotamian[m] adamdecaf
+    arbv ndk_ cow_2001 divansantana hiroshi easye bimawa2 zacts bgardner
+    heroxbd boudiccas homerj YoungFrog clearcasting jandrusk nottwo carlf
+    sealibora giraffe shwouchk iclon hodapp malm ldlework pilcrow _flow_
+    Dr_Jazz rizary davdunc adx Sentreen zeltak fxlt stiell dredozubov correl
+    lino wwkeyboard adulteratedjedi p_l epic gendl dashed
+*** Users on #org-mode: fowlduck peder mns bazz distopico Spr0cket jrm remote
+    lin_ Chobbes parsnip st_iron frobnic juhaj quicksilver Madars fusta
+    gnusosa swflint adherzog detrout vsync b-v- benonsoftware kini jhulten
+    hlieberman avdi sveit szgyg Orbstheorem amosbird Intensity les
+    copypasteque snw karthik elik irfus realitygaps alixir rick42 fasheng
+    bremner Uni Demosthenex kleinmann eising d4gg4d_ petrichor houli aspiers
+    jer0me nibbling azahi gko mister_zombie ibex cbaines x42
+*** Users on #org-mode: CosmicRay boblefrag dustinm ecraven threeve aijony
+    socialli2e finster fiete m00n jgkamat ghost64 Twist Savemech Spartanpalace
+    timvisher ozzloy gnomon funnel madix tg chu iderrick bigfondue beuwolf
+    sociallife bjonnh mikearr
+*** #org-mode modes: +cnt
+*** #org-mode was created on 2010-01-30 15:48:24
+*** TheWolf (~TheWolf@pD95D8DFA.dip0.t-ipconnect.de) has joined channel
+    #org-mode                                                           [18:14]

@@ -1,0 +1,12 @@
+
+[Thu Apr 19 2018]
+*** You have joined channel #emacs-berlin                               [09:01]
+*** Topic for #emacs-berlin: Welcome to EmacsBerlin, if you have questions
+    stick around for a bit or ping user ndrst. You can also ask them on our
+    mailing list, details can be found here: http://emacs-berlin.org/
+*** #emacs-berlin: topic set by ndrst!~ndrst@2a01:4f8:130:53ec::2, 2017-02-25
+    21:58:32
+*** Users on #emacs-berlin: turtletaro mnemonikk moeC137[m] hiroshi mntmn
+    ndrst cmn hoek
+*** #emacs-berlin modes: +cnt
+*** #emacs-berlin was created on 2014-03-25 18:51:15

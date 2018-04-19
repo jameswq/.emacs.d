@@ -50,5 +50,7 @@
 ;(setq pyvenv-virtualenvwrapper-python "/usr/local/bin/python3")
 (require 'erc-social-graph)
 (erc-social-graph-enable)
- 
+
+(require 'erc)
+
 (provide 'init-packages)

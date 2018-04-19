@@ -1,0 +1,402 @@
+
+[Thu Apr 19 2018]
+*** You have joined channel #SunPy                                      [18:20]
+*** Topic for #SunPy: Python for Solar Physics Data Analysis - www.sunpy.org -
+    Join us on Matrix: https://riot.im/app/#/room/#sunpy:matrix.org
+*** #SunPy: topic set by DrCadair!~DrCadair@unaffiliated/cadair, 2018-01-10
+    00:23:52
+*** Users on #SunPy: taro mefistofeles MatrixTraveler[m yashkgp1[m]
+    joellama[m] matrixbotGitter[ RSSBot[Cadairmat shanalii[m] khaledali[m]
+    turt2live Stuart[m] Cadair jjrugui[m] DominikStaczak[m anish_kumar[m]
+    himanshukgp[m] slackbot[m] codebot[m] itachi_uchiha_ SolarBoy[m] Kolja[m]
+    ashwins[m] shelbej[m] wafels[m] priyanshu1571[m] shreyasbapat[m]
+    bryantl[m] ajit[m] wtbarnes[m] wafels_has_forgo jcmo[m] shivamsaboo17[m]
+    bsipocz alkesh47[m] pratere[m] abit2[m] chicrala[m] SSavage[m]
+*** Users on #SunPy: rajul[m] gitterbot[m] DavidPS[m] ankandas[m] jerin[m]
+    nitinkgp23[m] gulshan_mittal[m CyclingNinja[m] AustereCuriosity
+    prateekiiest[m] sushobhana[m] maddouglas[m] woinck[m] Alex_Ian_Hamilto
+    deadzero[m] NickMurphy[m] darkstarmanny[m] SwapnilSharma[m] ehsteve[m]
+    mianto[m] yudhik[m] yashkgp[m] elastufka[m] alisdair[m] ayshih[m]
+    dev_ansh9[m] roaa108[m] dstansby[m] grenko[m] astrojuanlu[m] alirizwi[m]
+    lok[m] shresthverma[m] sudom0nk[m] johnpi[m] lohani2280[m]1
+*** Users on #SunPy: mbobra[m] vn-ki[m] hzxusx[m] sr6033[m] mundada[m]
+    fraserwatson[m] Github[m] agy[m] RSSBot[cadaircad abhigyan_bose[m]
+    tannmay[m] raghavarora1[m] sanjeevdubey[m] DanRyan37[m] jdslavin[m] skk[m]
+    jmason86[m] SolarDrew[m] Nabobalis wmiao[m] cmolina[m] ritiek[m]
+    Github[Cadairmat vso_jacob[m] astrofrog[m]1 __name__ @ChanServ
+*** #SunPy modes: +t
+*** #SunPy was created on 2011-07-27 22:32:18
+<taro> hi 
+<vn-ki[m]> python powered? Is it slow?
+<Cadair> hey
+<Cadair> no
+<Cadair> it's more than fast enough for me
+<vn-ki[m]> I'll have to give it a try. This would make writing scripts easy as
+           pie.                                                         [18:21]
+*** #SunPy      taro       H    ~user@58.247.171.165 (unknown)          [18:30]
+*** #SunPy      mefistofeles G    ~mefistofe@unaffiliated/mefistofeles (nile)
+*** #SunPy      MatrixTraveler[m H
+    voyagert2b@gateway/shell/matrix.org/x-qgbtulerjsbckzhx (@voyager:t2bot.io)
+*** #SunPy      yashkgp1[m] H
+    yashkgp1ma@gateway/shell/matrix.org/x-fsxeejqzlksefjzl
+    (@yashkgp1:matrix.org)
+*** #SunPy      joellama[m] H
+    joellamama@gateway/shell/matrix.org/x-ybwafvepfyyjwjdw
+    (@joellama:matrix.org)
+*** #SunPy      matrixbotGitter[ H
+    gittermatr@gateway/shell/matrix.org/x-fpnpqbiftdnzybyi
+    (@gitter_matrixbot:matrix.org)
+*** #SunPy      RSSBot[Cadairmat H
+    nebrssbo7@gateway/shell/matrix.org/x-kptcwyqacngfbpdb
+    (@_neb_rssbot_=40_cadair=3amatrix.org:matrix.org)
+*** #SunPy      shanalii[m] H
+    shanaliima@gateway/shell/matrix.org/x-zqnswvkiiqrooueo
+    (@shanalii:matrix.org)
+*** #SunPy      khaledali[m] H
+    khaledalim@gateway/shell/matrix.org/x-hylsizrpkabsncgq
+    (@khaledali:matrix.org)
+*** #SunPy      turt2live  H
+    travist2li@gateway/shell/matrix.org/x-ccuroonzerphrwfo (@travis:t2l.io)
+*** #SunPy      Stuart[m]  H
+    cadairmatr@gateway/shell/matrix.org/x-xpzmmuirweplllpo
+    (@Cadair:matrix.org)
+*** #SunPy      Cadair     H
+    cadaircada@gateway/shell/matrix.org/x-lhlecufxnknbfjdt
+    (@cadair:cadair.com)
+*** #SunPy      jjrugui[m] H
+    jjruguimat@gateway/shell/matrix.org/x-ervlmqjhvcwkmjjh
+    (@jjrugui:matrix.org)
+*** #SunPy      DominikStaczak[m H
+    stanczakdo@gateway/shell/matrix.org/x-msgaemjcyguuggsd
+    (@StanczakDominik:matrix.org)
+*** #SunPy      anish_kumar[m] H
+    anishkumar@gateway/shell/matrix.org/x-akwtqjbynieaaolz
+    (@anish_kumar:matrix.org)
+*** #SunPy      himanshukgp[m] H
+    himanshukg@gateway/shell/matrix.org/x-njiyciqnxtiapizp
+    (@himanshukgp:matrix.org)
+*** #SunPy      slackbot[m] H
+    slackbotma@gateway/shell/matrix.org/x-ijcsmogojhehaqxo
+    (@slackbot:matrix.org)
+*** #SunPy      codebot[m] H
+    codebotmat@gateway/shell/matrix.org/x-oojspyuzbgdknbch
+    (@codebot:matrix.org)
+*** #SunPy      itachi_uchiha_ H
+    itachiuchi@gateway/shell/matrix.org/x-hdbeobbopgvblwwk
+    (@itachi_uchiha_:matrix.org)
+*** #SunPy      SolarBoy[m] H
+    solarboyma@gateway/shell/matrix.org/x-zxtdxluabzkbybjl
+    (@SolarBoy:matrix.org)
+*** #SunPy      Kolja[m]   H
+    kbgmatrixo@gateway/shell/matrix.org/x-iytuohiwvheqxiif (@kbg:matrix.org)
+*** #SunPy      ashwins[m] H
+    ashwinsmat@gateway/shell/matrix.org/x-pacnudfyaxgukiyj
+    (@ashwins:matrix.org)
+*** #SunPy      shelbej[m] H
+    shelbejmat@gateway/shell/matrix.org/x-cyugqsvpzqtnlloz
+    (@shelbej:matrix.org)
+*** #SunPy      wafels[m]  H
+    wafelsmatr@gateway/shell/matrix.org/x-flqmyzepthioouse
+    (@wafels:matrix.org)
+*** #SunPy      priyanshu1571[m] H
+    priyanshu1@gateway/shell/matrix.org/x-uqecvnwkxvqwyemz
+    (@priyanshu1571:matrix.org)
+*** #SunPy      shreyasbapat[m] H
+    shreyasbap@gateway/shell/matrix.org/x-nmgcypxukfikagtx
+    (@shreyasbapat:matrix.org)
+*** #SunPy      bryantl[m] H
+    bryantlmat@gateway/shell/matrix.org/x-xjakanykvliqugss
+    (@bryantl:matrix.org)
+*** #SunPy      ajit[m]    H
+    ajitmatrix@gateway/shell/matrix.org/x-ectflsotsxvhoglr (@ajit:matrix.org)
+*** #SunPy      wtbarnes[m] H
+    wtbarnesma@gateway/shell/matrix.org/x-alawijtxdxtwnkar
+    (@wtbarnes:matrix.org)
+*** #SunPy      wafels_has_forgo H
+    wafelshasf@gateway/shell/matrix.org/x-kztvagiocgchagrv
+    (@wafels_has_forgotten_his_password:matrix.org)
+*** #SunPy      jcmo[m]    H
+    jcmomatrix@gateway/shell/matrix.org/x-thccwmuiwerblsdz (@jcmo:matrix.org)
+*** #SunPy      shivamsaboo17[m] H
+    shivamsabo@gateway/shell/matrix.org/x-ctxkylgjxcaqalmc
+    (@shivamsaboo17:matrix.org)
+*** #SunPy      bsipocz    H
+    bsipoczmat@gateway/shell/matrix.org/x-sexmadfkgbzfrlmd
+    (@bsipocz:matrix.org)
+*** #SunPy      alkesh47[m] H
+    alkesh47ma@gateway/shell/matrix.org/x-stfjqtjmtdxtepya
+    (@alkesh47:matrix.org)
+*** #SunPy      pratere[m] H
+    prateremat@gateway/shell/matrix.org/x-jxpxlhlwxzctxsqh
+    (@pratere:matrix.org)
+*** #SunPy      abit2[m]   H
+    abit2matri@gateway/shell/matrix.org/x-dmyzjcmomvxfmhjo (@abit2:matrix.org)
+*** #SunPy      chicrala[m] H
+    chicralama@gateway/shell/matrix.org/x-gxyonaewqciauzey
+    (@chicrala:matrix.org)
+*** #SunPy      SSavage[m] H
+    ssavagemat@gateway/shell/matrix.org/x-snkzrlhvytkkffmy
+    (@SSavage:matrix.org)
+*** #SunPy      rajul[m]   H
+    rajulmatri@gateway/shell/matrix.org/x-gjdtnjaylgzjsusb (@rajul:matrix.org)
+*** #SunPy      gitterbot[m] H
+    gitterbotm@gateway/shell/matrix.org/x-hbkuhtmhhqfgxita
+    (@gitterbot:matrix.org)
+*** #SunPy      DavidPS[m] H
+    davidpsmat@gateway/shell/matrix.org/x-ethstjokghprrwzu
+    (@DavidPS:matrix.org)
+*** #SunPy      ankandas[m] H
+    ankandasma@gateway/shell/matrix.org/x-qhootlavpuywommd
+    (@ankandas:matrix.org)
+*** #SunPy      jerin[m]   H
+    jerinmatri@gateway/shell/matrix.org/x-otddpgjoccbryiws (@jerin:matrix.org)
+*** #SunPy      nitinkgp23[m] H
+    nitinkgp23@gateway/shell/matrix.org/x-umwmchlegsfrkvrh
+    (@nitinkgp23:matrix.org)
+*** #SunPy      gulshan_mittal[m H
+    gulshanmit@gateway/shell/matrix.org/x-xuuztpmqmucvanrf
+    (@gulshan_mittal:matrix.org)
+*** #SunPy      CyclingNinja[m] H
+    thealgebra@gateway/shell/matrix.org/x-rzbxlxxrmmohfnso
+    (@the_algebraist:matrix.org)
+*** #SunPy      AustereCuriosity H
+    gitteraust@gateway/shell/matrix.org/x-lfxfiuiknjujwjdp
+    (@gitter_austerecuriosity:matrix.org)
+*** #SunPy      prateekiiest[m] H
+    prateekiie@gateway/shell/matrix.org/x-aivyiyebgoicznxi
+    (@prateekiiest:matrix.org)
+*** #SunPy      sushobhana[m] H
+    sushobhana@gateway/shell/matrix.org/x-jfzoxnjhbewttbgn
+    (@sushobhana:matrix.org)
+*** #SunPy      maddouglas[m] H
+    maddouglas@gateway/shell/matrix.org/x-mskwrninrafgirrj
+    (@maddouglas:matrix.org)
+*** #SunPy      woinck[m]  H
+    woinckmatr@gateway/shell/matrix.org/x-npvflbzhqlqydrlp
+    (@woinck:matrix.org)
+*** #SunPy      Alex_Ian_Hamilto H
+    alexianham@gateway/shell/matrix.org/x-uctmhigawuuemrsi
+    (@Alex_Ian_Hamilton:matrix.org)
+*** #SunPy      deadzero[m] H
+    deadzeroma@gateway/shell/matrix.org/x-widluljbaadjfims
+    (@deadzero:matrix.org)
+*** #SunPy      NickMurphy[m] H
+    namurphyma@gateway/shell/matrix.org/x-nlphblxprtpydurv
+    (@namurphy:matrix.org)
+*** #SunPy      darkstarmanny[m] H
+    darkstarma@gateway/shell/matrix.org/x-xbqelscetitoginm
+    (@darkstarmanny:matrix.org)
+*** #SunPy      SwapnilSharma[m] H
+    swapsha96m@gateway/shell/matrix.org/x-lwahiikyjhihnesu
+    (@swapsha96:matrix.org)
+*** #SunPy      ehsteve[m] H
+    ehstevemat@gateway/shell/matrix.org/x-vfngzofggzzwooug
+    (@ehsteve:matrix.org)
+*** #SunPy      mianto[m]  H
+    miantomatr@gateway/shell/matrix.org/x-eobpdtpetyeiggss
+    (@mianto:matrix.org)
+*** #SunPy      yudhik[m]  H
+    yudhikmatr@gateway/shell/matrix.org/x-ydlimjkbvzusaxsa
+    (@yudhik:matrix.org)
+*** #SunPy      yashkgp[m] H
+    yashkgpmat@gateway/shell/matrix.org/x-uvbxfdopsljmzwwc
+    (@yashkgp:matrix.org)
+*** #SunPy      elastufka[m] H
+    elastufkam@gateway/shell/matrix.org/x-rntsnqaxhjbconcs
+    (@elastufka:matrix.org)
+*** #SunPy      alisdair[m] H
+    alisdairma@gateway/shell/matrix.org/x-kqegcbvqwvljilch
+    (@alisdair:matrix.org)
+*** #SunPy      ayshih[m]  H
+    ayshihmatr@gateway/shell/matrix.org/x-zrtshyxzkelegxei
+    (@ayshih:matrix.org)
+*** #SunPy      dev_ansh9[m] H
+    devansh9ma@gateway/shell/matrix.org/x-zhshevrihsuimpeg
+    (@dev_ansh9:matrix.org)
+*** #SunPy      roaa108[m] H
+    roaa108mat@gateway/shell/matrix.org/x-lcwbxgkkmkuwasgo
+    (@roaa108:matrix.org)
+*** #SunPy      dstansby[m] H
+    dstansbyma@gateway/shell/matrix.org/x-tpheybafdbbcyriv
+    (@dstansby:matrix.org)
+*** #SunPy      grenko[m]  H
+    grenkomatr@gateway/shell/matrix.org/x-fjzdlvuavlandyhv
+    (@grenko:matrix.org)
+*** #SunPy      astrojuanlu[m] H
+    astrojuanl@gateway/shell/matrix.org/x-mzspzrargmiiqqzl
+    (@astrojuanlu:matrix.org)
+*** #SunPy      alirizwi[m] H
+    alirizwima@gateway/shell/matrix.org/x-wwvdmjsdsmghztyl
+    (@alirizwi:matrix.org)
+*** #SunPy      lok[m]     H
+    lokmatrixo@gateway/shell/matrix.org/x-pmnglxioapjudwlq (@lok:matrix.org)
+*** #SunPy      shresthverma[m] H
+    shresthver@gateway/shell/matrix.org/x-lfflkqerhjakacim
+    (@shresthverma:matrix.org)
+*** #SunPy      sudom0nk[m] H
+    sudom0nkma@gateway/shell/matrix.org/x-vxplskubrbvaggld
+    (@sudom0nk:matrix.org)
+*** #SunPy      johnpi[m]  H
+    johnpimatr@gateway/shell/matrix.org/x-ogrmlhnwazamwndi
+    (@johnpi:matrix.org)
+*** #SunPy      lohani2280[m]1 H
+    lohani2280@gateway/shell/matrix.org/x-kqbdmzlrknveefmj
+    (@lohani2280:matrix.org)
+*** #SunPy      mbobra[m]  H
+    mbobramatr@gateway/shell/matrix.org/x-kjmmmozqoxoxbwia
+    (@mbobra:matrix.org)
+*** #SunPy      vn-ki[m]   H
+    vn-kimatri@gateway/shell/matrix.org/x-anvgdjhaozqmgkeb (@vn-ki:matrix.org)
+*** #SunPy      hzxusx[m]  H
+    hzxusxmatr@gateway/shell/matrix.org/x-ulkcntzcubdzttvm
+    (@hzxusx:matrix.org)
+*** #SunPy      sr6033[m]  H
+    sr6033matr@gateway/shell/matrix.org/x-sclavliwmderkhmr
+    (@sr6033:matrix.org)
+*** #SunPy      mundada[m] H
+    mundadamat@gateway/shell/matrix.org/x-jjdmevwyhjrwqeyd
+    (@mundada:matrix.org)
+*** #SunPy      fraserwatson[m] H
+    fraserwats@gateway/shell/matrix.org/x-eqlwtrlrpvydbxek
+    (@fraserwatson:matrix.org)
+*** #SunPy      Github[m]  H
+    nebgithubm@gateway/shell/matrix.org/x-mtdotexrpotbfasn
+    (@_neb_github:matrix.org)
+*** #SunPy      agy[m]     H
+    agymatrixo@gateway/shell/matrix.org/x-xxzfikzjlazjfpxc (@agy:matrix.org)
+*** #SunPy      RSSBot[cadaircad H
+    nebrss105@gateway/shell/matrix.org/x-tcvwlpciixsmetej
+    (@_neb_rssbot_=40cadair=3acadair.com:matrix.org)
+*** #SunPy      abhigyan_bose[m] H
+    abhigyanbo@gateway/shell/matrix.org/x-ookxeixmkntbohsz
+    (@abhigyan_bose:matrix.org)
+*** #SunPy      tannmay[m] H
+    tannmaymat@gateway/shell/matrix.org/x-wftqcabrkriakrjn
+    (@tannmay:matrix.org)
+*** #SunPy      raghavarora1[m] H
+    raghavar1@gateway/shell/matrix.org/x-ufonlvxjbohtgekf
+    (@raghavarora1:matrix.org)
+*** #SunPy      sanjeevdubey[m] H
+    sanjeevdub@gateway/shell/matrix.org/x-xzfrjfpvdxseabea
+    (@sanjeevdubey:matrix.org)
+*** #SunPy      DanRyan37[m] H
+    danryan37m@gateway/shell/matrix.org/x-frhuokhpnlwuicap
+    (@DanRyan37:matrix.org)
+*** #SunPy      jdslavin[m] H
+    jdslavinma@gateway/shell/matrix.org/x-rkgzbvpyurwbfgdr
+    (@jdslavin:matrix.org)
+*** #SunPy      skk[m]     H
+    skkmatrixo@gateway/shell/matrix.org/x-lmggdxpbjnfiyicc (@skk:matrix.org)
+*** #SunPy      jmason86[m] H
+    jmason86ma@gateway/shell/matrix.org/x-ttrmhfnqfgzsjdot
+    (@jmason86:matrix.org)
+*** #SunPy      SolarDrew[m] H
+    solardrewm@gateway/shell/matrix.org/x-wsvrcnzyfqmugbrr
+    (@SolarDrew:matrix.org)
+*** #SunPy      Nabobalis  H
+    nabobalism@gateway/shell/matrix.org/x-rvegrnxkqaesqyth
+    (@Nabobalis:matrix.org)
+*** #SunPy      wmiao[m]   H
+    wmiaomatri@gateway/shell/matrix.org/x-lzojxxsycvhqlati (@wmiao:matrix.org)
+*** #SunPy      cmolina[m] H
+    cmolinamat@gateway/shell/matrix.org/x-yhrbjoordpnixosj
+    (@cmolina:matrix.org)
+*** #SunPy      ritiek[m]  H
+    ritiekmatr@gateway/shell/matrix.org/x-vguxrnicbfwbngbr
+    (@ritiek:matrix.org)
+*** #SunPy      Github[Cadairmat H
+    nebgithu6@gateway/shell/matrix.org/x-qeamojxvhmpwbqcs
+    (@_neb_github_=40_cadair=3amatrix.org:matrix.org)
+*** #SunPy      vso_jacob[m] H
+    vsojacobma@gateway/shell/matrix.org/x-zhbwuuktszdanepv
+    (@vso_jacob:matrix.org)
+*** #SunPy      astrofrog[m]1 H
+    astrofrogm@gateway/shell/matrix.org/x-rhkbuevspobfzvjr
+    (@astrofrog:matrix.org)
+*** #SunPy      __name__   G    ~name@sburn/devel/name (Got ZNC?)
+*** #SunPy      ChanServ   H@   ChanServ@services. (Channel Services)
+
+[Thu Apr 19 2018]
+*** You have joined channel #SunPy                                      [18:35]
+*** Topic for #SunPy: Python for Solar Physics Data Analysis - www.sunpy.org -
+    Join us on Matrix: https://riot.im/app/#/room/#sunpy:matrix.org
+*** #SunPy: topic set by DrCadair!~DrCadair@unaffiliated/cadair, 2018-01-10
+    00:23:52
+*** Users on #SunPy: taro mefistofeles MatrixTraveler[m yashkgp1[m]
+    joellama[m] matrixbotGitter[ RSSBot[Cadairmat shanalii[m] khaledali[m]
+    turt2live Stuart[m] Cadair jjrugui[m] DominikStaczak[m anish_kumar[m]
+    himanshukgp[m] slackbot[m] codebot[m] itachi_uchiha_ SolarBoy[m] Kolja[m]
+    ashwins[m] shelbej[m] wafels[m] priyanshu1571[m] shreyasbapat[m]
+    bryantl[m] ajit[m] wtbarnes[m] wafels_has_forgo jcmo[m] shivamsaboo17[m]
+    bsipocz alkesh47[m] pratere[m] abit2[m] chicrala[m] SSavage[m]
+*** Users on #SunPy: rajul[m] gitterbot[m] DavidPS[m] ankandas[m] jerin[m]
+    nitinkgp23[m] gulshan_mittal[m CyclingNinja[m] AustereCuriosity
+    prateekiiest[m] sushobhana[m] maddouglas[m] woinck[m] Alex_Ian_Hamilto
+    deadzero[m] NickMurphy[m] darkstarmanny[m] SwapnilSharma[m] ehsteve[m]
+    mianto[m] yudhik[m] yashkgp[m] elastufka[m] alisdair[m] ayshih[m]
+    dev_ansh9[m] roaa108[m] dstansby[m] grenko[m] astrojuanlu[m] alirizwi[m]
+    lok[m] shresthverma[m] sudom0nk[m] johnpi[m] lohani2280[m]1
+*** Users on #SunPy: mbobra[m] vn-ki[m] hzxusx[m] sr6033[m] mundada[m]
+    fraserwatson[m] Github[m] agy[m] sanjeevdubey[m] jdslavin[m]
+    RSSBot[cadaircad abhigyan_bose[m] tannmay[m] raghavarora1[m] DanRyan37[m]
+    skk[m] jmason86[m] SolarDrew[m] Nabobalis wmiao[m] cmolina[m] ritiek[m]
+    Github[Cadairmat vso_jacob[m] astrofrog[m]1 __name__ @ChanServ
+*** #SunPy modes: +t
+*** #SunPy was created on 2011-07-27 22:32:18
+
+[Thu Apr 19 2018]
+*** You have joined channel #SunPy                                      [18:37]
+*** Topic for #SunPy: Python for Solar Physics Data Analysis - www.sunpy.org -
+    Join us on Matrix: https://riot.im/app/#/room/#sunpy:matrix.org
+*** #SunPy: topic set by DrCadair!~DrCadair@unaffiliated/cadair, 2018-01-10
+    00:23:52
+*** Users on #SunPy: taro mefistofeles MatrixTraveler[m yashkgp1[m]
+    joellama[m] matrixbotGitter[ RSSBot[Cadairmat shanalii[m] khaledali[m]
+    turt2live Stuart[m] Cadair jjrugui[m] DominikStaczak[m anish_kumar[m]
+    himanshukgp[m] slackbot[m] codebot[m] itachi_uchiha_ SolarBoy[m] Kolja[m]
+    ashwins[m] shelbej[m] wafels[m] priyanshu1571[m] shreyasbapat[m]
+    bryantl[m] ajit[m] wtbarnes[m] wafels_has_forgo jcmo[m] shivamsaboo17[m]
+    bsipocz alkesh47[m] pratere[m] abit2[m] chicrala[m] SSavage[m]
+*** Users on #SunPy: rajul[m] gitterbot[m] DavidPS[m] ankandas[m] jerin[m]
+    nitinkgp23[m] gulshan_mittal[m CyclingNinja[m] AustereCuriosity
+    prateekiiest[m] sushobhana[m] maddouglas[m] woinck[m] Alex_Ian_Hamilto
+    deadzero[m] NickMurphy[m] darkstarmanny[m] SwapnilSharma[m] ehsteve[m]
+    mianto[m] yudhik[m] yashkgp[m] elastufka[m] alisdair[m] ayshih[m]
+    dev_ansh9[m] roaa108[m] dstansby[m] grenko[m] astrojuanlu[m] alirizwi[m]
+    lok[m] shresthverma[m] sudom0nk[m] johnpi[m] lohani2280[m]1
+*** Users on #SunPy: mbobra[m] vn-ki[m] hzxusx[m] sr6033[m] mundada[m]
+    fraserwatson[m] Github[m] agy[m] sanjeevdubey[m] jdslavin[m]
+    RSSBot[cadaircad abhigyan_bose[m] tannmay[m] raghavarora1[m] DanRyan37[m]
+    skk[m] jmason86[m] SolarDrew[m] Nabobalis wmiao[m] cmolina[m] ritiek[m]
+    Github[Cadairmat vso_jacob[m] astrofrog[m]1 __name__ @ChanServ
+*** #SunPy modes: +t                                                    [18:38]
+*** #SunPy was created on 2011-07-27 22:32:18
+
+[Thu Apr 19 2018]
+*** You have joined channel #SunPy                                      [18:43]
+*** Topic for #SunPy: Python for Solar Physics Data Analysis - www.sunpy.org -
+    Join us on Matrix: https://riot.im/app/#/room/#sunpy:matrix.org
+*** #SunPy: topic set by DrCadair!~DrCadair@unaffiliated/cadair, 2018-01-10
+    00:23:52
+*** Users on #SunPy: taro mefistofeles MatrixTraveler[m yashkgp1[m]
+    joellama[m] matrixbotGitter[ RSSBot[Cadairmat shanalii[m] khaledali[m]
+    turt2live Stuart[m] Cadair jjrugui[m] DominikStaczak[m anish_kumar[m]
+    himanshukgp[m] slackbot[m] codebot[m] itachi_uchiha_ SolarBoy[m] Kolja[m]
+    ashwins[m] shelbej[m] wafels[m] priyanshu1571[m] shreyasbapat[m]
+    bryantl[m] ajit[m] wtbarnes[m] wafels_has_forgo jcmo[m] shivamsaboo17[m]
+    bsipocz alkesh47[m] pratere[m] abit2[m] chicrala[m]
+*** Users on #SunPy: SSavage[m] rajul[m] gitterbot[m] DavidPS[m] ankandas[m]
+    jerin[m] nitinkgp23[m] gulshan_mittal[m CyclingNinja[m] AustereCuriosity
+    prateekiiest[m] sushobhana[m] maddouglas[m] woinck[m] Alex_Ian_Hamilto
+    deadzero[m] NickMurphy[m] darkstarmanny[m] SwapnilSharma[m] ehsteve[m]
+    mianto[m] yudhik[m] yashkgp[m] elastufka[m] alisdair[m] ayshih[m]
+    dev_ansh9[m] roaa108[m] dstansby[m] grenko[m] astrojuanlu[m] alirizwi[m]
+    lok[m] shresthverma[m] sudom0nk[m] johnpi[m]
+*** Users on #SunPy: lohani2280[m]1 mbobra[m] vn-ki[m] hzxusx[m] sr6033[m]
+    mundada[m] fraserwatson[m] Github[m] agy[m] sanjeevdubey[m] jdslavin[m]
+    RSSBot[cadaircad abhigyan_bose[m] tannmay[m] raghavarora1[m] DanRyan37[m]
+    skk[m] jmason86[m] SolarDrew[m] Nabobalis wmiao[m] cmolina[m] ritiek[m]
+    Github[Cadairmat vso_jacob[m] astrofrog[m]1 __name__ @ChanServ
+*** #SunPy modes: +t
+*** #SunPy was created on 2011-07-27 22:32:18
+*** You have left channel #SunPy                                        [18:51]

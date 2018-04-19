@@ -1,0 +1,130 @@
+
+[Thu Apr 19 2018]
+*** You have joined channel #emacs-beginners                            [19:35]
+*** Topic for #emacs-beginners: See
+    http://emacswiki.org/emacs/EmacsBeginnersChannel for tips, code of conduct
+    | Go ahead and ask your Emacs question. People will reply if they can. It
+    might take a while, so please be patient. | Treat people with respect. No
+    sexism, racism, homophobia, or discrimination of any kind. |
+    http://emacswiki.org/emacs/EmacsNewbie
+*** #emacs-beginners: topic set by
+    sachac!~user@75-119-230-47.dsl.teksavvy.com, 2015-11-20 03:48:54
+*** Users on #emacs-beginners: Taro dabitpulla d-sha efraim stevoooo CSy-n
+    bokuno johndoe__ tecepe psachin mpf_ mroh drymer Digit cpc26 jack_rabbit
+    Gianormagantrous carmack fsbot bjb epony ynakao[m] WilliamHamilton
+    blackorzar kar1[m] didibus[m] adamantium raph_ael vt102 nottwo d10n magche
+    MatthewAllan93 rizary forcer zeltak rudybot lin_ gb00s fusta erickgnavar
+    wasamasa Lord_of_Life aminb Savemech doppo TheBB offby1 alphor Sketch
+    literal ibex gko nibbling offby1-irccloud irfus
+*** Users on #emacs-beginners: karthik snw copypasteque szgyg smf umbSublime
+    adherzog
+*** #emacs-beginners modes: +cnt
+*** #emacs-beginners was created on 2015-08-30 05:14:50
+*** #emacs-beginners Taro       H    ~user@58.247.171.165 (unknown)     [19:37]
+*** #emacs-beginners dabitpulla H
+    ~dabitpull@p200300E6B3E0C100C61F129A8A27BD1B.dip0.t-ipconnect.de
+    (dabitpulla)
+*** #emacs-beginners d-sha      G
+    ~d-sha@n106-71-136-127.rdl2.qld.optusnet.com.au (Got ZNC?)
+*** #emacs-beginners efraim     H    ~quassel@fsf/member/efraim (Efraim
+    Flashner)
+*** #emacs-beginners stevoooo   H
+    ~user@host81-138-103-242.in-addr.btopenworld.com (unknown)
+*** #emacs-beginners CSy-n      H    ~keys@203.221.127.45 (purple)
+*** #emacs-beginners bokuno     H    ~user@unaffiliated/bokuno (unknown)
+*** #emacs-beginners johndoe__  H    ~johndoe@88-119-26-141.static.zebra.lt
+    (John Doe)
+*** #emacs-beginners tecepe     G
+    ~tcpaiva@c-73-69-176-20.hsd1.ma.comcast.net (purple)
+*** #emacs-beginners psachin    H    ~psachin@103.51.234.129 (Sachin Patil)
+*** #emacs-beginners mpf_       H    ~mpf@x4db1a07d.dyn.telefonica.de (mpf)
+*** #emacs-beginners mroh       H    ~user@x4db55e18.dyn.telefonica.de
+    (unknown)
+*** #emacs-beginners drymer     H    ~drymer@unaffiliated/drymer (drymer)
+*** #emacs-beginners Digit      H    ~user@fsf/member/digit (Digit)
+*** #emacs-beginners cpc26      H    ~cpc26@fsf/member/cpc26 (cpc26)
+*** #emacs-beginners jack_rabbit H
+    ~jack_rabb@2601:240:8201:74f0:80ba:bf06:e018:f8b7 (realname)
+*** #emacs-beginners Gianormagantrous H
+    ~pl@unaffiliated/pluc-pilou/x-3647764 (Unknown)
+*** #emacs-beginners carmack    H    ~floki@unaffiliated/carmack (BRS)
+*** #emacs-beginners fsbot      H    ~fsbot@unaffiliated/deego/bot/fsbot (The
+    Free Software bot)
+*** #emacs-beginners bjb        H    ~bjb@sourcerer.ca (Brenda J. Butler)
+*** #emacs-beginners epony      H    ~nym@79-100-134-61.ip.btc-net.bg
+    (Eponymous Pseudonym)
+*** #emacs-beginners ynakao[m]  H
+    ynakaomatr@gateway/shell/matrix.org/x-wmfwolqjnhbmuksc
+    (@ynakao:matrix.org)
+*** #emacs-beginners WilliamHamilton H
+    carlonucer@gateway/shell/matrix.org/x-kconohejlcarkvlj
+    (@carlo_nucera:matrix.org)
+*** #emacs-beginners blackorzar H
+    blackorzar@gateway/shell/matrix.org/x-gnldwrgsodqgbhyd
+    (@blackorzar:matrix.org)
+*** #emacs-beginners kar1[m]    H
+    kar1matrix@gateway/shell/matrix.org/x-wskbvwymzaxsrsxy (@kar1:matrix.org)
+*** #emacs-beginners didibus[m] H
+    didibusmat@gateway/shell/matrix.org/x-wvypjqqfvcsfsvyc
+    (@didibus:matrix.org)
+*** #emacs-beginners adamantium G    ~adamantiu@140.82.60.144 (Got ZNC?)
+*** #emacs-beginners raph_ael   H
+    ~raphael@2a00:dcc0:dead:a066:216:3cff:feae:868a (raphael)
+*** #emacs-beginners vt102      H
+    uid293813@gateway/web/irccloud.com/x-jwsrvznbccihdmcj (Andy Cowell)
+*** #emacs-beginners nottwo     H    ~tcarter@70.234.242.91 (Trannie Carter)
+*** #emacs-beginners d10n       H    ~d10n@unaffiliated/d10n (d10n)
+*** #emacs-beginners magche     H    ~magche@95.111.18.140 (Margarita
+    Vasileva)
+*** #emacs-beginners MatthewAllan93 G
+    ~MatthewAl@unaffiliated/matthewallan93 (Matthew Allan)
+*** #emacs-beginners rizary     G
+    sid220347@gateway/web/irccloud.com/x-bnxwawsvqharyubl (rizary)
+*** #emacs-beginners forcer     H
+    ~forcer@ec2-35-156-200-112.eu-central-1.compute.amazonaws.com
+    (http://www.jorgenschaefer.de/)
+*** #emacs-beginners zeltak     H    XBwIsapnYu@karif.server-speed.net
+    (zeltak)
+*** #emacs-beginners rudybot    H
+    ~luser@ec2-52-8-12-207.us-west-1.compute.amazonaws.com (Eric Hanchrow's
+    bot, version d2dcdc9)
+*** #emacs-beginners lin_       H    ~lambda@82.165.78.99 (lambda)
+*** #emacs-beginners gb00s      H
+    ~gb00s@static.81.103.251.148.clients.your-server.de (gb00s)
+*** #emacs-beginners fusta      G    ~fusta@139.179.50.177 (fusta)
+*** #emacs-beginners erickgnavar H    erick@2600:3c01::f03c:91ff:fe35:e170
+    (Erick Navarro)
+*** #emacs-beginners wasamasa   G    ~wasamasa@evil/maintainer/wasamasa (wasa)
+*** #emacs-beginners Lord_of_Life H
+    Elite12246@gateway/shell/elitebnc/x-wrimdgchpkssapcs (I'm part of the
+    Elite... EliteBNC)
+*** #emacs-beginners aminb      H    ~aminb@gnu/aminb (Amin Bandali --
+    https://aminb.org)
+*** #emacs-beginners Savemech   H
+    Savemech@gateway/shell/firrre/x-mzitfyxzrrabmruf (Savemech)
+*** #emacs-beginners doppo      H    doppo@2604:180::e0fc:a07f (doppo)
+*** #emacs-beginners TheBB      G    TheBB@evil/maintainer/TheBB (Eivind Fonn)
+*** #emacs-beginners offby1     H
+    ~ec2-user@pdpc/supporter/monthlybyte/offby1 (Eric Hanchrow)
+*** #emacs-beginners alphor     H
+    ~floor13@2001:19f0:5:14c:5400:ff:fe6e:276c (alphor)
+*** #emacs-beginners Sketch     G    ~Sketch@2604:180:2::a506:5c0d (Sketch)
+*** #emacs-beginners literal    H    hinrik@u.nix.is (Hinrik Å÷rn SigurÅsson)
+*** #emacs-beginners ibex       H    ~ibex@74.221.67.206 (...)
+*** #emacs-beginners gko        H    gko@2400:8900::f03c:91ff:fe70:e605 (gko)
+*** #emacs-beginners nibbling   H    ~nibbling@165.227.18.242 (nibbling)
+*** #emacs-beginners offby1-irccloud G
+    sid11391@pdpc/supporter/monthlybyte/offby1 (Eric Hanchrow)
+*** #emacs-beginners irfus      H    ~irfus@irfus.in (Irfus)
+*** #emacs-beginners karthik    H    ~karthik@unaffiliated/karthik (karthik)
+*** #emacs-beginners snw        H    ~snow_bcks@ganon.dot-server.net
+    (snow_bckspc)
+*** #emacs-beginners copypasteque H    ~copypaste@2001:41d0:a:6bbd::1
+    (copypasteque)
+*** #emacs-beginners szgyg      H
+    szgyg@gateway/shell/elitebnc/x-utfgeumgcnvkwvyd (szgyg)
+*** #emacs-beginners smf        G    ~sean@mail.farley.io (Sean Farley)
+*** #emacs-beginners umbSublime G    ~username@unaffiliated/umbsublime
+    (realname)
+*** #emacs-beginners adherzog   H    ~adherzog@idun.jmac.org (Adam Herzog)
+<Taro> hi                                                               [19:39]

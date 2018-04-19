@@ -1,0 +1,106 @@
+
+[Thu Apr 19 2018]
+*** Welcome to the freenode Internet Relay Chat Network turtletaro      [08:56]
+*** Your host is weber.freenode.net[162.213.39.42/6667], running version
+    ircd-seven-1.1.5
+*** This server was created Wed Nov 15 2017 at 23:44:06 UTC
+*** weber.freenode.net ircd-seven-1.1.5 DOQRSZaghilopswz
+    CFILMPQSbcefgijklmnopqrstvz
+*** CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz
+    CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode
+    KNOCK STATUSMSG=@+ CALLERID=g are supported by this server
+*** CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390
+    ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC
+    TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR:
+    are supported by this server
+*** EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU are supported by this
+    server
+*** There are 118 users and 88154 invisible on 33 servers
+*** 26 operator(s) online
+*** 25 unknown connection(s)
+*** 51551 channels formed
+*** I have 4528 clients and 1 servers
+*** Current local users 4528, max 5989
+*** Current global users 88272, max 96965
+*** Highest connection count: 5990 (5989 clients) (487069 connections
+    received)
+*** - Welcome to weber.freenode.net in California, USA.
+*** - Thanks to https://www.cloudsigma.com/ for sponsoring
+*** - this server!
+*** -  
+*** - WEBER, DAVID M. (1952-), an American fantasy and scifi
+*** - author. Best known for his 'Honor Harrington' series, his
+*** - works span several genres, including alternate history,
+*** - epic fantasy, military scifi and space opera. He's also
+*** - done wargame design mainly for the StarFire tabletop
+*** - boardgame series, a job which later evolved into the novel,
+*** - 'Insurrection' (collaboration with Steve White, published
+*** - in 1990).
+*** -  
+*** - Welcome to freenode - supporting the free and open source
+*** - software communities since 1998.
+*** -  
+*** - By connecting to freenode you indicate that you have read and
+*** - accept our policies and guidelines as set out on https://freenode.net
+*** -  
+*** - In the event that you observe behaviour that contravenes our policies,
+*** - please notify a volunteer staff member via private message, or send us
+    an
+*** - e-mail to complaints@freenode.net -- we will do our best to address the
+*** - situation within a reasonable period of time, and we may request further
+*** - information or, as appropriate, involve other parties such as channel
+    operators 
+*** - Group Contacts representing an on-topic group.
+*** -  
+*** - freenode runs an open proxy scanner.
+*** -  
+*** - If you are looking for assistance, you will be able to find a list of
+*** - volunteer staff using the '/who freenode/staff/*' command, and you may
+*** - message any of us at any time. Please note that freenode predominantly
+*** - provides assistance via private message, and while we have a network
+*** - channel the primary venue for support requests is via private message to
+*** - a member of the volunteer staff team.
+*** -  
+*** - From time to time, volunteer staff may send server-wide notices relating
+    to
+*** - the project, or the communities that we host. The majority of such
+    notices
+*** - will be sent as wallops, and you can '/mode <yournick> +w' to ensure
+    that you
+*** - do not miss them. Important messages relating to the freenode project,
+    including
+*** - notices of upcoming maintenance and other scheduled downtime will be
+    issued as
+*** - global notices.
+*** -  
+*** - Representing an on-topic project? Don't forget to register, more
+    information
+*** - can be found on the https://freenode.net website under "Group
+    Registration".
+*** -  
+*** - freenode organises an annual conference, and we would like to extend our
+*** - thanks to the attendees, exhibitors and speakers who made freenode #live
+    2017
+*** - possible. And of course, our generous sponsors: Bytemark, Canonical
+    (Ubuntu),
+*** - Falanx Cyber Security, Private Internet Access and Yubico for footing
+    the bill.
+*** -  
+*** - Thank you also to our server sponsors for the sustained support in
+    keeping the
+*** - network going for close to two decades.
+*** -  
+*** - freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call
+    for
+*** - Proposals is live at https://freenode.live and open until July 31, 2018.
+    If 
+*** - you are interested in sponsoring this event, please send an e-mail to
+*** - sponsor@freenode.live
+*** -  
+*** - Thank you for using freenode!
+*** -  
+*** -  
+*** End of /MOTD command.
+*** turtletaro has changed mode for turtletaro to +i
+<turtletaro> login                                                      [08:57]
+*** #Zeos: You're not on that channel                                   [09:00]

@@ -1,0 +1,1 @@
+((graphviz-dot-mode :fetcher github :repo "luxbock/graphviz-dot-mode"))

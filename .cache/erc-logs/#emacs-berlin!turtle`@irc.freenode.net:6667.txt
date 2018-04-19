@@ -1,0 +1,47 @@
+
+[Thu Apr 19 2018]
+*** You have joined channel #emacs-berlin                               [09:09]
+*** Topic for #emacs-berlin: Welcome to EmacsBerlin, if you have questions
+    stick around for a bit or ping user ndrst. You can also ask them on our
+    mailing list, details can be found here: http://emacs-berlin.org/
+*** #emacs-berlin: topic set by ndrst!~ndrst@2a01:4f8:130:53ec::2, 2017-02-25
+    21:58:32
+*** Users on #emacs-berlin: turtle` mnemonikk moeC137[m] hiroshi mntmn ndrst
+    cmn hoek
+*** #emacs-berlin modes: +cnt
+*** #emacs-berlin was created on 2014-03-25 18:51:15
+Incorrect arguments. Usage:
+/NICK arg1
+Change current nickname to NICK.
+
+(fn NICK)                                                               [09:10]
+
+[Thu Apr 19 2018]
+*** You have joined channel #emacs-berlin                               [09:11]
+*** Topic for #emacs-berlin: Welcome to EmacsBerlin, if you have questions
+    stick around for a bit or ping user ndrst. You can also ask them on our
+    mailing list, details can be found here: http://emacs-berlin.org/
+*** #emacs-berlin: topic set by ndrst!~ndrst@2a01:4f8:130:53ec::2, 2017-02-25
+    21:58:32
+*** Users on #emacs-berlin: turtle` mnemonikk moeC137[m] hiroshi mntmn ndrst
+    cmn hoek
+*** #emacs-berlin modes: +cnt
+*** #emacs-berlin was created on 2014-03-25 18:51:15
+*** turtle` is unknown (~user@180.175.178.178)
+*** turtle` is on channel(s): #emacs-berlin 
+*** turtle` is/was on server hobana.freenode.net (Bucharest, RO, EU)
+*** is connecting from *@180.175.178.178 180.175.178.178
+*** turtle` has been idle for 00:00.17, on since 2018-04-19 09:11:16
+
+[Thu Apr 19 2018]
+*** You have joined channel #emacs-berlin                               [15:21]
+*** Topic for #emacs-berlin: Welcome to EmacsBerlin, if you have questions
+    stick around for a bit or ping user ndrst. You can also ask them on our
+    mailing list, details can be found here: http://emacs-berlin.org/
+*** #emacs-berlin: topic set by ndrst!~ndrst@2a01:4f8:130:53ec::2, 2017-02-25
+    21:58:32
+*** Users on #emacs-berlin: turtle` mnemonikk moeC137[m] hiroshi mntmn hoek
+    cmn ndrst
+*** #emacs-berlin modes: +cnt                                           [15:22]
+*** #emacs-berlin was created on 2014-03-25 18:51:15
+*** You have left channel #emacs-berlin                                 [15:38]

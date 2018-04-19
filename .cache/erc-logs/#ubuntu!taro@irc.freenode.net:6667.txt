@@ -1,0 +1,2579 @@
+
+[Thu Apr 19 2018]
+*** You have joined channel #ubuntu                                     [18:39]
+*** Topic for #ubuntu: Official Ubuntu Support Channel | IRC Guidelines:
+    http://ubottu.com/y/gl | This channel supports Ubuntu and its official
+    flavors; versions 14.04, 16.04, and 17.10 | bionic/18.04: /join #ubuntu+1
+    | Unofficial derivatives: use your distro's support channel, not here. |
+    IRC info: http://ubottu.com/y/irc | Pastes to http://paste.ubuntu.com/ |
+    Download: http://ubottu.com/y/dl
+*** #ubuntu: topic set by dax!dax@freenode/staff/dax, 2018-03-01 03:44:38
+*** Users on #ubuntu: taro dxiri wanqcryp1 USERNAME00 filosi new0 thiras
+    crimson_king r0Oter zen_ VikingHoarder peet rorro Tzunamii multifractal
+    c0ncealed1 murphyslawbbs matzgi inspectorcluseau Richard|Fastly dcc0
+    wonderworld FierceDeityLink computer2000 erasmus saitoh183 michel[m]
+    usuario1 vincy shann tvw onio gnuton huayra makije _ADN_ atolani
+    smerdyakow leion newstem jona303 lapaga mjayk fguimaraes vivsoni venmx
+    xet7 sudhackar_ NickG365 teeyonwe zeffy p3rs3us tizzja Cheez
+*** Users on #ubuntu: lezsakdomi nellypb repz eraserpencil tombusby
+    Dolanyeah114 amcsi NotHere Jyothis ArkQuintet PCatinean geordy Wiwi_
+    SimonNL TomyWork bfernando mkoed ReusedSalt Kharma Conino mateothegreat
+    Dugroin mrbinaer mikecmpbll DaGoaty jkultra natten lg543 kissiel
+    DocHopper_ percy jluc OERIAS willcooke aimileus ghostcube xplora1a ibispi
+    CarlFK rauno cptdoobage Lin-Buo-Ren f0rks Phylock ^peter^ howlymowly
+    velizarx dreamon_ cpaelzer jablo crogers odovzen interrobangd
+*** Users on #ubuntu: N1n034 zzarr Silmarilion flaviodesousa Vince_ rimd2r
+    VanCo MadAGu Haris Randolf max_m arunkumar413 markeczzz animtakhnet tcraxs
+    borkr larsmw lan dhill__ metts theoceaniscool matthewsewell HerbY_NL2 barq
+    saurabhs_ desti miskatonik talep158 oleg chalcedony xamithan hateball
+    sauvin shootbird DenBeiren VladGh Church Schlawiner AnnaRooks led_ir22
+    en7ropy ubot9 jeffreylevesque dgtlchlk Elysion wook_ peroni trumee kaxing
+    bstr davor Emcy masber FiremanEd allizom
+*** Users on #ubuntu: kallesbar untoreh Joschii wliu_ stephen101 blankhart
+    cmdshftn pystar89 Rokixz Laconic Varth wirehead vonzcfw ericrajuin fxnoob
+    sigsts pragmaticenigma Kryptron mypapit e1337h4cksncr4ck Sven_vB ledeni
+    herbmillerjr wodencafe nowayy e1z0 czart ca_cabo akem_ cpt-oblivious
+    coolball_ L3gacy harrymm camako b3zi- brainwash bumbar_ underd0g modernbob
+    pdrakeweb chamaeleon liefer BionicMac pervader cadeskywalker duttasankha
+    cliluw DisplayError de-facto feodoran
+*** Users on #ubuntu: andregra1 niko nacc urdh Squarism NET||abuse Ad1Tech
+    Barzogh Stinky-Feet estan_ JanC brief shabius Shadowmm hggdh bittyx Ceber
+    kostkon mgor NextContestant `Cam BSaboia neunon Exagone313 mave_ mipesom
+    dinoocch kees StoneCypher padv maum Freejack wgma khisanth__ flugger idwer
+    vt102 Very_slow shiznix forkup Nik05 weaksauce gmourey bildramer DF3D2
+    alxd herekun nwilson5 trekkie1701c Daegalus jjvvx argusbr markus1189 V7
+    evert_ vivid destiny Transfusion mib
+*** Users on #ubuntu: markus-k ssarah sobersabre albttx phoenixz _S4MUR4I_
+    steven__ Guest28638 derpy n35xdxb0 fundies Menzador kolbert BGL carif
+    phil42 epanda Inimesekene jackmcbarn AJ_Z0 f|shy mlhess morphis_
+    dhs2324234234234 gregl ehlodex craig4who telex foul_owl niee raidghost
+    flying_sausages adellam pari42 Tm_T jack_c ztane ineiros sjl_ zduniak
+    mijndert[m] ph0b0s_ nuc Night_ fabricius noxs freecoder luna_ hunterlabs
+    thxffo Thumpxr inteus yokel poutine @Sigyn CrypticSquared
+*** Users on #ubuntu: mumixam Jazzy_J farid Slart xamindar Skaface82 mcs_
+    fyrril2 zonum hardbot archpc lu_tze WildSoft psych0dellic m4v Ben64 MACscr
+    Hackerpcs isantop disi djarbore mircx1 dskull michaelni genewitch
+    blingrang armyriad Butterfly| n-st GNUdog ianychoi linuxdaemon guiverc
+    leo_ yoshifan kudu levd1 Octa-X Mathis Cyber_Akuma john-34 GerbilSoft
+    jinie PityDaFool LenPayne diarpi pdodger n4n0` binaryhermit SlidingHorn
+    u0m3_ krisd cookiecutter redlegion devster31 tsglove2
+*** Users on #ubuntu: Blueking oerheks insidious theZenman DalekSec arij
+    fcastillo bstempi_ jhutchins darxun xerox123 Ghosthree3 Scenick oijeeboo
+    bn_work yt rscheideman dre topi` wk-work_ kwitschi jnewt kylen_ alpalp_
+    kcas_ lapion cyphase sins- yeticry Simonious_ SunTsu theGoat sarri drsn0w
+    Mia treehug88 rypervenche spont4e slashd rosseaux Adbray K_K_N make91 deem
+    carman hke elec64 jinjonBoo Dovid nct colints lblume datajerk transhuman
+    Guest48 akay Catalysm wallen ijmad chiluk
+*** Users on #ubuntu: seyeongkim DK2 jpe m5w tetris2345[m] franzer fz_salam
+    pedroferry[m] ckboss[m] OS-23778 edwinvanolst[m] simonizor abbiya
+    chrowe[m] kirscht[m] DevOpsGeneral-Be sxar Guest28240 brotkiste[m]
+    oliviamaia[m] ch3n2k[m] tobias[m]1 jounih[m] waqqasdadabhoy[m
+    DiogoGomes[m] snek hotbakedpotato[m rich[m] admin[m]2 jacob[m]1
+    andreasw[m] stathis[m] edong23 remix2000[m] M-bbigras javier[m]
+    rockyiii[m] salman[m] orangesodacan[m] denixx|h2 Rondom dellavg Kon[m]
+    iceskins[m]
+*** Users on #ubuntu: blujaxian brunoqueiros[m] karlhaworth[m] bhuddah
+    JosephGrasser BrAsS_mOnKeY PickledEggs pagios jugo_ riotz gorlock Edgan
+    BytesBaconBB igor_opaniuk necrogami orf__ zwamkat Sleaker_ realies matti_
+    no_maam michagogo fudanshi @TheRedQueen rito irv dunnousernamefn Osirus126
+    luka_33 |Alexia_Death| _ruben austinkeeley pcdummy Emmanuel_Chanel irwiss
+    Guest93544 guntbert Aristide d3r3k bray90820 musalbas DzAirmaX r03nz
+    longsleep flexoboto nadio funabashi auronandace
+*** Users on #ubuntu: _Trullo Poster|n BMO-noire Anarchemist Ricardus
+    messer440 ecormier Zialus ycarene BlackDex gueriLLaPunK ash_worksi Amany
+    yn roothorick sparklyballs adalbert supersoju Modeuse narindergupta jayjo
+    Noskcaj Logan Zren Fleetwood edmz ejat crossmanith shannara beaver ogra_
+    FilipNortic Ool eliudnir t0h Colar ExploitedKernel matt_ lempamo tolecnal
+    sixth freeguestee designbybeck lborda rodsmith ueberall anonymip _KaszpiR_
+    rekoil kozy Indicium olegb matthelmke rud0lf
+*** Users on #ubuntu: waltman Soulless Orphis lukasdboer tmiland k12
+    TheGrumpyScot jonsson__ AndrewMC y0sh vlt SMuZZ SysGhost Random832
+    drkokandy Daerist ircuser-1 Murii XXCoder vbotka falafel tanuki sysrage
+    jrolland-home NotInTheMood warpx anto Tristam zamba littlebear sakhd
+    malkauns bcowan tester Logicwax TvL2386 clete2 goiko Tempesta aegis
+    Anthaas Chappie-san tabris Doffi FaTaL_G TheTrash petris faxer JackK pumba
+    Mercury_Vapor jjmeyer0 Carll jrolland-work XenophonF UsQUE
+*** Users on #ubuntu: sp3ck sylario habith azizLIGHT wildc4rd nick1234
+    ChiLLabiS Vic2 camfl hph^ WARlrus explodes bkuhl retoaded keitellf Malinux
+    fullstack segersjerry marlinc ageis grumble el wouter0100 epipercepi
+    Nd-69-M BenderRodriguez jagrutid mindstorm blipz sariawan WARBIRD199
+    lorimark_ Bryanstein salamanderrake Ampelbein Netmage Th3Mafia seprob Mead
+    leftyfb rory fractal nobody BH23 dan2wik Netham45 sssnap mosh\
+    Seven_Six_Two MrFixIt gde33 systemdPlusLinux oOBadDreamOo
+*** Users on #ubuntu: shoogz pacbard stwalkerster bugzbunny SynfulAck paraxial
+    croberts _foo bdmc plains lektronx fredrikx Nukien thallada steenman
+    Apachez Telvana malinator thaumavorio dvdmuckle gusnan kyentei Harry
+    NoCode Sulak mpmc mlabbe_ Damier- bouncy enissay Moscherkobold Kobaz
+    ShaRose jonne dwar dinasty xit nolsen JimBuntu jemark jksM dave4925
+    ltrager blanko dh128 broccoli giraffe volker floown stochastix
+    matthiaskrgr rohan felixsanz evalenti zamanf StathisA
+*** Users on #ubuntu: kus_ubuntui686 philippirrip secretmessage Comstock Miron
+    DeeJayTwo Mart__ vila karstensrage mcdonc SPeedY robairt RiPer sunrunner20
+    Guest1600 darron_a jack1337 zhongfu webuser5224 aananev PtxDK ejr
+    CrazyEddy albech swiftkey neoclust TheSilentLink fearnothing gringaoo
+    mDfRg Granis` katnip dellhem crash_ tre99 allquixotic Zooklubba Andreas33
+    themill Hobbyboy Krenair Br|aN hfp b1nny nmitchell pilcrow LiENUS mneptok
+    ColdKeyboard mz` Waggie sparty kim27 Ishaq
+*** Users on #ubuntu: riex Taggnostr ppf ericus braderhart cooldude _km
+    silver_hook MrBiogene raub dustinspringman claude2 Fire-Dragon-DoL K4j
+    markus_e92 MrGeneral masteroman dpb1 vlad__ nonix4_ jcara_ wrix_ schmidtm_
+    icey rfv hreinnbeck_ vern wolsen sdx23 Poster HankMoody underyx Kamilion
+    lord4163 wiak A_D madorn aksz patriciadomin sipior st-gourichon-f darktan
+    cart_man rdz luckman212 caribou unixpro1970 Gallomimia cruxeternus heap_
+    nessenj boshhead NegativeFlare kt MegaManSec
+*** Users on #ubuntu: mniip phunyguy Checkmate b0l3x Tabmow gryphon labrador
+    icee iusr finlstrm peterrooney uprime _systemd_is_evil physpi robogoat
+    anonnumberanon Smeef varazir shazzr Mechanismus quem mhoney Mr_0 duke
+    frdmn popnfresh degenerate aisrael Map mavrikant anewman jamespage
+    victorbjelkholm xttraces lolmac DreamSynth emdashcomma seanh craysiii
+    N1ght0wl zas TheNumb karlamrhein MalteJ dgpratt lvrp16 catbusters
+    WillMoogle Chew prosody yena paulmey HashNuke iSagitt DuncanT
+*** Users on #ubuntu: timeless Kamuela dingbat foddo merpnderp MadPsy emilsp
+    croppa petan mquin maximCH zack6849 kvothe ErichEickmeyer mrBen2k2k2k
+    DavyCrocket adymitruk ehw Pricey Dragnslcr tdn SleePy jochenKr jiqiren
+    _McGuyver spion musti kkj abra0 shadoxx G33kDad OnkelTem AGXE beaky
+    namshub lexAngeles zaM- grandfso JonathanS geodb27 CobHead ToAruShiroiNeko
+    rfleming lesshaste Chaser ChristiQs Christian_Qs Moyst tanja84dk hatiac
+    Exterminador pocketprotector jrgifford jemurray
+*** Users on #ubuntu: Saviq bornjre arunpyasi xatr0z greenywd graphitemaster
+    superkuh DJones jdr bonzibuddy DeMiNe0 LambdaComplex haarolean Colti
+    damian bboles jtfidje michael2 vTox uniquorn blizzy2 SCHAPiE costamsm
+    acetakwas robbins Andocromn gravyv meLon jwash sjohnson Fuchs mdemo aloril
+    firezep Norbin h12o legend Calvin` fletom N3LRX Adran Messenger_bird
+    Seihava iter quintopia shananigans jrabe Compu georgeowell sharksauce
+    jlacroix ilbelkyr deww Klumben memorynoise trevor_s
+*** Users on #ubuntu: creat Helithumper_ Valfor PigeonWhisperer akaWolf
+    mhall119 Guest79177 baggar11 anexit thehebs_ n35xdxb0_ tessier Whiskey
+    Jordan_U surtin comrumino klr johnmark Furai allu2 chindy HcsOmot
+    jackivan88 pjdc big_t RtMF avantgardist rev_strangehope Madars codedmart
+    xz wagle PhilB Peetz0r Mathisen Duzzy gsilvapt chrisml nemesit|znc d1str0
+    ShinyCyril nicomachus chaignc madwizard bigjazzsound kuzko confluency
+    cellardoor Mutsumi justinabrahms r4ulrm Prisa erikj
+*** Users on #ubuntu: guideline_ isene shpingrlde czwolf Zongva geirha db`
+    arooni TrentP iamthad swein jamesbee luxio knittl laserbeak4445 [n0mad]
+    crayon Muligan emid Arkaniad Sweepyoface LinusVE konimex nyuszika7h
+    AshIndigo mlabbe vox kloeri rkantos VampiricPadraig `slikts Randy darmok
+    justache zaro__ tfitts Guest57550 stoffepojken Callek compuguy infectiious
+    RoBz duckydan bjonnh obiwahn michael_mbp skule Stravy davidtest765 Shaan7_
+    Shibe Vashy tomaw Buffman_ glycerine zorael
+*** Users on #ubuntu: phage- gelswip iamgr00t cibs dooglus_ herb blablacar
+    apes_ thib henkkus_ ReimuHakurei_ TheVacuo1 phillijw_ kjsnavely uplime
+    illuminated ayan angersec s0lar1s clopez bertman javi404 jferguson mceier
+    mrcivvy Cypher100 Cueball UukGoblin lsyoyom WizBright octanium kunwon1
+    rax- jojantti ShellcatZero nikow1 chu flexd jiffe eldritch digilink
+    nhandler ksa larsi fooctrl atrius olivierb- Khaotic_ whitekidney_ bobe
+    hadret Len stub zanshin DLange fearless1man BLZbubba_
+*** Users on #ubuntu: mjrosenb BillyCrook ubuntulog CoJaBo berglh ozzloy
+    theTOOLM1N fcanela ksx4system_ dash__ N3X15 pwnslinger_ NC83DC uptime
+    Ekho- knaved lead_pipe23 nemith johnnyfive iceiceice Nothing4You SwedeMike
+    killtheliterate Guest13685 TmvC Humbedooh pesari Trefex_ maco Zabot mths
+    GavinAlderson cschneid ish95ish95 ren0v0 bipul albrecht jink rosco beggi
+    Neo samcv manacit tomreyn bergers89 Rez SJr dmp450 ghormoon g3kk3r
+    speedmann CptLuxx BOHverkill ben8472 Frickelpit
+*** Users on #ubuntu: mrBen2k2k2k_ geheimnis` evulish elitedev elitedev_
+    Guest63460 ptx0 percY- shah ibttis doppo greenbigfrog huff3r DerRaiden
+    bkraptor kukacz igeni ihavoc eddb la_juyis emerson SchrodingersScat
+    kameloso jswagner romance `mist AntiSpamMeta justiceBEAVER xandowsk
+    OpenSorce KennosiS beanumsum Kitlith linuxthefish Village jk0ne lilwiz
+    Dewin Incepti0n PeterReid utfans05 Jikan nickware-idle hays wyggler2
+    mattcode clakes luny rymate1234 nopcode distantorigin Taylor
+*** Users on #ubuntu: folivora philroche Newa HotSwap` ikevin thebwt JStoker
+    msev- viddy Kristine tonyyarusso Seveas maxxer avelardi NotLim mrozek
+    blazeme8 bitch thatgraemeguy acheronuk Linkandzelda valkyr1e dnegreira
+    Casper26 ndk stuart02_ ddellav decoder_ ktechmidas mos_basik rysiek|pl
+    yofel saba ariver pinnen xar- baraba jonbryan txtsd cncr04s Phlogistique
+    tobsterius varesa_ phill yothsoggoth daz-_ John_Wayne latz_ KingPin
+    lucasrolff nsh Flannel kevank crane ToeSnacks ubottu
+*** Users on #ubuntu: muh-die-kuh Matthew_ Spetke FourDollars KeithIMyers
+    dragly catmando pchoo Julien-zte Jonii digitalfiz jyc ectos teej gvvg__
+    zzzack diginaut gyre007 popey mca_gif Roedy malwar3hun73r jonfatino
+    gustavwiz_ jhq m0ltar Beeelow rjhatl mort ducasse lolcat jerichowasahoax
+    Swant freanux bs jelly thrillgore Allanis borbosha bipolar vlee lowryder
+    Itored_ nooodlesnodes raibutera Numline1 boxmein Visual` kermyt
+    holdsworth_ exit70 Mr_Pan Escimo kbrosnan pinnerup NChief
+*** Users on #ubuntu: blueingr1ss toolz caliculk zymurgy ikonia richardwhiuk
+    Linlz kevr yeats trobotham jhebden k1llian Pelle` zh gluon nicoulaj
+    Diamondcite ribasushi platicus2 baffle dupondje cjk korob Jode RaptorJesus
+    ursu jacekn ChrisMorrisOrg Faults RudyValencia osse vutral justin_jnf
+    Jonno_FTW Spydar007 Fenhl komugi Fjorgynn tekk Pomidora drmessano
+    mr_yogurt SirCmpwn wgrant trevorj avelldiroll njalk teward clampy Dan_au
+    AEtherC0r3 Mahaluz elysium m0d alphaseg ChunkzZ TaZeR
+*** Users on #ubuntu: blake_r tlyu anderson zululee trigg lynxis Gargravarr
+    weltall max-m LippyLee ripazha Acrisor tarnover MrRooks devnull rhpot1991
+    trijntje habbasi IonutVan_ Miklo karalaine segin gmh Keitaro amosbird
+    wedgie tolland MonoMonkey helpsterTee krisko RGamma robertf tcpdump ASTRA
+    nyloc tamaros qassim c^ dserodio HappyHotDog cryptodan_mobile Attoy
+    rOss^64 ybaumy cjs226 ohnx dinis anuj xoke_ jhill_ andyrock avdi kspencer
+    confluence_ Ballzak_ blinky42 orgasmix_ Marbug
+*** Users on #ubuntu: Sedated_ genpaku antonmpeg_ DDR Dschingi- tonyt deepend
+    Kins hypraware catalase ngc0202 Zachary_DuBois Swish Doctor_Beard eoli3n
+    precise codebam benonsoftware Superman alphawarrior Renegade334 dStruct
+    dcmorton Zerant- Appreciated ahammond Triffid_Hunter raj janelleb_ piksu1
+    trench_ sword_smith bynarie Pici Metacity techmagus Muzer hsiktas MrC
+    mundus xMopx rubdos vemacs|ded Devrim jose lol768 Dragon092 dino82
+    Throttled sha-2 streaky Majost finalriposte
+*** Users on #ubuntu: Anticimex coolchris Piper-Off apw jgornick_ freakyy
+    eschwartz Odd_ uebera|| noah rideh Duckle limbo_ babilen SebastianFlyte
+    tadz
+*** #ubuntu URL: http://www.ubuntu.com
+*** #ubuntu modes: +CLcntjf 5:10 #ubuntu-unregged
+*** #ubuntu was created on 2006-11-26 14:42:41
+*** #ubuntu     taro       H    ~user@58.247.171.165 (unknown)
+*** #ubuntu     dxiri      H    ~dxiri@186.32.221.68 (dxiri)
+*** #ubuntu     wanqcryp1  H    ~cylon@94.54.71.110 (cylon)
+*** #ubuntu     USERNAME00 H    ~USERNAME0@unaffiliated/username00 (realname)
+*** #ubuntu     filosi     H    ~filippo@net-2-38-204-204.cust.vodafonedsl.it
+    (Ferdinando Borromeo)
+*** #ubuntu     new0       H    ~new0@141.226.162.208 (realname)
+*** #ubuntu     thiras     H    ~thiras@unaffiliated/thiras (realname)
+*** #ubuntu     crimson_king H
+    ~NEOalquim@51.148.205.168.dynamic.raidnet.com.br (realname)
+*** #ubuntu     r0Oter     H    ~r00ter@p5DDF001F.dip0.t-ipconnect.de (???)
+*** #ubuntu     zen_       H    ~zen^@0x5e910c19.adsl.cybercity.dk (Your Name)
+*** #ubuntu     VikingHoarder H    ~VikingHoa@48.168.189.46.rev.vodafone.pt
+    (VikingHoarder)
+*** #ubuntu     peet       H    ~peet@cm-171-100-79-238.revip10.asianet.co.th
+    (Pisit)
+*** #ubuntu     rorro      H    ~rorro@2001:6b0:17:fc09:7185:12fd:f87e:d60a
+    (Rob)
+*** #ubuntu     Tzunamii   H    ~Tzunamii@unaffiliated/tzunamii (Tzunamii)
+*** #ubuntu     multifractal H    ~multifrac@my89-104-32-230.cust.relish.net
+    (Your Name)
+*** #ubuntu     c0ncealed1 H
+    c0ncealed@gateway/vpn/privateinternetaccess/c0ncealed (c0ncealed)
+*** #ubuntu     murphyslawbbs H    ~textual@91.183.70.155 (Textual User)
+*** #ubuntu     matzgi     H    ~matt@195.20.112.162 (matt)
+*** #ubuntu     inspectorcluseau H    ~Inspector@71-220-48-115.mpls.qwest.net
+    (doofus)
+*** #ubuntu     Richard|Fastly H
+    ~Richard|F@cpc141884-watf13-2-0-cust712.15-2.cable.virginm.net (Richard)
+*** #ubuntu     dcc0       H    ~CLDX@176.15.20.22 (Calculate Linux Desktop
+    17.6 Xfce)
+*** #ubuntu     wonderworld H
+    ~ww@ip-88-153-137-218.hsi04.unitymediagroup.de (Wonder World)
+*** #ubuntu     FierceDeityLink H    ~shayne@cpe-76-91-35-161.socal.res.rr.com
+    (shayne baudelaire)
+*** #ubuntu     computer2000 H    ~computer2@82.220.53.202 (realname)
+*** #ubuntu     erasmus    H    ~erasmus@unaffiliated/erasmus (firkin)
+*** #ubuntu     saitoh183  H
+    ~saitoh183@modemcable205.42-176-173.mc.videotron.ca (saitoh183)
+*** #ubuntu     michel[m]  H
+    michelanch@gateway/shell/matrix.org/x-vnlwzniehchmyfgx (@michel:anchel.nl)
+*** #ubuntu     usuario1   H    ~usuario1@186.125.254.2 (realname)
+*** #ubuntu     vincy      H    ~MintStint@178.132.78.135 (Mint)
+*** #ubuntu     shann      H    ~Stanislas@94.239.241.178 (Leduc)
+*** #ubuntu     tvw        H    ~tv@212.79.9.150 (Thomas Volkmar Worm)
+*** #ubuntu     onio       G    ~onio@89.197.130.114 (purple)
+*** #ubuntu     gnuton     H    ~gnuton@kde/developer/aloisio (gnuton)
+*** #ubuntu     huayra     H    ~huayra@ubuntu/member/hubuntu (huayra)
+*** #ubuntu     makije     G    ~makije@x1-6-00-1c-c0-9b-7b-3b.cpe.webspeed.dk
+    (makije)
+*** #ubuntu     _ADN_      H    ~username@5.148.34.186 (realname)
+*** #ubuntu     atolani    H    ~atolani@125.16.97.127 (Arpit Tolani)
+*** #ubuntu     smerdyakow H    ~OOO133777@n218250224140.netvigator.com
+    (realname)
+*** #ubuntu     leion      H    ~Thunderbi@211.138.20.169 (leion)
+*** #ubuntu     newstem    H
+    ~newstem@c110-20-20-129.rivrw8.nsw.optusnet.com.au (realname)
+*** #ubuntu     jona303    H    ~jona@188.188.80.210 (jona303)
+*** #ubuntu     lapaga     H
+    ~lapaga@2606:6000:6196:dd00:500d:866c:b995:d5e5 (lapaga)
+*** #ubuntu     mjayk      H    ~mattj@37.191.97.98 (realname)
+*** #ubuntu     fguimaraes H    ~fguimarae@134.117.39.62.rev.sfr.net (Felipe
+    GUIMARAES)
+*** #ubuntu     vivsoni    H    ~vivsoni@15.203.233.77 (realname)
+*** #ubuntu     venmx      H
+    ~pactadmin@host31-48-151-7.range31-48.btcentralplus.com (PACT Admin)
+*** #ubuntu     xet7       H
+    ~xet7@dyg4d-3l86pwtj6-jy1jt-4.rev.dnainternet.fi (realname)
+*** #ubuntu     sudhackar_ H    ~sudhackar@103.74.198.4 (Sudhakar Verma)
+*** #ubuntu     NickG365   H    ~NickG365@cortex.starlabs.theflash.rocks
+    (NickG365)
+*** #ubuntu     teeyonwe   H
+    ~teeyonwed@pool-173-70-157-142.nwrknj.fios.verizon.net (realname)
+*** #ubuntu     zeffy      H    ~hello@unaffiliated/zeffy (Zeffy)
+*** #ubuntu     p3rs3us    H    ~jduro@143.167.53.205 (jduro)
+*** #ubuntu     tizzja     H    ~tizzja@2a00:a200:0:821:70fa:a85a:9fca:14a5
+    (tiz)
+*** #ubuntu     Cheez      H    ~cheez@talyn.cheez.systems (cheez)
+*** #ubuntu     lezsakdomi H    ~led@2E8B7723.catv.pool.telekom.hu (Domonkos
+    Lezsak)
+*** #ubuntu     nellypb    H    ~nvwork@37.157.161.211 (nellypb)
+*** #ubuntu     repz       H    ~quassel@unaffiliated/repz (repz)
+*** #ubuntu     eraserpencil H    ~Thunderbi@118.201.202.98 (eraserpencil)
+*** #ubuntu     tombusby   G    ~tombusby@gateway/tor-sasl/tombusby (Tom
+    Busby)
+*** #ubuntu     Dolanyeah114 H    ~dolanyeah@202.57.8.13 (Dolanyeah)
+*** #ubuntu     amcsi      H
+    ~amcsi@20014C4C195F22009D843F4179D2B79D.catv.pool.telekom.hu (realname)
+*** #ubuntu     NotHere    H    ~steve@2a02:587:a42e:2b00:ca6f:cd05:b296:eb44
+    (Steve Stavropoulos)
+*** #ubuntu     Jyothis    H    ~jyothis@wikipedia/Jyothis (Jyothis)
+*** #ubuntu     ArkQuintet H
+    ~ArkQuinte@200116b8408c3300af42ee77ac449575.dip.versatel-1u1.de
+    (ArkQuintet)
+*** #ubuntu     PCatinean  H
+    ~PCatinean@2001:b07:6464:ed95:253e:b926:8d22:eb69 (realname)
+*** #ubuntu     geordy     H    ~spartan@110.85.190.42 (liuzhijing)
+*** #ubuntu     Wiwi_      H    ~widev@lns-bzn-39-82-255-32-23.adsl.proxad.net
+    (Wilhem DEVAUGERME)
+*** #ubuntu     SimonNL    H    ~Simon@546BBE7C.cm-12-4c.dynamic.ziggo.nl
+    (Simon)
+*** #ubuntu     TomyWork   H    ~tomy@85.199.84.100 (Tomy)
+*** #ubuntu     bfernando  H    ~bruno@185.23.92.11 (Bruno Fernando)
+*** #ubuntu     mkoed      H    ~watsonjar@172.94.69.116 (realname)
+*** #ubuntu     ReusedSalt H    ~ReusedSal@203.213.29.246 (realname)
+*** #ubuntu     Kharma     H
+    ~Kharma@ec2-52-60-242-236.ca-central-1.compute.amazonaws.com (|<Harma
+    Scribb|es)
+*** #ubuntu     Conino     H    ~Conino_@217.138.34.217 (realname)
+*** #ubuntu     mateothegreat H    ~mateotheg@96.83.34.121 (realname)
+*** #ubuntu     Dugroin    H    ~ygancberg@host-85-201-209-18.dynamic.voo.be
+    (Dugroin)
+*** #ubuntu     mrbinaer   H    ~mrbinaer@37.120.26.17 (binaer)
+*** #ubuntu     mikecmpbll H    ~mikecmpbl@ruby/staff/mikecmpbll (Mike
+    Campbell)
+*** #ubuntu     DaGoaty    H    ~dagoaty@212.74.23.186 (DaGoaty)
+*** #ubuntu     jkultra    H    web2085@war.freeshells.org (jkultra)
+*** #ubuntu     natten     H    ~jn@unaffiliated/jnatten (jn)
+*** #ubuntu     lg543      H    ~lg543@169.239.252.50 (lg543)
+*** #ubuntu     kissiel    H    ~kissiel@31.179.161.222 (kissiel)
+*** #ubuntu     DocHopper_ H    ~DocHopper@unaffiliated/dochopper (realname)
+*** #ubuntu     percy      H    ~Thunderbi@120.198.123.102 (percy)
+*** #ubuntu     jluc       H    ~jluc@2a01:e34:ef27:78e0:106f:47fc:f0eb:90a2
+    (realname)
+*** #ubuntu     OERIAS     H    ~OERIAS@47.137.232.62 (realname)
+*** #ubuntu     willcooke  H    ~willcooke@ubuntu/member/willcooke (Will
+    Cooke)
+*** #ubuntu     aimileus   H    ~aimileus@cust.10.72.adsl.cistron.nl
+    (aimileus)
+*** #ubuntu     ghostcube  H    ~ghostcube@unaffiliated/ghostcube (ghost)
+*** #ubuntu     xplora1a   H    ~xplora1a@81.144.225.214 (Stuart Ward)
+*** #ubuntu     ibispi     H    ~quassel@188.246.34.98 (bsp)
+*** #ubuntu     CarlFK     G    ~carl@c-98-223-145-234.hsd1.il.comcast.net
+    (purple)
+*** #ubuntu     rauno      H    ~rauno@81.171.98.244 (realname)
+*** #ubuntu     cptdoobage H    ~cptdoobag@cpe-45-46-102-234.maine.res.rr.com
+    (realname)
+*** #ubuntu     Lin-Buo-Ren H    ~Lin-Buo-R@36-225-8-151.dynamic-ip.hinet.net
+    (ë¡÷ë≤©ë» )
+*** #ubuntu     f0rks      H    ~f0rks@li120-195.members.linode.com (Tyler
+    Levine)
+*** #ubuntu     Phylock    H    ~Phylock@D4709623.rev.sefiber.dk (Phylock)
+*** #ubuntu     ^peter^    H    ~peter@30.0.168.125.sta.wbroadband.net.au
+    (...)
+*** #ubuntu     howlymowly H    ~quassel@euler.ilr.tu-berlin.de (yeusblender)
+*** #ubuntu     velizarx   H    ~velizarx@188.93.16.2 (Vadim Ponomarev)
+*** #ubuntu     dreamon_   H    ~dreamon@unaffiliated/dreamon (realname)
+*** #ubuntu     cpaelzer   H    ~paelzer@147-060-210-188.ip-addr.inexio.net
+    (Christian Ehrhardt)
+*** #ubuntu     jablo      H    ~jl@87-49-146-5-mobile.dk.customer.tdc.net
+    (purple)
+*** #ubuntu     crogers    H    ~crogers@94.197.121.154.threembb.co.uk
+    (crogers)
+*** #ubuntu     odovzen    H    ~odovz@194.44.35.131 (Oleg Dovzhenko)
+*** #ubuntu     interrobangd H    ~interroba@217.110.61.18 (interrobang)
+*** #ubuntu     N1n034     H
+    ~falken@LFbn-MON-1-299-70.w86-193.abo.wanadoo.fr (falken)
+*** #ubuntu     zzarr      H    ~zzarr@213.141.82.14 (Rasmus Jonsson)
+*** #ubuntu     Silmarilion H    ~Silmarili@46.240.132.170 (Silmarilion__)
+*** #ubuntu     flaviodesousa H    ~flaviodes@213.187.85.7 (KVIrc 4.2.0
+    Equilibrium http://kvirc.net/)
+*** #ubuntu     Vince_     H    3dea4f22@gateway/web/freenode/ip.61.234.79.34
+    (61.234.79.34 - http://webchat.freenode.net)
+*** #ubuntu     rimd2r     H    ~rimd2r@tm.rimd2r.info (rimd2r)
+*** #ubuntu     VanCo      H    ~Vanco@unaffiliated/vanco (VanCo)
+*** #ubuntu     MadAGu     G    ~MadAGu@ppp091138145016.dsl.hol.gr (MadAGu)
+*** #ubuntu     Haris      H    ~haris@unaffiliated/haris (Haris)
+*** #ubuntu     Randolf    H    ~randolf@96.53.47.42 (Randolf Richardson)
+*** #ubuntu     max_m      H    ~max_m@gateway/tor-sasl/maxm/x-47377621 (Max)
+*** #ubuntu     arunkumar413 H    ~arunkumar@103.96.18.10 (realname)
+*** #ubuntu     markeczzz  H    ~markeczzz@92-242-240-5.metro.net.mtnet.hr
+    (realname)
+*** #ubuntu     animtakhnet H    ~Randomnes@94.124.138.66 (animtakhnet_)
+*** #ubuntu     tcraxs     H
+    ~smuxi@p200300C4070D1900F06B6A1FEB3D4336.dip0.t-ipconnect.de (Tobi)
+*** #ubuntu     borkr      H    ~borkr@2001:700:1200:5120:b15:8d20:2250:e98e
+    (realname)
+*** #ubuntu     larsmw     H    ~lan@office-fw1-tg.fullrate.dk (Lars Nielsen)
+*** #ubuntu     lan        H    ~lan@office-fw1-tg.fullrate.dk (Lars Nielsen)
+*** #ubuntu     dhill__    H    ~dhill@modemcable007.106-58-74.mc.videotron.ca
+    (realname)
+*** #ubuntu     metts      H    ~metts@92-249-137-33.pool.digikabel.hu (metts)
+*** #ubuntu     theoceaniscool H
+    ~theoceani@133.red-88-1-26.dynamicip.rima-tde.net (realname)
+*** #ubuntu     matthewsewell H
+    ~matthewse@cpe-72-183-132-207.austin.res.rr.com (realname)
+*** #ubuntu     HerbY_NL2  H
+    ~HerbY_NL2@2001:67c:2564:518:f448:2eb6:179d:aa57 (HerbY_NL)
+*** #ubuntu     barq       H
+    sid103986@gateway/web/irccloud.com/x-bymwgmytrpodbbhm (barq)
+*** #ubuntu     saurabhs_  H    ~popopop@14.141.18.234 (realname)
+*** #ubuntu     desti      H
+    ~desti@200116b80a9684008290f9144c2758e5.dip.versatel-1u1.de (realname)
+*** #ubuntu     miskatonik H
+    ~miskatoni@2001:720:1410:8fff:4da6:b909:6fe1:ef75 (miskatonik)
+*** #ubuntu     talep158   H    ~hector@14.139.160.229 (talep158)
+*** #ubuntu     oleg       H    ~shuforov@78.137.8.54 (realname)
+*** #ubuntu     chalcedony H    ~chalcedon@unaffiliated/chalcedony (Thesaurus
+    )
+*** #ubuntu     xamithan   H    ~kenrin@89.238.185.210 (kenrin)
+*** #ubuntu     hateball   H    ~quassel@unaffiliated/hateball (Monsterface)
+*** #ubuntu     sauvin     H    sauvin@about/linux/staff/sauvin (realname)
+*** #ubuntu     shootbird  H    ~quassel@beepbeep.serverpit.com (shootbird)
+*** #ubuntu     DenBeiren  H    ~quassel@78-20-238-68.access.telenet.be
+    (denbeiren)
+*** #ubuntu     VladGh     H    ~VladGh@ip72-211-93-111.no.no.cox.net (Vlad)
+*** #ubuntu     Church     H    ~church@91.105.19.94 (Janis Pusmucans)
+*** #ubuntu     Schlawiner H
+    ~Schlawine@HSI-KBW-078-042-221-062.hsi3.kabel-badenwuerttemberg.de
+    (Jochen)
+*** #ubuntu     AnnaRooks  H    ~Ann@unaffiliated/annarooks (Annabelle)
+*** #ubuntu     led_ir22   G    ~Thunderbi@hotspot10.rywasoft.net (led_ir22)
+*** #ubuntu     en7ropy    H    ~en7ropy@unaffiliated/en7ropy (realname)
+*** #ubuntu     ubot9      H    asm@ubuntu/bot/ubot93 (Channel operator
+    utility)
+*** #ubuntu     jeffreylevesque H
+    ~jeffreyle@pool-108-51-227-226.washdc.fios.verizon.net (A CIRC user)
+*** #ubuntu     dgtlchlk   H    ~uhmm@znc.oxytoc.in (uhhh)
+*** #ubuntu     Elysion    H    ~Elysion@118.211.38.14 (Elysion)
+*** #ubuntu     wook_      H    ~quassel@178.233.245.76 (wook)
+*** #ubuntu     peroni     H    ~peroni@85.17.136.250 (realname)
+*** #ubuntu     trumee     H    ~trumee@c-98-194-61-92.hsd1.tx.comcast.net
+    (Got ZNC?)
+*** #ubuntu     kaxing     H    ~kaxing@118.160.92.167 (norealname)
+*** #ubuntu     bstr       H    ~bstr@p5DDB4A9A.dip0.t-ipconnect.de (bstr)
+*** #ubuntu     davor      H    ~davor@unaffiliated/davor (davor)
+*** #ubuntu     Emcy       H    ~Emcy@unaffiliated/emcy (realname)
+*** #ubuntu     masber     H    ~masber@129.94.15.158 (realname)
+*** #ubuntu     FiremanEd  G    ~ed@f6.00.39a9.ip4.static.sl-reverse.com (*ed)
+*** #ubuntu     allizom    H
+    ~Thunderbi@host102-165-dynamic.37-79-r.retail.telecomitalia.it (allizom)
+*** #ubuntu     kallesbar  H    ~kallesbar@95.175.104.36 (kallesbar)
+*** #ubuntu     untoreh    H
+    ~untoreh@host72-182-dynamic.17-87-r.retail.telecomitalia.it (Francesco
+    Giannelli)
+*** #ubuntu     Joschii    H    ~joschii@x59cc87c0.dyn.telefonica.de (Joschi
+    Wolpertinger)
+*** #ubuntu     wliu_      H    ~wliu@111.201.240.119 (wliu)
+*** #ubuntu     stephen101 H
+    ~stephen10@2604:6000:a40c:1f0:e4e5:794b:be91:8b64 (realname)
+*** #ubuntu     blankhart  H
+    ~blankhart@pool-100-38-242-183.nycmny.fios.verizon.net (blankhart)
+*** #ubuntu     cmdshftn   H    ~cmdshftn@li825-185.members.linode.com (Al)
+*** #ubuntu     pystar89   H
+    ~pystar89@ip5b432207.dynamic.kabel-deutschland.de (jannik mueller)
+*** #ubuntu     Rokixz     H    ~rokas@5.199.160.9 (Rokas Klyvis)
+*** #ubuntu     Laconic    H    ~Laconic@76.8.60.148 (Unknown)
+*** #ubuntu     Varth      H    ~Varth@69-174-153-195.plfdilaa.metronetinc.net
+    (realname)
+*** #ubuntu     wirehead   H    ~wirehead@24-207-71-163.eastlink.ca (realname)
+*** #ubuntu     vonzcfw    G    ~vonzcfw@198.12.101.124 (vonzcfw)
+*** #ubuntu     ericrajuin H    ~user@061092133237.ctinets.com (realname)
+*** #ubuntu     fxnoob     H    noob@2a02:2f0e:1a0:412:cc36:22d4:5002:2c80
+    (MIhnea)
+*** #ubuntu     sigsts     H    ~sigsts@unaffiliated/skyroverr (sigsts)
+*** #ubuntu     pragmaticenigma H
+    ~pragmatic@c-24-131-179-17.hsd1.mn.comcast.net (realname)
+*** #ubuntu     Kryptron   H    ~Kryptron@unaffiliated/kryptron (Kryptron)
+*** #ubuntu     mypapit    H    ~fakap@power.betul.mypapit.net (Mohammad Hafiz
+    Ismail mypapit)
+*** #ubuntu     e1337h4cksncr4ck H    ~e1337h4ck@73.79.228.208
+    (e1337h4cKsNcR4cKs)
+*** #ubuntu     Sven_vB    H    ~sven@gateway/tor-sasl/svenvb/x-98888234
+    (Sven)
+*** #ubuntu     ledeni     H    ~ledeni@gateway/tor-sasl/ledeni (realname)
+*** #ubuntu     herbmillerjr H    ~herb@c-76-120-173-141.hsd1.pa.comcast.net
+    (Herbert Miller Jr.)
+*** #ubuntu     wodencafe  H    ~cboyd@cpe-66-25-21-153.tx.res.rr.com (Woden
+    Cafe)
+*** #ubuntu     nowayy     H    ~noway96@2601:449:4200:eac8::a557 (noway42)
+*** #ubuntu     e1z0       H    ~null@88.216.80.57 (:O)
+*** #ubuntu     czart      H    ~czart@acfd114.neoplus.adsl.tpnet.pl
+    (realname)
+*** #ubuntu     ca_cabo    H
+    ca_cabotag@gateway/vpn/privateinternetaccess/cacabotage/x-53098932
+    (ca_cabo)
+*** #ubuntu     akem_      H    ~akem@136.0.0.90 (realname)
+*** #ubuntu     cpt-oblivious H    ~quassel@freebsd/user/cpt-oblivious
+    (cpt-oblivious)
+*** #ubuntu     coolball_  H    ~coolball@unaffiliated/coolball (realname)
+*** #ubuntu     L3gacy     H
+    ~L3gacy@pool-173-71-91-64.cmdnnj.fios.verizon.net (realname)
+*** #ubuntu     harrymm    H    ~harrymm@104.207.83.18 (KVIrc 4.2.0
+    Equilibrium http://kvirc.net/)
+*** #ubuntu     camako     H    ~camako@47.185.220.52 (Cemil Azizoglu)
+*** #ubuntu     b3zi-      G    ~b3zi@port-92-203-26-111.dynamic.qsc.de (b3zi)
+*** #ubuntu     brainwash  G    ~tuturu@unaffiliated/brainwash (User)
+*** #ubuntu     bumbar_    H    ~bumbar@unaffiliated/bumbar (realname)
+*** #ubuntu     underd0g   H    ~underd0g@157.160.3.87 (underd0g)
+*** #ubuntu     modernbob  H    ~modern12@23.29.80.208.bbc.net (realname)
+*** #ubuntu     pdrakeweb  H    ~pdrakeweb@cpe-71-74-153-111.neo.res.rr.com
+    (pdrakeweb)
+*** #ubuntu     chamaeleon H
+    bounce@odyssey-1-pt.tunnel.tserv1.bud1.ipv6.he.net (kó´∞ó´”mió´’lió´∞n)
+*** #ubuntu     liefer     H    ~liefer@3e6b4c17.rev.stofanet.dk (liefer)
+*** #ubuntu     BionicMac  H    ~bungholio@gateway/tor-sasl/bungholio
+    (bungholio)
+*** #ubuntu     pervader   G
+    uid294358@gateway/web/irccloud.com/x-ezyhrmxaavzpaqzp (pervader)
+*** #ubuntu     cadeskywalker H
+    ~madoka@LFbn-1-9165-212.w86-238.abo.wanadoo.fr (madoka)
+*** #ubuntu     duttasankha H    ~duttasank@sdutt004.cs.ucr.edu (Sankha Dutta)
+*** #ubuntu     cliluw     H    ~cliluw@unaffiliated/cliluw (realname)
+*** #ubuntu     DisplayError H    ~DisplayEr@185.21.216.145 (Unknown)
+*** #ubuntu     de-facto   H    ~de-facto@gateway/tor-sasl/de-facto (de-facto)
+*** #ubuntu     feodoran   G    ~quassel@mue-88-130-118-234.dsl.tropolys.de
+    (feodoran)
+*** #ubuntu     andregra1  H
+    ~andregray@host86-141-5-67.range86-141.btcentralplus.com (andregray)
+*** #ubuntu     niko       G    ~niko@freenode/staff/ubuntu.member.niko
+    (Nicolas Coevoet)
+*** #ubuntu     nacc       H    ~nacc@97-120-188-127.ptld.qwest.net (Nishanth
+    Aravamudan)
+*** #ubuntu     urdh       H    ~urdh@unaffiliated/urdh (Simon Sigurdhsson)
+*** #ubuntu     Squarism   H    ~someone@178.62.91.8 (Got ZNC?)
+*** #ubuntu     NET||abuse G    ~quassel@mmchat.labdigital.co.uk (Luke AB)
+*** #ubuntu     Ad1Tech    H    ~ad1tech@s37.linuxpl.com (ad1tech)
+*** #ubuntu     Barzogh    H    ~barzogh@pdpc/supporter/active/barzogh
+    (barzogh)
+*** #ubuntu     Stinky-Feet G    ~stinkyfee@h-52-236.A213.priv.bahnhof.se
+    (stinkyfeet)
+*** #ubuntu     estan_     H    ~astan@81-226-138-92-no518.tbcn.telia.com
+    (Elvis Stansvik)
+*** #ubuntu     JanC       H    ~janc@lugwv/member/JanC (Jan Claeys)
+*** #ubuntu     brief      H    4e22ef7d@gateway/web/freenode/ip.78.34.239.125
+    (xdsl-78-34-239-125.netcologne.de/78.34.239.125)
+*** #ubuntu     shabius    H    ~shabius@proxy.se1.azirevpn.net (*)
+*** #ubuntu     Shadowmm   H    ~Shadowmm@unaffiliated/shadowmm (Got ZNC?)
+*** #ubuntu     hggdh      H    ~hggdh@ubuntu/member/hggdh (C de-Avillez)
+*** #ubuntu     bittyx     H    ~bittyx@unaffiliated/bittyx (bittyx)
+*** #ubuntu     Ceber      H
+    ~cerberus@dslb-002-203-012-250.002.203.pools.vodafone-ip.de (Cerberus)
+*** #ubuntu     kostkon    H    ~kostkon@unaffiliated/kostkon (Costas)
+*** #ubuntu     mgor       H    ~mgor@irc.isolated.se (mgor)
+*** #ubuntu     NextContestant H    ~coll@c-98-203-248-224.hsd1.wa.comcast.net
+    (realname)
+*** #ubuntu     `Cam       H    ~textual@59-102-110-13.tpgi.com.au (Textual
+    User)
+*** #ubuntu     BSaboia    H    ~BSaboia@186.213.26.214 (realname)
+*** #ubuntu     neunon     H    znc@unaffiliated/neunon (Steven Noonan)
+*** #ubuntu     Exagone313 G    exa@3131313.xyz (https://elou.world)
+*** #ubuntu     mave_      H    ~irc@unaffiliated/mave/x-8614856 (Marcel)
+*** #ubuntu     mipesom    H
+    ~mipesom@p200300E6EBCE7400B8B84C7CDA5EC646.dip0.t-ipconnect.de (Michael)
+*** #ubuntu     dinoocch   H    ~dinoocch@cvgateway.utdallas.edu (dinoocch)
+*** #ubuntu     kees       H    ~kees@ubuntu/member/keescook (Kees Cook)
+*** #ubuntu     StoneCypher H
+    ~StoneCyph@c-73-162-135-74.hsd1.ca.comcast.net (...)
+*** #ubuntu     padv       H    ~padv@ip-81-11-184-62.dsl.scarlet.be (Pascal
+    De Vuyst)
+*** #ubuntu     maum       H    ~maum@150.183.111.241 (A CIRC user)
+*** #ubuntu     Freejack   H    ~quassel@unaffiliated/freejack (freejack)
+*** #ubuntu     wgma       H    ~wgma00@2607:fea8:3160:420:2dbf:132b:9961:107e
+    (wgma)
+*** #ubuntu     khisanth__ H
+    ~Khisanth@pool-108-46-1-61.nycmny.east.verizon.net (Unknown)
+*** #ubuntu     flugger    H    ~flug@unaffiliated/flugger (I spilled beer on
+    Jesus)
+*** #ubuntu     idwer      H    ~idwer@unaffiliated/idwer ( )
+*** #ubuntu     vt102      H
+    uid293813@gateway/web/irccloud.com/x-jwsrvznbccihdmcj (Andy Cowell)
+*** #ubuntu     Very_slow  H
+    ~dewrock@CPEc412f5da6ef1-CM84948c4b03d0.cpe.net.cable.rogers.com
+    (Very_slow)
+*** #ubuntu     shiznix    H    quassel@gentoo/user/shiznix (Rick)
+*** #ubuntu     forkup     H    chillen@unaffiliated/forkup (DeD-SeKc)
+*** #ubuntu     Nik05      H    ~Nik05@unaffiliated/nik05 (Nik05)
+*** #ubuntu     weaksauce  H    ~weaksauce@ip72-194-79-219.oc.oc.cox.net (now
+    now)
+*** #ubuntu     gmourey    H
+    ~nmourey@2601:18d:8900:fc24:a43d:cd30:501b:d992 (realname)
+*** #ubuntu     bildramer  H
+    ~bildramer@p200300ED83CE14006C4FA047B528025F.dip0.t-ipconnect.de (...)
+*** #ubuntu     DF3D2      H    ~Pete@unaffiliated/df3d2 (realname)
+*** #ubuntu     alxd       H    ~alxd@188.226.245.148 (alxd)
+*** #ubuntu     herekun    H    ~herekun@164.132.132.199 (herekun)
+*** #ubuntu     nwilson5   H
+    ~nwilson5@23-24-247-45-static.hfc.comcastbusiness.net (nwilson5)
+*** #ubuntu     trekkie1701c G
+    trekkie170@ec2-52-15-173-116.us-east-2.compute.amazonaws.com (The Trekkie)
+*** #ubuntu     Daegalus   G    ~Daegalus@104.236.137.120 (Yulian Kuncheff)
+*** #ubuntu     jjvvx      H    ~jjvvx@jjvvx.me (Joaquin)
+*** #ubuntu     argusbr    H    ~down@unaffiliated/argusbr (...)
+*** #ubuntu     markus1189 H    ~markus118@32908726D2.tidsl.titannet.de
+    (markus1189)
+*** #ubuntu     V7         H    ~v7@unaffiliated/v7 (v7)
+*** #ubuntu     evert_     H    ~evert@2a02:a03f:4c5f:6100:a436:4847:4d5f:8fed
+    (Evert Carton)
+*** #ubuntu     vivid      H    ~ViViD@unaffiliated/vivid (realname)
+*** #ubuntu     destiny    H    ~reorder@b2eed622.ttnk.hu (reorder)
+*** #ubuntu     Transfusion H    ~transfusi@trivialand/master/transfusion
+    (Transfusion)
+*** #ubuntu     mib        H    ~quassel@84-255-239-85.static.t-2.net (_)
+*** #ubuntu     markus-k   H    ~markus@server01.comtime-it.eu (markus)
+*** #ubuntu     ssarah     H    ~miguel@194.65.5.235 (miguel)
+*** #ubuntu     sobersabre H    ~sobersabr@unaffiliated/sobersabre
+    (sobersabre)
+*** #ubuntu     albttx     H    ~albttx@ns3034858.ip-91-121-154.eu (Albert Le
+    Batteux)
+*** #ubuntu     phoenixz   H    ~quassel@148.240.190.79 (Sven Olaf
+    Oostenbrink)
+*** #ubuntu     _S4MUR4I_  H    ~kvirc@186-247-198-119.user.veloxzone.com.br
+    (s4mur4i)
+*** #ubuntu     steven__   H    ~steven@221.224.11.234 (steven)
+*** #ubuntu     Guest28638 H    ~kevin@222.129.17.142 (kevin)
+*** #ubuntu     derpy      H
+    ~quassel@ip5f5bff66.dynamic.kabel-deutschland.de (nico)
+*** #ubuntu     n35xdxb0   H    ~n35xdxb0@81.171.69.131 (n35xdxb0)
+*** #ubuntu     fundies    G    ~fundies@5.2.76.71 (fundies)
+*** #ubuntu     Menzador   H
+    17e25292@gateway/web/cgi-irc/kiwiirc.com/ip.23.226.82.146
+    ([https://kiwiirc.com] Development release)
+*** #ubuntu     kolbert    H    uid211561@wikimedia/JonKolbert (Don't worry, I
+    got us.)
+*** #ubuntu     BGL        H
+    ~BGLWrK@75-149-171-58-Washington.hfc.comcastbusiness.net (BGLWrK)
+*** #ubuntu     carif      H    ~mcarifio@cpe-24-198-127-214.maine.res.rr.com
+    (realname)
+*** #ubuntu     phil42     H    ~phil42@c-76-125-104-228.hsd1.ar.comcast.net
+    (phil42)
+*** #ubuntu     epanda     H    ~epanda@182.148.36.203 (realname)
+*** #ubuntu     Inimesekene H
+    ~textual@3cd1-b1e2-dca0-89c8-0280-87d0-07d0-2001.dyn.estpak.ee (Textual
+    User)
+*** #ubuntu     jackmcbarn G    ~jackmcbar@wikipedia/jackmcbarn (Jackmcbarn)
+*** #ubuntu     AJ_Z0      H    ~AJ_Z0@pdpc/supporter/professional/ajz0
+    (Andrew J. Caines)
+*** #ubuntu     f|shy      H    ~fishy@dbkeay.plus.com (fishwithapipe)
+*** #ubuntu     mlhess     H    ~mlhess@drupal.org/user/102818/view (Michael
+    Hess)
+*** #ubuntu     morphis_   H    ~morphis@pD9ED7910.dip0.t-ipconnect.de (Simon
+    Fels)
+*** #ubuntu     dhs2324234234234 H
+    ~atlas@50-248-67-210-static.hfc.comcastbusiness.net (atlas)
+*** #ubuntu     gregl      H    ~greg@cpe-24-194-253-7.nycap.res.rr.com (Greg)
+*** #ubuntu     ehlodex    H    ~quassel@owa.lctabus.com (Ilos Aran)
+*** #ubuntu     craig4who  H
+    ~craig4who@cpc88427-bexl10-2-0-cust1912.2-3.cable.virginm.net (...)
+*** #ubuntu     telex      H    teletype@freeshell.de (telex)
+*** #ubuntu     foul_owl   H    ~foul_owl@97-113-55-31.tukw.qwest.net
+    (foul_owl)
+*** #ubuntu     niee       H    ~user@MIND.THE.GAP.NIEE.CLUB ()
+*** #ubuntu     raidghost  H    raidghost@login.kristshell.net (My name is
+    raidghost)
+*** #ubuntu     flying_sausages H    ~flying_sa@2a01:4f8:161:610b::2 (The pack
+    of sausages that are very fly)
+*** #ubuntu     adellam    H    ~adellam@pdpc/supporter/active/adellam (Andrea
+    Dell'Amico)
+*** #ubuntu     pari42     H
+    uid24791@gateway/web/irccloud.com/x-ahufttpdlyzrvfbe (Parikshith
+    Mechineni)
+*** #ubuntu     Tm_T       G
+    tm_travolt@ubuntu/member/kde.developer.jkekkonen (Tm_T is also known as
+    Jussi Kekkonen)
+*** #ubuntu     jack_c     H    ~jack@pool-173-62-2-77.pghkny.fios.verizon.net
+    (Jack Chastain)
+*** #ubuntu     ztane      H    ztane@lakka.kapsi.fi (Antti Haapala)
+*** #ubuntu     ineiros    H    ineiros@kapsi.fi (Ilari Nieminen)
+*** #ubuntu     sjl_       H    sjl@kapsi.fi (Sami Laine)
+*** #ubuntu     zduniak    G    ~piotr@zduniak.net (Piotr Zduniak)
+*** #ubuntu     mijndert[m] H
+    mijndertma@gateway/shell/matrix.org/x-lnvgfoqbhhomnnqz
+    (@mijndert:matrix.mijndertstuij.nl)
+*** #ubuntu     ph0b0s_    H    ~ph0b0s@adsl-155.37.6.24.tellas.gr (ph0b0s)
+*** #ubuntu     nuc        G    ~nuc@electra.zerofill.de (nuc)
+*** #ubuntu     Night_     H    ~Night@2a02:fe0:c100:5:ec3d:1d2a:292f:a091
+    (Night)
+*** #ubuntu     fabricius  H    ~Thunderbi@p2E54C686.dip0.t-ipconnect.de
+    (fabricius)
+*** #ubuntu     noxs       H    ~noxs@p5DFFA3AE.dip0.t-ipconnect.de (noxs)
+*** #ubuntu     freecoder  H
+    Elite21018@gateway/shell/elitebnc/x-gsygwirdvoacpcpi (Using EliteBNC, I'm
+    part of the elite!)
+*** #ubuntu     luna_      H    ~luna@vps154124.loopiavps.com (Esmeralda)
+*** #ubuntu     hunterlabs H
+    Elite20801@gateway/shell/elitebnc/x-bpwknwuhenexqoda (Using EliteBNC, I'm
+    part of the elite!)
+*** #ubuntu     thxffo     H
+    Elite20682@gateway/shell/elitebnc/x-voahtnniatgfclkk (Dick)
+*** #ubuntu     Thumpxr    H    ~Thumper@server.thumper.de (Stranger.)
+*** #ubuntu     inteus     H    ~inteus@c-73-93-34-71.hsd1.ca.comcast.net
+    (oheresy)
+*** #ubuntu     yokel      H    ~yokel@unaffiliated/contempt (yokel)
+*** #ubuntu     poutine    H    ~poutine@dont.leave.your.anus.exposed
+    (freepoutine)
+*** #ubuntu     Sigyn      H@   sigyn@freenode/utility-bot/sigyn
+    (#freenode-sigyn for details)
+*** #ubuntu     CrypticSquared H    ~CrypticS_@unaffiliated/crypticsquared
+    (CrypticS_)
+*** #ubuntu     mumixam    H    ~m@unaffiliated/mumixam (m)
+*** #ubuntu     Jazzy_J    H
+    ~JazzyJay@2600:1702:2430:8950:1a03:73ff:febf:179e (realname)
+*** #ubuntu     farid      H
+    ~farid@iv2-technologies-gw1.ter1.prb.par.cust.as8218.eu (farid)
+*** #ubuntu     Slart      H    ~markus@h-89-39.A230.priv.bahnhof.se (na)
+*** #ubuntu     xamindar   H    ~quassel@71-15-99-150.dhcp.ftwo.tx.charter.com
+    (xamindar)
+*** #ubuntu     Skaface82  H
+    ~Skaface@pa49-183-145-88.pa.vic.optusnet.com.au (Skaface)
+*** #ubuntu     mcs_       H    ~matthew@ubuntu/member/matt-symes (matthew)
+*** #ubuntu     fyrril2    H    ~fyrril@2605:a601:7012:7200:1df:f424:2778:ffa1
+    (realname)
+*** #ubuntu     zonum      H
+    ~zonum@99-89-122-76.lightspeed.miamfl.sbcglobal.net (zonum)
+*** #ubuntu     hardbot    H
+    ~hardbot@LPuteaux-656-1-75-52.w92-154.abo.wanadoo.fr (user)
+*** #ubuntu     archpc     H    ~archpc@ircbouncehouse.com (ZNC -
+    http://znc.in)
+*** #ubuntu     lu_tze     H    ~lu_tze@S0106c8fb26819b81.gv.shawcable.net
+    (lu_tze)
+*** #ubuntu     WildSoft   H    ~WildSoft@unaffiliated/wildsoft (WildSoft)
+*** #ubuntu     psych0dellic H    ~psych0del@189.22.10.114 (realname)
+*** #ubuntu     m4v        G    ~znc@ubuntu/member/m4v (Elië®¢n Hanisch)
+*** #ubuntu     Ben64      H    ~Ben64@unaffiliated/ben64 (Ben64)
+*** #ubuntu     MACscr     H    ~MACscr@c-73-9-230-5.hsd1.il.comcast.net
+    (MACscr)
+*** #ubuntu     Hackerpcs  H    ~Hackerpcs@unaffiliated/hackerpcs (Hackerpcs)
+*** #ubuntu     isantop    G    ~isantop@system76/isantop (Ian Santopietro)
+*** #ubuntu     disi       H    ~quassel@c-76-104-203-143.hsd1.wa.comcast.net
+    (David Tucker)
+*** #ubuntu     djarbore   H    ~djarbore@85.30.254.43 (Denis)
+*** #ubuntu     mircx1     H    ~user@unaffiliated/mircx1 (@)
+*** #ubuntu     dskull     H    ~dskull@unaffiliated/daynaskully (dayna)
+*** #ubuntu     michaelni  H    ~michael@213-47-41-20.cable.dynamic.surfer.at
+    (Michael)
+*** #ubuntu     genewitch  H    ~genewitch@unaffiliated/genewitch (Unknown)
+*** #ubuntu     blingrang  H    ~blingrang@unaffiliated/blingrang (blingrang)
+*** #ubuntu     armyriad   H    ~armyriad@205.251.148.66 (realname)
+*** #ubuntu     Butterfly| H
+    Butterfly_@gateway/vpn/privateinternetaccess/butterfly/x-89248777
+    (Butterfly-)
+*** #ubuntu     n-st       G    ~n-st@unaffiliated/n-st (n.st)
+*** #ubuntu     GNUdog     H    ~gnudog@softbank126074200176.bbtec.net
+    (GNUdog)
+*** #ubuntu     ianychoi   H    ~ianychoi@1.235.217.105 (Ian Y. Choi)
+*** #ubuntu     linuxdaemon G    linuxdemon@unaffiliated/linuxdaemon
+    (linuxdaemon)
+*** #ubuntu     guiverc    G
+    ~guiverc@ppp118-209-125-221.bras1.mel11.internode.on.net (Chris Guiver)
+*** #ubuntu     leo_       H    ~leo@228.31.17.93.rev.sfr.net (Leo DUPOUY)
+*** #ubuntu     yoshifan   H    ~yoshifan@cpe-70-121-105-157.austin.res.rr.com
+    (yoshifan)
+*** #ubuntu     kudu       G    kudu@gateway/shell/firrre/x-gvdenulebogamdps
+    (kudu)
+*** #ubuntu     levd1      H    ~LevinDu@45.78.5.240.16clouds.com (Levin Du)
+*** #ubuntu     Octa-X     G    irc@kw.gl (bender)
+*** #ubuntu     Mathis     H    ~kv1rc@p57A78661.dip0.t-ipconnect.de (Mathis)
+*** #ubuntu     Cyber_Akuma H
+    ~Cyber_Aku@c-73-75-130-203.hsd1.il.comcast.net (...)
+*** #ubuntu     john-34    H    ~john-34@93.114.71.39 (realname)
+*** #ubuntu     GerbilSoft H
+    ~GerbilSof@pool-108-24-138-141.cmdnnj.fios.verizon.net (GerbilSoft (rly))
+*** #ubuntu     jinie      H    ~jimmy@188.114.173.201 (Jimmy)
+*** #ubuntu     PityDaFool G
+    ~AfroThund@pool-71-244-241-187.bltmmd.fios.verizon.net (Eddie J Carswell
+    II)
+*** #ubuntu     LenPayne   G    ~LenPayne@196.ip-149-56-109.net (Got ZNC?)
+*** #ubuntu     diarpi     G
+    ~diarpi@ec2-35-157-38-10.eu-central-1.compute.amazonaws.com (diarpi)
+*** #ubuntu     pdodger    H
+    chilly9989@gateway/shell/xzibition.com/x-rzdltijpkxfdkmsa (pdodger)
+*** #ubuntu     n4n0`      H
+    ~mewtoo@dynamic-acs-24-239-61-83.zoominternet.net (realname)
+*** #ubuntu     binaryhermit G
+    ~binaryher@belencomputers/member/binaryhermit (binaryhermit)
+*** #ubuntu     SlidingHorn H    ~albrecht@cpe-184-56-48-193.neo.res.rr.com
+    (albrecht)
+*** #ubuntu     u0m3_      H    ~u0m3@84.232.219.200 (realname)
+*** #ubuntu     krisd      H
+    krisd@gateway/shell/mydevil.net/x-xztasuywzcdmjfbx (User Krisd)
+*** #ubuntu     cookiecutter G
+    sid230235@gateway/web/irccloud.com/x-fyfybezagwykdsxq (cookiecutter)
+*** #ubuntu     redlegion  G    ~x@gateway/tor-sasl/redlegion (x)
+*** #ubuntu     devster31  G    ~devster@ns348877.ip-91-121-108.eu (devster)
+*** #ubuntu     tsglove2   H    ~tsglove@12.205.72.46 (realname)
+*** #ubuntu     Blueking   H    ~Blueking@99.109-247-165.customer.lyse.net
+    (...)
+*** #ubuntu     oerheks    H    ~oerheks@ubuntu/member/oerheks (Andy)
+*** #ubuntu     insidious  H    ~ceo@root.blazingnode.org (I solemnly swear
+    that I am up to no good.)
+*** #ubuntu     theZenman  H    ~quassel@205.201.20.43 (Yˆzen Hern·ndez)
+*** #ubuntu     DalekSec   H    unit193@freenode/staff/ubuntu.member.unit193
+    (Unknown)
+*** #ubuntu     arij       H
+    uid225068@gateway/web/irccloud.com/x-obblabkfwuvbuzof (arij)
+*** #ubuntu     fcastillo  H    ~fcastillo@97.107.177.226 (Felipe)
+*** #ubuntu     bstempi_   H    ~brianstem@192.76.120.192 (Brian Stempin)
+*** #ubuntu     jhutchins  H    ~jonathan@136.33.72.78 (Jonathan Hutchins)
+*** #ubuntu     darxun     H    ~darxun@shell1.eushells.com (darxun)
+*** #ubuntu     xerox123   G    xerox123@unaffiliated/xerox123 (xerox123)
+*** #ubuntu     Ghosthree3 H    ~Ghosthree@unaffiliated/ghosthree3 (ZNC)
+*** #ubuntu     Scenick    H
+    ~Scenick@14.250.197.104.bc.googleusercontent.com (Unknown)
+*** #ubuntu     oijeeboo   H
+    ~oijeeboo@cpc103700-stkn16-2-0-cust757.11-2.cable.virginm.net (realname)
+*** #ubuntu     bn_work    H
+    uid268505@gateway/web/irccloud.com/x-sjatdppdrlfyvcrs (-)
+*** #ubuntu     yt         H    ~yt@193.140.88.3 (yt)
+*** #ubuntu     rscheideman H    ~rscheidem@mail.rtns.ca (Ryan D. Scheideman)
+*** #ubuntu     dre        H    ~dre@54.191.31.79 (Paul Atkinson)
+*** #ubuntu     topi`      H    topi@kaverit.org (Topi Kanerva)
+*** #ubuntu     wk-work_   H    ~quassel@2a01:600:1:0:45c:fb88:c5f2:2906 (wk)
+*** #ubuntu     kwitschi   H    ~kwitschi@v03.xuxe.de (Mathias)
+*** #ubuntu     jnewt      H    ~josh@c-174-58-180-12.hsd1.ks.comcast.net
+    (realname)
+*** #ubuntu     kylen_     H    kylen@lagoon.freebsd.lublin.pl (Krzysztof
+    Lenartowicz)
+*** #ubuntu     alpalp_    H    ~allen@2602:306:ce2a:a070:2d05:238c:33b3:7504
+    (alp)
+*** #ubuntu     kcas_      H    ~kcas@192.190.0.4 (realname)
+*** #ubuntu     lapion     H    ~axion@2001:980:d51e:1:e372:d958:6400:14fe
+    (axion)
+*** #ubuntu     cyphase    H    ~cyphase@unaffiliated/cyphase (Cyphase)
+*** #ubuntu     sins-      H    sins@moh1224.com (sins)
+*** #ubuntu     yeticry    H    ~yeticry@223.240.217.212 (Ho Yang)
+*** #ubuntu     Simonious_ H
+    ~simonious@68-113-148-6.dhcp.mdsn.wi.charter.com (simonious)
+*** #ubuntu     SunTsu     H    miyamoto@unaffiliated/suntsu (why worry?)
+*** #ubuntu     theGoat    H    ~textual@payphone.landofhaze.net (Textual
+    User)
+*** #ubuntu     sarri      H    ~sari@unaffiliated/sarri (Got cake?)
+*** #ubuntu     drsn0w     H    ~drsn0w@unaffiliated/drsn0w (drsn0w)
+*** #ubuntu     Mia        H    ~Mia@unaffiliated/mia (0)
+*** #ubuntu     treehug88  H
+    ~textual@pool-173-52-203-199.nycmny.fios.verizon.net (Textual User)
+*** #ubuntu     rypervenche H    ~rypervenc@unaffiliated/rypervenche (ryper)
+*** #ubuntu     spont4e    H    ~spont4e@home.spont4e.com (DJ SP)
+*** #ubuntu     slashd     H    ~slashd@ubuntu/member/slashd (Eric Desrochers)
+*** #ubuntu     rosseaux   G    ~BeRo@2a00:1828:2000:859::2 (Benjamin
+    Rosseaux)
+*** #ubuntu     Adbray     G    ~Adbray@2001:470:c39c:ffff:1958:2df1:f9a7:37c7
+    (Adbray)
+*** #ubuntu     K_K_N      H    ~K_K_N@unaffiliated/k-k-n/x-7394459 (K_K_N)
+*** #ubuntu     make91     H    ~make91@188.166.111.208 (Marcus Kivi)
+*** #ubuntu     deem       H
+    IB3RnwWzK4@gateway/shell/uberspace.de/x-smwxonuqlxwtqwbz (deem)
+*** #ubuntu     carman     G    ~carman@cpe-68-203-0-33.austin.res.rr.com (Jay
+    Carman)
+*** #ubuntu     hke        H    ~hke@ip5b414f38.dynamic.kabel-deutschland.de
+    (realname)
+*** #ubuntu     elec64     H    ~elec64@cpe-24-160-180-231.columbus.res.rr.com
+    (KVIrc 4.9.2 Aria http://kvirc.net/)
+*** #ubuntu     jinjonBoo  H    ~mail@152.211.115.89.rev.vodafone.pt (name)
+*** #ubuntu     Dovid      H    ~dovid@ool-45738ae3.dyn.optonline.net (Dovid)
+*** #ubuntu     nct        H    ~nct@reverse-194-50-49-34.e-point.pl (NCT)
+*** #ubuntu     colints    H    ~fn-colint@185.162.184.13 (fn-colints)
+*** #ubuntu     lblume     H    ~lblume@greenviolet/laoyijiehe/lblume (LB)
+*** #ubuntu     datajerk   H    ~datajerk@sense.net (datajerk)
+*** #ubuntu     transhuman H    ~transhuma@c-73-61-49-228.hsd1.ma.comcast.net
+    (realname)
+*** #ubuntu     Guest48    H    ~darren@82-71-13-185.dsl.in-addr.zen.co.uk
+    (ZNC - https://znc.in)
+*** #ubuntu     akay       H    akay@unaffiliated/akay (akay ZNC)
+*** #ubuntu     Catalysm   H
+    ~Catalysm@15.62-241-81.adsl-dyn.isp.belgacom.be (The Lounge User)
+*** #ubuntu     wallen     H    ~wallen@185.21.216.186 (wallen)
+*** #ubuntu     ijmad      G    ~ian@latte.stronger.coffee (Ian)
+*** #ubuntu     chiluk     H    ~quassel@70.123.59.96 (chiluk,,,)
+*** #ubuntu     seyeongkim H
+    seyeongkim@gateway/web/irccloud.com/x-fefepfeeazbzdbbz (Seyeong Kim)
+*** #ubuntu     DK2        H    ~DK2@rs000042.fastrootserver.de (DK2)
+*** #ubuntu     jpe        H    ~jpe@gb-r9-01.pixelpark.net (realname)
+*** #ubuntu     m5w        H
+    m5wmatrixo@gateway/shell/matrix.org/x-iwuinefspirzkcdr (@m5w:matrix.org)
+*** #ubuntu     tetris2345[m] H
+    tetris2345@gateway/shell/matrix.org/x-mwttsupiqidqvsba
+    (@tetris2345:matrix.org)
+*** #ubuntu     franzer    H
+    franzermat@gateway/shell/matrix.org/x-arlenzfufvvaogod
+    (@franzer:matrix.org)
+*** #ubuntu     fz_salam   H
+    fzsalammat@gateway/shell/matrix.org/x-rhealtiupmktwgyz
+    (@fz_salam:matrix.org)
+*** #ubuntu     pedroferry[m] H
+    pedroferry@gateway/shell/matrix.org/x-vhskvqqlqfpywcee
+    (@pedroferry:matrix.org)
+*** #ubuntu     ckboss[m]  H
+    ckbossmatr@gateway/shell/matrix.org/x-sxviqsljhczvvrwx
+    (@ckboss:matrix.org)
+*** #ubuntu     OS-23778   H
+    matrix8967@gateway/shell/matrix.org/x-awnrkgretgnioblf
+    (@Matrix8967:matrix.org)
+*** #ubuntu     edwinvanolst[m] H
+    edwinvanol@gateway/shell/matrix.org/x-ovdfjripfjciavpn
+    (@edwinvanolst:matrix.org)
+*** #ubuntu     simonizor  H
+    simonizord@gateway/shell/matrix.org/x-awbboqguvbrxtzrv
+    (@simonizor:disroot.org)
+*** #ubuntu     abbiya     H
+    abbiyamatr@gateway/shell/matrix.org/x-ejrzklhsjvlizbnl
+    (@abbiya:matrix.org)
+*** #ubuntu     chrowe[m]  H
+    chrowematr@gateway/shell/matrix.org/x-ehgrfzjoawbcwvjd
+    (@chrowe:matrix.org)
+*** #ubuntu     kirscht[m] H
+    kirschtmat@gateway/shell/matrix.org/x-gipfpekuoalhmeau
+    (@kirscht:matrix.org)
+*** #ubuntu     DevOpsGeneral-Be H
+    devopsmatr@gateway/shell/matrix.org/x-akxebyxenufyixtg
+    (@devops:matrix.parity.io)
+*** #ubuntu     sxar       H
+    novcharmat@gateway/shell/matrix.org/x-mrfsezxqqhrftgil
+    (@novchar:matrix.org)
+*** #ubuntu     Guest28240 H
+    fourkmatri@gateway/shell/matrix.org/x-fnxyyvqklpvhfngb (@fourk:matrix.org)
+*** #ubuntu     brotkiste[m] H
+    brotkistem@gateway/shell/matrix.org/x-luogunxljdeqawlt
+    (@brotkiste:matrix.org)
+*** #ubuntu     oliviamaia[m] H
+    oliviamaia@gateway/shell/matrix.org/x-efzlrynexobtiezo
+    (@oliviamaia:matrix.org)
+*** #ubuntu     ch3n2k[m]  H
+    ch3n2kma1@gateway/shell/matrix.org/x-sekhbgicirvmxuwd
+    (@ch3n2k:matrix.ch3n2k.com)
+*** #ubuntu     tobias[m]1 H
+    tobiaswedo@gateway/shell/matrix.org/x-wkqovfgzgegtwarh
+    (@tobias:wedogames.se)
+*** #ubuntu     jounih[m]  H
+    jounihmatr@gateway/shell/matrix.org/x-evezrklraflkykfu
+    (@jounih:matrix.org)
+*** #ubuntu     waqqasdadabhoy[m H
+    waqqasdada@gateway/shell/matrix.org/x-kmcgintvjajvczfy
+    (@waqqasdadabhoy:hackerspace.be)
+*** #ubuntu     DiogoGomes[m] H
+    diogogomes@gateway/shell/matrix.org/x-jmuhfuiwcseocdex
+    (@diogogomes:matrix.org)
+*** #ubuntu     snek       H
+    snekmatrix@gateway/shell/matrix.org/x-qvucjemrvnimkapb (@snek:matrix.org)
+*** #ubuntu     hotbakedpotato[m H
+    hotbakedpo@gateway/shell/matrix.org/x-cmansabnfmbrljcj
+    (@hotbakedpotato:matrix.org)
+*** #ubuntu     rich[m]    H
+    richdisroo@gateway/shell/matrix.org/x-utfgxobomctnsoui (@rich:disroot.org)
+*** #ubuntu     admin[m]2  H
+    adminpdxme@gateway/shell/matrix.org/x-sjztjyqfhipuaocn
+    (@admin:pdxmesh.net)
+*** #ubuntu     jacob[m]1  H
+    jacobjswhi@gateway/shell/matrix.org/x-rsnoxvlmbmkhfytg (@jacob:jswhit.net)
+*** #ubuntu     andreasw[m] H
+    andreaswma@gateway/shell/matrix.org/x-erpkdljpdmgvwbkg
+    (@andreasw:matrix.org)
+*** #ubuntu     stathis[m] H
+    stathisura@gateway/shell/matrix.org/x-dyxvfhntufnubhhy
+    (@stathis:uranus.parp.network)
+*** #ubuntu     edong23    H    ~quassel@mptc-dhcp-52-50.mptelco.com (edong23)
+*** #ubuntu     remix2000[m] H
+    remix2000m@gateway/shell/matrix.org/x-miehdhwkxszhclmq
+    (@remix2000:matrix.org)
+*** #ubuntu     M-bbigras  H
+    bbigrasmat@gateway/shell/matrix.org/x-ykvgsroioymxqqvg
+    (@bbigras:matrix.org)
+*** #ubuntu     javier[m]  H
+    javierchat@gateway/shell/matrix.org/x-gktmdjeuowttjvsy
+    (@javier:chat.grupofrg.com)
+*** #ubuntu     rockyiii[m] H
+    rockyiiima@gateway/shell/matrix.org/x-otycccadkyjyirha
+    (@rockyiii:matrix.org)
+*** #ubuntu     salman[m]  H
+    salmanmatr@gateway/shell/matrix.org/x-qmvmwbyqonjnweab
+    (@salman:matrix.org)
+*** #ubuntu     orangesodacan[m] H
+    orangeso1@gateway/shell/matrix.org/x-lsxjyewamcmmxdeg
+    (@orangesodacan:home.matrix.one-crazy-human.net)
+*** #ubuntu     denixx|h2  H    ~denixx@159.224.255.216 (KVIrc 4.9.3 Aria
+    http://kvirc.net/)
+*** #ubuntu     Rondom     G    ~rondom@modo.nonmodosedetiam.net (Andreas
+    Gnau)
+*** #ubuntu     dellavg    H
+    dellavg@gateway/shell/firrre/x-vdpbjnjyxfljmmdo (Gianluca)
+*** #ubuntu     Kon[m]     H
+    konmatri2@gateway/shell/matrix.org/x-sdsukjbcrsjrhfyp (@.kon:matrix.org)
+*** #ubuntu     iceskins[m] H
+    iceskinsma@gateway/shell/matrix.org/x-djqcwdjjugnnozpl
+    (@iceskins:matrix.org)
+*** #ubuntu     blujaxian  H
+    blujaxianm@gateway/shell/matrix.org/x-jswbhwlzwpropmvy
+    (@blujaxian:matrix.org)
+*** #ubuntu     brunoqueiros[m] H
+    brunoqueir@gateway/shell/matrix.org/x-xioykkixubbrpvoh
+    (@brunoqueiros:matrix.org)                                          [18:40]
+*** #ubuntu     karlhaworth[m] H
+    karlhawort@gateway/shell/matrix.org/x-sslqjccibqqlnvtu
+    (@karlhaworth:matrix.karlhaworth.com)
+*** #ubuntu     bhuddah    H    ~michael@unaffiliated/bhuddah (michael)
+*** #ubuntu     JosephGrasser H
+    ~quassel@2601:645:4100:daa5:4ccc:a5f0:afd3:c64e (Joseph Grasser)
+*** #ubuntu     BrAsS_mOnKeY H    g2@2a0a:54c1:6:108::1:1 (...)
+*** #ubuntu     PickledEggs H
+    ~PickledEg@c-71-231-106-134.hsd1.wa.comcast.net (ZNC - http://znc.in)
+*** #ubuntu     pagios     H
+    Elite20382@gateway/shell/elitebnc/x-odcetvlstfdsphuy (Using EliteBNC, I'm
+    part of the elite!)
+*** #ubuntu     jugo_      H    ~jugo@us-newjersey.ra4wvpn.com (jugo)
+*** #ubuntu     riotz      H    ~riotz@unaffiliated/riotz (.)
+*** #ubuntu     gorlock    H    ~gorlock@vpn.luft-privat.de (gorlock)
+*** #ubuntu     Edgan      G    ~edgan@c-73-189-210-144.hsd1.ca.comcast.net
+    (Edgan StarHeart)
+*** #ubuntu     BytesBaconBB H    ~BytesBaco@2a01:4f8:141:23cd::2 (BytesBacon)
+*** #ubuntu     igor_opaniuk G
+    igor_opani@gateway/shell/linaro/x-hpxycmslazyvjwfm (Igor Opaniuk)
+*** #ubuntu     necrogami  H
+    sid211237@gateway/web/irccloud.com/x-etgbxrfhgoqfokfo (Anton Swartz)
+*** #ubuntu     orf__      H    ~orf__@195.201.21.75 (orf__)
+*** #ubuntu     zwamkat    G    ~zwamkat@pdpc/supporter/student/zwamkat (Who's
+    your Zwamkat?)
+*** #ubuntu     Sleaker_   H    ~quassel@2604:880:a:7::e1b (sleaker)
+*** #ubuntu     realies    H    ~realies@unaffiliated/realies (realies)
+*** #ubuntu     matti_     H    ~matti@xfs.fsck.io (Jack of all trades, master
+    of none.)
+*** #ubuntu     no_maam    H    ~password_@gauss.datenzone.de
+    (password_tantalls)
+*** #ubuntu     michagogo  H    uid14316@wikia/Michagogo (Micha)
+*** #ubuntu     fudanshi   H    ~fudanshi@hokora.fudanshi.moe (Jason)
+*** #ubuntu     TheRedQueen H@   unit193@ubuntu/bot/drone (Psychotic killer
+    robot)
+*** #ubuntu     rito       H
+    ~davesthom@2601:282:1080:3290:e1b2:ab59:9855:a83f (David Thomson)
+*** #ubuntu     irv        H    irv@unaffiliated/irv (irv)
+*** #ubuntu     dunnousernamefn H    ~dunnouser@ool-43523ad8.dyn.optonline.net
+    (realname)
+*** #ubuntu     Osirus126  G    ~quassel@24-138-154-156.eastlink.ca
+    (Osirus126)
+*** #ubuntu     luka_33    H    ~chronic@2a01:488:66:1000:5bfa:611c:0:1
+    (chronic)
+*** #ubuntu     |Alexia_Death| H    ~alexiade@209-97-157-37.dyn.estpak.ee
+    (Alexia Death)
+*** #ubuntu     _ruben     H    ~ruben@2a02:bd0:101:3:1ce:c01d:c0ca:c01a
+    (Ruben Laban)
+*** #ubuntu     austinkeeley H
+    ~austin@pool-74-96-174-166.washdc.fios.verizon.net (realname)
+*** #ubuntu     pcdummy    H    ~quassel@unaffiliated/pcdummy (pcdummy,,,)
+*** #ubuntu     Emmanuel_Chanel H    ~emmanuel@ZN020002.ppp.dion.ne.jp
+    (realname)
+*** #ubuntu     irwiss     G    ~irwiss@karmaflux.com (Alex)
+*** #ubuntu     Guest93544 H    ~andoh@static-193-12-47-89.cust.tele2.se
+    (Anders)
+*** #ubuntu     guntbert   H    ~yesitsme@pdpc/supporter/active/guntbert (re)
+*** #ubuntu     Aristide   G    ~Aristide@2001:41d0:1:8a16::1 (Non)
+*** #ubuntu     d3r3k      H
+    uid190567@gateway/web/irccloud.com/x-hnnjxxrymqywbffe (Derek Lindberg)
+*** #ubuntu     bray90820  H    ~bray90820@173-25-193-72.client.mchsi.com
+    (Aaron)
+*** #ubuntu     musalbas   H    ~musalbas@algebra.musalbas.com (Mustafa
+    Al-Bassam)
+*** #ubuntu     DzAirmaX   H    ~DzAirmaX@unaffiliated/dzairmax (DzAirmaX)
+*** #ubuntu     r03nz      H    ~r03nz@217-162-182-100.dynamic.hispeed.ch (Got
+    ZNC?)
+*** #ubuntu     longsleep  G    ~quassel@2a02:c200:1:10:3:1:216:1 (Simon
+    Eisenmann)
+*** #ubuntu     flexoboto  G    ~flexoboto@hell-bnc01.dc01.h4x0r56k.de
+    (flexoboto)
+*** #ubuntu     nadio      H    ice@unaffiliated/nadio (nadio)
+*** #ubuntu     funabashi  H    funabashi@185.52.0.236 (Unknown)
+*** #ubuntu     auronandace H
+    ~auronanda@2a02:c7d:4427:e200:6195:cfa0:b531:2699 (auronandace)
+*** #ubuntu     _Trullo    H    ~guff33@h-53-230.A357.priv.bahnhof.se (guff33)
+*** #ubuntu     Poster|n   H
+    ~poster@68-189-150-193.dhcp.ahvl.nc.charter.com (poster)
+*** #ubuntu     BMO-noire  H    ~paul@c-98-249-36-112.hsd1.va.comcast.net
+    (paul)
+*** #ubuntu     Anarchemist G    ~celivin@c-24-15-254-109.hsd1.il.comcast.net
+    (celivin)
+*** #ubuntu     Ricardus   H    ~rich@2604:6000:ab46:3400:6128:8200:3c1a:e319
+    (Rich Vincent)
+*** #ubuntu     messer440  H    ~messer@dynamic-78-8-68-242.ssp.dialog.net.pl
+    (Unknown)
+*** #ubuntu     ecormier   H    ~ecormier@208.103.230.104 (Eugene Cormier)
+*** #ubuntu     Zialus     H    ~RMF@158.29.166.178.rev.vodafone.pt (RMF)
+*** #ubuntu     ycarene    H    ~jporterf@184-155-172-207.cpe.cableone.net
+    (John Porterfield)
+*** #ubuntu     BlackDex   H    ~blackdex@ori.vyus.nl (BlackDex)
+*** #ubuntu     gueriLLaPunK H    ~hi@37.48.94.152 (Your Mom)
+*** #ubuntu     ash_worksi H
+    ~ash_m@50-243-5-153-static.hfc.comcastbusiness.net (ash_m)
+*** #ubuntu     Amany      H    ~gaspar@aip141.rev.netart.pl (gaspar)
+*** #ubuntu     yn         H    ~yano@freenode/staff-emeritus/yano (my idle
+    time is a lie)
+*** #ubuntu     roothorick H    ~roothoric@cpe-107-10-98-206.new.res.rr.com
+    (roothorick)
+*** #ubuntu     sparklyballs G    ~sparklyba@unaffiliated/sparklyballs (Him
+    over there, dead in the corner)
+*** #ubuntu     adalbert   H
+    8d87b939@gateway/web/freenode/ip.141.135.185.57
+    (d8d87b939.access.telenet.be/141.135.185.57)
+*** #ubuntu     supersoju  H    ~ajones@c-73-100-189-129.hsd1.vt.comcast.net
+    (ajones)
+*** #ubuntu     Modeuse    H    ~kvirc@x8d1ee220.agdsn.tu-dresden.de (KVIrc
+    4.9.1 Aria http://kvirc.net/)
+*** #ubuntu     narindergupta G
+    ~narinderg@c-98-197-227-153.hsd1.tx.comcast.net (Narinder Gupta)
+*** #ubuntu     jayjo      H    jayjo@gateway/vpn/privateinternetaccess/jayjo
+    (Jay)
+*** #ubuntu     Noskcaj    G    ~Noskcaj@ubuntu/member/noskcaj (Jackson Doak)
+*** #ubuntu     Logan      G    ~Logan@ubuntu/member/logan (Logan Rosen)
+*** #ubuntu     Zren       H
+    ~Zren@glphon2233w-lp130-08-74-15-45-81.dsl.bell.ca (realname)
+*** #ubuntu     Fleetwood  H    ~Pan51@c-71-230-132-64.hsd1.de.comcast.net
+    (...)
+*** #ubuntu     edmz       H    ~edmz@148-240-77-19.reservada.static.axtel.net
+    (Got ZNC?)
+*** #ubuntu     ejat       H    ~fenris@ubuntu/member/fenris- (fenris)
+*** #ubuntu     crossmanith H    ~smuxi@p5DD5BAB8.dip0.t-ipconnect.de
+    (Christina RoÅﬂmanith)
+*** #ubuntu     shannara   H    ~Stanislas@zen-paris-gw.rtr.sipartech.com
+    (Leduc)
+*** #ubuntu     beaver     G    ~none@gateway/tor-sasl/beaver (beaver)
+*** #ubuntu     ogra_      H    ~ogra_@p5098ed03.dip0.t-ipconnect.de (Oliver
+    Grawert)
+*** #ubuntu     FilipNortic H    ~quassel@h-143-38.A192.priv.bahnhof.se
+    (Filip-Nortic)
+*** #ubuntu     Ool        H    ~Ool@unaffiliated/ool (Ool)
+*** #ubuntu     eliudnir   H    ~tor@104-193-168-30.PUBLIC.monkeybrains.net
+    (realname)
+*** #ubuntu     t0h        H    ~tommi@78-27-113-123.bb.dnainternet.fi (Tommi
+    Helineva)
+*** #ubuntu     Colar      H    ~Colar@host-149-154-202-251.dynamic.voo.be
+    (Colar)
+*** #ubuntu     ExploitedKernel H
+    ~Exploited@CPEac202ebc5893-CMac202ebc5890.cpe.net.cable.rogers.com
+    (realname)
+*** #ubuntu     matt_      G    ~matt@ccpc-buzzer.bath.ac.uk (Matt)
+*** #ubuntu     lempamo    H
+    ~lempamo@2600:1700:72a0:3430:7585:c60:d784:e0ff (realname)
+*** #ubuntu     tolecnal   H    tolecnal@login.xiro.net (Old Grumpy Fart)
+*** #ubuntu     sixth      H    ~demo@unaffiliated/demo (Sheep go to heaven.)
+*** #ubuntu     freeguestee H    ~user@24-182-2-91.dhcp.arhd.ca.charter.com
+    (user)
+*** #ubuntu     designbybeck H    ~designbyb@x171y037.angelo.edu (realname)
+*** #ubuntu     lborda     H    ~lborda@23-91-252-210.cpe.distributel.net (Leo
+    Borda)
+*** #ubuntu     rodsmith   H    ~rodsmith@ip98-182-36-110.ri.ri.cox.net
+    (Roderick W. Smith)
+*** #ubuntu     ueberall   H    ~ueberall@unaffiliated/ueberall (Markus
+    Ueberall)
+*** #ubuntu     anonymip   H    ~anonymip@unaffiliated/anonymip (anonymip)
+*** #ubuntu     _KaszpiR_  G    quasselcor@unaffiliated/kaszpir/x-3157048
+    (_KaszpiR_)
+*** #ubuntu     rekoil     G    ~bjugard@itphone.edstud.chalmers.se (bjugard)
+*** #ubuntu     kozy       H    ~quassel@222.116.118.34 (kozy)
+*** #ubuntu     Indicium   H    ~Indicium@unaffiliated/indicium (Indicium)
+*** #ubuntu     olegb      H    ~ole@xd520f73a.cust.hiper.dk (Ole Guldberg)
+*** #ubuntu     matthelmke H    ~matthelmk@66.43.210.220 (Matthew Helmke)
+*** #ubuntu     rud0lf     G    rud0lf@unaffiliated/rud0lf (Rangifer tarandus)
+*** #ubuntu     waltman    H    nunya044@c-68-81-107-5.hsd1.pa.comcast.net
+    (Walt Mankowski)
+*** #ubuntu     Soulless   H    ~warnink@82-163-147-239.customer.gigaclear.net
+    (warnink)
+*** #ubuntu     Orphis     H    ~orphis@adam.orphis.net (Orphis)
+*** #ubuntu     lukasdboer H    ~lukasdboe@89.188.25.242 (realname)
+*** #ubuntu     tmiland    H    ~c0a80202@212.251.252.155 (Tommy)
+*** #ubuntu     k12        G    ~heyitk12@unaffiliated/k12 (Hey it k12)
+*** #ubuntu     TheGrumpyScot H    ~alan@62.31.31.20 (Alan)
+*** #ubuntu     jonsson__  H    ~jonsson@fsf/member/jonsson (Karl Jonsson)
+*** #ubuntu     AndrewMC   H    ~amc@unaffiliated/andrewmc (Andrew)
+*** #ubuntu     y0sh       H    ~y0sh@unaffiliated/y0sh (y0sh)
+*** #ubuntu     vlt        H    ~vlt@2a01:488:66:1000:57e6:5dd1:0:1 (vlt)
+*** #ubuntu     SMuZZ      H    ~smuzz@quassel.powertech.no (SMuZZ)
+*** #ubuntu     SysGhost   H    ~sysghost@217.21.230.110 (SysGhost)
+*** #ubuntu     Random832  H    ~random@unaffiliated/random832 (random)
+*** #ubuntu     drkokandy  H    ~quassel@narukami.trdai.xyz (trdaisuke)
+*** #ubuntu     Daerist    G    ~Daerist@32.80.10.109.rev.sfr.net (Simon)
+*** #ubuntu     ircuser-1  H    ~Johnny@158.183-62-69.ftth.swbr.surewest.net
+    (Johnny Von Neumann)
+*** #ubuntu     Murii      H    ~muresanvl@mail.computervoice.ro (realname)
+*** #ubuntu     XXCoder    H    ~XXCoder@c-73-11-207-31.hsd1.wa.comcast.net
+    (realname)
+*** #ubuntu     vbotka     H    ~vbotka@ip-89-103-146-20.net.upcbroadband.cz
+    (vbotka__)
+*** #ubuntu     falafel    H
+    ~falafel@2601:540:c401:a794:d250:99ff:fe81:568c (realname)
+*** #ubuntu     tanuki     H    ~quassel@68.200.153.84 (tanuki)
+*** #ubuntu     sysrage    H
+    ~sysrage@68-73-113-237.lightspeed.rlghnc.sbcglobal.net (sysrage)
+*** #ubuntu     jrolland-home H    ~jeff@cpe-184-58-198-199.wi.res.rr.com
+    (realname)
+*** #ubuntu     NotInTheMood H    ~NotInTheM@unaffiliated/olufunmilayo
+    (NotInTheMood)
+*** #ubuntu     warpx      G    ~warpx@warp-x.com (warpx)
+*** #ubuntu     anto       G    ~anto@server1.drup1.net (Anto Jose)
+*** #ubuntu     Tristam    H    ~Tristam@bodhilinux/team/Tristam (Tristam
+    Hunter)
+*** #ubuntu     zamba      H    ~marius@flage.org (Marius Flage)
+*** #ubuntu     littlebear H    ~littlebea@198-16-196-233.on.cable.ebox.net
+    (littlebear)
+*** #ubuntu     sakhd      H    ~sakhd@188.244.142.69 (realname)
+*** #ubuntu     malkauns   H    ~quassel@c-73-71-223-230.hsd1.ca.comcast.net
+    (malkauns)
+*** #ubuntu     bcowan     H    ~bcowan@8.37.11.67 (Bradly Alan Teaford Cowan)
+*** #ubuntu     tester     H    void@freebsd/user/dakar (Got ZNC?)
+*** #ubuntu     Logicwax   H    ~Logicwax@c-76-126-174-152.hsd1.ca.comcast.net
+    (HotLog)
+*** #ubuntu     TvL2386    H    ~tom@ip206-57-176-143.adsl2.static.versatel.nl
+    (Tom van Leeuwen)
+*** #ubuntu     clete2     H
+    ~clete2@1360654-v114.1254-static.bltnilaa.metronetinc.net (Clete2)
+*** #ubuntu     goiko      H    ~goiko@unaffiliated/goiko (goiko)
+*** #ubuntu     Tempesta   H    Tempesta@unaffiliated/tempesta (ChoiKyuSang)
+*** #ubuntu     aegis      G    aegis@gateway/vpn/privateinternetaccess/aegis
+    (aegis)
+*** #ubuntu     Anthaas    H    ~Anthaas@unaffiliated/anthaas (Anthaas)
+*** #ubuntu     Chappie-san H    ~chappie-s@192.130.252.47 (Hannu
+    Venesper‰)
+*** #ubuntu     tabris     H    ~northman@unaffiliated/tabris (Sponsored by
+    Skuld.)
+*** #ubuntu     Doffi      G    ~doffi@dsl-trebng12-b04887-233.dhcp.inet.fi
+    (doffi)
+*** #ubuntu     FaTaL_G    H
+    ~fatalg@pool-98-117-183-194.bflony.fios.verizon.net (FaTaL_G)
+*** #ubuntu     TheTrash   H    ~quassel@s55963e98.adsl.online.nl (HB)
+*** #ubuntu     petris     H    quassel@2600:3c02::f03c:91ff:fe25:b576 (Ryan
+    Petris)
+*** #ubuntu     faxer      H    faxer@cpe-24-74-176-146.carolina.res.rr.com
+    (...)
+*** #ubuntu     JackK      H    ~jack@pdpc/supporter/active/Jkessler (Jack)
+*** #ubuntu     pumba      H    ~pumba@unaffiliated/pumba (pumba)
+*** #ubuntu     Mercury_Vapor H    ~Mercury_V@131.93.42.150 (realname)
+*** #ubuntu     jjmeyer0   H    ~perkis@50-93-251-80.fttp.usinternet.com
+    (jjmeyer0)
+*** #ubuntu     Carll      H    irc@usethis.co.uk (Carl Lewis)
+*** #ubuntu     jrolland-work H    ~jeff@155.92.176.61 (realname)
+*** #ubuntu     XenophonF  H    ~xenophon@24.123.13.50 (Xenophon Fenderson,
+    the Carbon(d)ated)
+*** #ubuntu     UsQUE      H    ~none@94-227-76-70.access.telenet.be (you
+    whish)
+*** #ubuntu     sp3ck      G    ~sp3ck@unaffiliated/sp3ck (sp3cktator)
+*** #ubuntu     sylario    H
+    uid115390@gateway/web/irccloud.com/x-djredjkgigvaecqo (Sylario)
+*** #ubuntu     habith     G    ~habith@cluecode.com (habith)
+*** #ubuntu     azizLIGHT  H    ~azizLIGHT@unaffiliated/azizlight (azizLIGHT)
+*** #ubuntu     wildc4rd   H
+    ~wildc4rd@2a00:23c5:7bf:3000:70c5:2f93:9af5:845 (realname)
+*** #ubuntu     nick1234   H
+    nick1234@gateway/shell/panicbnc/x-rgyjnxazpoaazjsz (nick1234)
+*** #ubuntu     ChiLLabiS  H
+    ChiLLabiS@gateway/shell/panicbnc/x-qnytrhrjccayvebf (ChiLLabiS)
+*** #ubuntu     Vic2       H    ~Vic@81.17.246.108 (Vic)
+*** #ubuntu     camfl      G    ~flyaway@135-23-103-117.cpe.pppoe.ca (flyaway)
+*** #ubuntu     hph^       H    ~hph@ip72-195-187-57.mc.at.cox.net (...)
+*** #ubuntu     WARlrus    G    ~freenode@home.mattdyson.org (freenode)
+*** #ubuntu     explodes   H    ~explodes@unaffiliated/explodes (Evan Leis)
+*** #ubuntu     bkuhl      H
+    ~bkuhl@pool-100-1-67-151.nwrknj.fios.verizon.net (B Kuhl)
+*** #ubuntu     retoaded   H    ~retoaded@2601:5c8:200:6493:222:4dff:fea5:6e86
+    (Larry Works)
+*** #ubuntu     keitellf   H    ~keitellf@fedora/keitellf (Lee Keitel)
+*** #ubuntu     Malinux    H    ~malin@unaffiliated/malin/x-8072090 (Malin)
+*** #ubuntu     fullstack  H    ~fullstack@unaffiliated/fullstack (fullstack)
+*** #ubuntu     segersjerry H    ~jj@c-76-97-16-24.hsd1.ga.comcast.net
+    (realname)
+*** #ubuntu     marlinc    G    ~marlinc@bouncer.cvo-technologies.com
+    (Marlinc)
+*** #ubuntu     ageis      G    ~kevin@cointel.pro (Kevin M. Gallagher)
+*** #ubuntu     grumble    G    ~grumble@freenode/staff/grumble (Use only in
+    well-ventilated areas.)
+*** #ubuntu     el         H    el@freenode/staff/el (el)
+*** #ubuntu     wouter0100 H    ~wouter010@ip1.gp.nb.nl.ntwrk.eu (Wouter van
+    Os)
+*** #ubuntu     epipercepi H
+    ~epipercep@pool-74-105-35-148.nwrknj.fios.verizon.net (epipercepi)
+*** #ubuntu     Nd-69-M    H    ~nend@109.72.55.120 (nndvc)
+*** #ubuntu     BenderRodriguez H    ~Foxhoundz@unaffiliated/foxhoundz
+    (TaxDodger)
+*** #ubuntu     jagrutid   H    ~jagruti@nat-sch.mentorg.com (jagruti)
+*** #ubuntu     mindstorm  H    ~mindstorm@158.140.36.160 (mindstorm)
+*** #ubuntu     blipz      G    ~blipz@178.62.52.113 (Got ZNC?)
+*** #ubuntu     sariawan   H    ~petak@udarian.powered.by.lunarbnc.net
+    (kotaksabun)
+*** #ubuntu     WARBIRD199 G    ~WARBIRD19@kc01.linuxrocker.com (WARBIRD199)
+*** #ubuntu     lorimark_  H
+    ~lorimark@static-71-170-246-90.dlls.tx.frontiernet.net (mark)
+*** #ubuntu     Bryanstein H    ~Bryanstei@shellium/admin/bryanstein (Bryan
+    Smith)
+*** #ubuntu     salamanderrake H    ~quassel@cpe-24-165-200-91.neo.res.rr.com
+    (Salamander Purake)
+*** #ubuntu     Ampelbein  H    ~andreas@ubuntu/member/ampelbein (Andreas
+    Moog)
+*** #ubuntu     Netmage    G    ~Netmage@mannheim.ccc.de (Netmage)
+*** #ubuntu     Th3Mafia   H    ~yourname@12.50.3.98 (yourname)
+*** #ubuntu     seprob     H    seprob@shell.uw-team.org (Unknown)
+*** #ubuntu     Mead       H
+    ~Mead@99-124-211-58.lightspeed.rcsntx.sbcglobal.net (Mead, The)
+*** #ubuntu     leftyfb    G    leftyfb@ubuntu/member/leftyfb (leftyfb)
+*** #ubuntu     rory       H    ~rory@vega.rory.sh (Got ZNC?)
+*** #ubuntu     fractal    G    fractal@unaffiliated/scounder (fractal)
+*** #ubuntu     nobody     H    raiden@unaffiliated/nobody (You think you
+    know? You have no idea.)
+*** #ubuntu     BH23       H    ~BH23@santoroj.plus.com (Joes)
+*** #ubuntu     dan2wik    G    dan2wik@unaffiliated/dan2wik (danNwik, where N
+    is an integer greater than 0)
+*** #ubuntu     Netham45   H    ~Netham45@unaffiliated/netham45 (Nathan
+    Ladwig)
+*** #ubuntu     sssnap     H    ~feddywhap@lab46.corning-cc.edu (Vasili
+    Chainyankovich)
+*** #ubuntu     mosh\      H    ~mosh@2604:180:3:36b::1337 (mosh)
+*** #ubuntu     Seven_Six_Two H    ~Mr_Defaul@lolug/founder/seven-six-two
+    (Plunk McWut)
+*** #ubuntu     MrFixIt    H    ~samurai@c-98-212-227-218.hsd1.il.comcast.net
+    (realname)
+*** #ubuntu     gde33      H    ~gde33@546A1876.cm-12-3a.dynamic.ziggo.nl
+    (http://go-here.nl)
+*** #ubuntu     systemdPlusLinux G
+    ~systemdPl@ip68-228-228-191.ph.ph.cox.net (Andy)
+*** #ubuntu     oOBadDreamOo H    oOBadDream@irqfdsl-274.ontera.net
+    (Trollolololol)
+*** #ubuntu     shoogz     H    ~shoogz@unaffiliated/shoogz (shoogz)
+*** #ubuntu     pacbard    H
+    ~pacbard@32.217.188.35.bc.googleusercontent.com (Got ZNC?)
+*** #ubuntu     stwalkerster G    stwalkerst@wikimedia/stwalkerster (Simon
+    Walker (fearow.lon.stwalkerster.net))
+*** #ubuntu     bugzbunny  H    ~ubuntu@2a03:1b20:4:f011::22e (nonya)
+*** #ubuntu     SynfulAck  G    ~Atheros@unaffiliated/synfulack (where am i?)
+*** #ubuntu     paraxial   H
+    ~paraxial@cpc111117-wiga14-2-0-cust1368.18-3.cable.virginm.net (paraxial)
+*** #ubuntu     croberts   G    quassel@nat/redhat/x-vjaxrovxygankrtm (Chris
+    R.)
+*** #ubuntu     _foo       H    ~foo@181.209.158.178 (foobar)
+*** #ubuntu     bdmc       H    ~apin@drochaid.buadh-brath.com (Brian
+    McCullough)
+*** #ubuntu     plains     H    ~plains@unaffiliated/plains (plains)
+*** #ubuntu     lektronx   H    ~lektronx@unaffiliated/lektronx (lektronx)
+*** #ubuntu     fredrikx   H    ~fredrik@h-168-14.A259.priv.bahnhof.se
+    (fredrik)
+*** #ubuntu     Nukien     H    ~Nukien@162.250.233.55 (Got ZNC?)
+*** #ubuntu     thallada   G    ~thallada@fsf/member/thallada (thallada)
+*** #ubuntu     steenman   G    ~ste@unaffiliated/steenman (Got ZNC?)
+*** #ubuntu     Apachez    H    ~Apachez@unaffiliated/apachez (Apachez)
+*** #ubuntu     Telvana    G    ~telvana@ipeevee6.k8glx.us (hobo)
+*** #ubuntu     malinator  H    ~malinator@unaffiliated/malinator (malinator)
+*** #ubuntu     thaumavorio G    ~thaumavor@thaumavor.io (Connor Anderson)
+*** #ubuntu     dvdmuckle  G    ~dvdmuckle@unaffiliated/dvdmuckle (David
+    Muckle)
+*** #ubuntu     gusnan     H    ~gusnan@unaffiliated/gusnan (Andreas
+    RÅˆnnquist)
+*** #ubuntu     kyentei    H    ~jeffrey@2a01:1b0:7999:513:37::69 (Jeffrey)
+*** #ubuntu     Harry      H    ~harry@unaffiliated/harry (Harry)
+*** #ubuntu     NoCode     H    ~NoCode@unaffiliated/nocode (realname)
+*** #ubuntu     Sulak      G    ~Sulak@unaffiliated/sulak (Sheid beit
+    ha-Kisset)
+*** #ubuntu     mpmc       G    ~mpmc@unaffiliated/mpmc (Mark C [Bouncer])
+*** #ubuntu     mlabbe_    H    ~mlabbe@70-36-56-149.dyn.novuscom.net (mlabbe)
+*** #ubuntu     Damier-    H    ~Damier@131.203.226.226 (...)
+*** #ubuntu     bouncy     H
+    ~RoscoeArb@2001:630:206:6105:6df8:c1e8:afa:4f9a (realname)
+*** #ubuntu     enissay    H    ~root@unaffiliated/enissay (root)
+*** #ubuntu     Moscherkobold G    quassel@2a01:4f8:173:1ed5::3
+    (Moscherkobold)
+*** #ubuntu     Kobaz      H    ~kobaz@its.kobaz.net (Kobaz)
+*** #ubuntu     ShaRose    H    ShaRose@i.am.sharo.se (ShaRose)
+*** #ubuntu     jonne      H    ~jonne@met2313868.lnk.telstra.net (realname)
+*** #ubuntu     dwar       H    ~dwar@warhammar.net (Daniel W)
+*** #ubuntu     dinasty    H    ~dinasty@unaffiliated/dinasty (dinasty)
+*** #ubuntu     xit        H    ~xit@162.212.153.178 (xit)
+*** #ubuntu     nolsen     H
+    nolsen@gateway/shell/suchznc/x-sctfltyiejfyuntl (Nathaniel Olsen)
+*** #ubuntu     JimBuntu   H    ~JimBuntu@unaffiliated/jimbunbtu (JimBuntu)
+*** #ubuntu     jemark     H
+    jemark@gateway/shell/blinkenshell.org/x-hgumzzylrgojfuba (Mark)
+*** #ubuntu     jksM       H    ~jks@3e6b4d58.rev.stofanet.dk (Jens Kristian
+    SÅ¯gaard)
+*** #ubuntu     dave4925   H
+    dave4925@gateway/shell/suchznc/x-aounpfuwuqyzqite (dave)
+*** #ubuntu     ltrager    H    ~nuke@64.187.168.219 (Lee Trager)
+*** #ubuntu     blanko     H    ~Fr34k@46.10.218.156 (...)
+*** #ubuntu     dh128      G    ~dh128@143.21.227.35.bc.googleusercontent.com
+    (no u)
+*** #ubuntu     broccoli   H
+    ~broccoli@ip-213-135-239-28.static.luxdsl.pt.lu (broccoli)
+*** #ubuntu     giraffe    H    skarn@gateway/shell/firrre/x-cihdjlcpndmukjri
+    (skarn)
+*** #ubuntu     volker     H    ~quassel@j236733.servers.jiffybox.net (Volker
+    Aﬂmann)
+*** #ubuntu     floown     H    ~quassel@unaffiliated/fanchon (FranÁoise
+    Lindon)
+*** #ubuntu     stochastix H    ~quassel@unaffiliated/stochastix (stochastix)
+*** #ubuntu     matthiaskrgr H
+    matthiaskr@gateway/shell/panicbnc/x-ihchowyaftepsbvb (matthiaskrgr)
+*** #ubuntu     rohan      H    Elite18302@facebook/platform/rohan (Using
+    EliteBNC, I'm part of the elite!)
+*** #ubuntu     felixsanz  H    ~felixsanz@unaffiliated/felixsanz (Fë®¶lix Sanz)
+*** #ubuntu     evalenti   H
+    ~evalentin@ec2-54-89-140-194.compute-1.amazonaws.com (Eduardo Valentin)
+*** #ubuntu     zamanf     H    ~dev@unaffiliated/zamanf (realname)
+*** #ubuntu     StathisA   G    ~StathisA@unaffiliated/stathisa (SA)
+*** #ubuntu     kus_ubuntui686 H    ~kus@149.4.106.56 (kus)
+*** #ubuntu     philippirrip H    ~pip@149.4.106.56 (Philip Pirrip)
+*** #ubuntu     secretmessage H    ~secretmes@149.4.106.56 (Secret Message)
+*** #ubuntu     Comstock   H    ~Comstock@unaffiliated/comstock (realname)
+*** #ubuntu     Miron      H    ~Miron@unaffiliated/supermiron (potato)
+*** #ubuntu     DeeJayTwo  H    ~DeeJayTwo@unaffiliated/deejaytwo ("Who?!")
+*** #ubuntu     Mart__     G    ~quassel@c340417b.ftth.concepts.nl (Martin)
+*** #ubuntu     vila       H    ~vila@lec67-4-82-230-53-244.fbx.proxad.net
+    (Vincent Ladeuil)
+*** #ubuntu     karstensrage H    ~karstensr@unaffiliated/karstensrage
+    (Karsten S. Rage)
+*** #ubuntu     mcdonc     H    ~mcdonc@192.241.181.224 (Chris McDonough)
+*** #ubuntu     SPeedY     H    ~Me@ool-45766fd6.dyn.optonline.net (Me)
+*** #ubuntu     robairt    H    ~rharrison@74.119.189.206 (Robert)
+*** #ubuntu     RiPer      G    ~RiPer@82.196.12.210 (RiPer)
+*** #ubuntu     sunrunner20 H    ~sunrunner@unaffiliated/sunrunner20
+    (sunrunner20)
+*** #ubuntu     Guest1600  H
+    ~vaughan@vaughanp-1-pt.tunnel.tserv21.tor1.ipv6.he.net (vaughan)
+*** #ubuntu     darron_a   H    ~root@45.63.115.13 (Charlie Root)
+*** #ubuntu     jack1337   H
+    Elite21692@gateway/shell/elitebnc/x-qdnpytrhzsmouehe (jackl337)
+*** #ubuntu     zhongfu    G    ~zhongfu@unaffiliated/zhongfu (Zhongfu Li)
+*** #ubuntu     webuser5224 H    ~webuser52@2001:4ba0:cafe:169f::1
+    (webuser5224)
+*** #ubuntu     aananev    H    ~aananev@77.246.159.64 (shroudBNC User)
+*** #ubuntu     PtxDK      H    ~quassel@2a01:7c8:aac3:591:d8c:8520:c2ad:25
+    (PtxDK)
+*** #ubuntu     ejr        H    ~no@80-108-134-13.cable.dynamic.surfer.at (no)
+*** #ubuntu     CrazyEddy  G    crazyed@wrongplanet/CrazyEddy (.)
+*** #ubuntu     albech     G    ~Thunderbi@188.120.88.132 (albech)
+*** #ubuntu     swiftkey   G    swiftkey@unaffiliated/swiftkey (swiftkey)
+*** #ubuntu     neoclust   H    ~neoclust@mageia.lecureuil.fr (neoclust)
+*** #ubuntu     TheSilentLink G    ~TheSilent@unaffiliated/thesilentlink
+    (realname)
+*** #ubuntu     fearnothing H    ~nothing@unaffiliated/fearnothing (...)
+*** #ubuntu     gringaoo   H    ~gringao@112.97.117.78.rev.sfr.net (user)
+*** #ubuntu     mDfRg      G    ~mDfRg@ksrv.com.pl (mdfrg)
+*** #ubuntu     Granis`    H
+    ~granis@c-1300e555.017-509-6c6b701.cust.bredbandsbolaget.se (Granis)
+*** #ubuntu     katnip     H    yarddog@belencomputers/founder/katnip (katnip)
+*** #ubuntu     dellhem    H    ~dellhem@170.31.164.82.customer.cdi.no
+    (Unknown)
+*** #ubuntu     crash_     H    ~crash@h-58-159.A357.priv.bahnhof.se (crash)
+*** #ubuntu     tre99      H    ~tre99@unaffiliated/tre99 (tre99)
+*** #ubuntu     allquixotic H    ~quassel@pdpc/supporter/bronze/allquixotic
+    (allquixotic)
+*** #ubuntu     Zooklubba  H    ~Zooklubba@babyjeffrey.foreverunclean.com
+    (Zooklubba)
+*** #ubuntu     Andreas33  H    ~quassel@2a01:4f8:d12:140f::2 (Andreas)
+*** #ubuntu     themill    G    ~stuart@unaffiliated/themill (Stuart Prescott)
+*** #ubuntu     Hobbyboy   G
+    Hobbyboy@gateway/shell/panicbnc/x-ldujicwiowpdnuwk (Andrew)
+*** #ubuntu     Krenair    G    ~alex@wikimedia/Krenair (Alex Monk)
+*** #ubuntu     Br|aN      H    brian@smoke.p0t.biz (Got Weed?)
+*** #ubuntu     hfp        G
+    ~hfp@CPE000db949bca0-CMac202ec076c0.cpe.net.cable.rogers.com (blip)
+*** #ubuntu     b1nny      H    ~b1nny@unaffiliated/b1nny (b1nny)
+*** #ubuntu     nmitchell  H    ~nmitchell@cpe-65-190-84-250.nc.res.rr.com
+    (Nick Mitchell)
+*** #ubuntu     pilcrow    G    ~pilcrow@162.212.153.117 (Will T)
+*** #ubuntu     LiENUS     G
+    ~quake@108-242-135-2.lightspeed.btrgla.sbcglobal.net (Jacob)
+*** #ubuntu     mneptok    H    ~mneptok@old-fart/mneptok (Kurt von Finck)
+*** #ubuntu     ColdKeyboard H    ~ColdKeybo@unaffiliated/coldkeyboard
+    (ColdKeyboard)
+*** #ubuntu     mz`        H    ~emerick@nebula.mz23.in (emerick)
+*** #ubuntu     Waggie     H    ~Waggie@wikipedia/Waggie (Waggie)
+*** #ubuntu     sparty     H    ~sparty@harbinger.sparty.fr (spartition)
+*** #ubuntu     kim27      H    ~kim@unaffiliated/kim27 (kim)
+*** #ubuntu     Ishaq      H    ~Ishaq@budgetnode/management (Ishaq)
+*** #ubuntu     riex       H    ~riex@unaffiliated/riex (riex)
+*** #ubuntu     Taggnostr  G
+    ~wolf@host49-144-dynamic.21-79-r.retail.telecomitalia.it (Ezio Melotti)
+*** #ubuntu     ppf        H    ~pfaffe@i41pc78.ipd.uni-karlsruhe.de (philip)
+*** #ubuntu     ericus     H    ~ericus@unaffiliated/ericus (ericus)
+*** #ubuntu     braderhart G
+    sid124863@gateway/web/irccloud.com/x-vofrzhnaupzxpdjn (braderhart)
+*** #ubuntu     cooldude   H    ~cooldude1@unaffiliated/cooldude13233 (Jordie)
+*** #ubuntu     _km        H    ~km@unaffiliated/-km/x-6579334 (km)
+*** #ubuntu     silver_hook G    ~hook@unaffiliated/silver-hook/x-2625033
+    (Matija Ç©uklje)
+*** #ubuntu     MrBiogene  G    ~MrBiogene@a79-168-161-166.cpe.netcabo.pt
+    (Private ZNC)
+*** #ubuntu     raub       G    ~raub@cpe-107-15-38-169.nc.res.rr.com (Me)
+*** #ubuntu     dustinspringman G
+    ~springman@adsl-108-129-36-84.aby.bellsouth.net (purple)
+*** #ubuntu     claude2    H    claude2@unaffiliated/claude2 (claude2)
+*** #ubuntu     Fire-Dragon-DoL G    ~Fire-Drag@2605:de00:1:1:4a:15:0:12c
+    (Fire-Dragon-DoL)
+*** #ubuntu     K4j        G    ~Kaj@unaffiliated/k4j (Kaj on Freenode)
+*** #ubuntu     markus_e92 H
+    ~markus_e9@static.183.64.46.78.clients.your-server.de (Markus)
+*** #ubuntu     MrGeneral  H    ~MrGeneral@unaffiliated/mrgeneral (MrGeneral)
+*** #ubuntu     masteroman G    ~masteroma@unaffiliated/masteroman (Ivan)
+*** #ubuntu     dpb1       G
+    ~dpb@65.34.213.162.lcy-01.canonistack.canonical.com (David Britton)
+*** #ubuntu     vlad__     H    ~vlad@openmind7.mit.edu (Vlad Firoiu)
+*** #ubuntu     nonix4_    H
+    ~iheino@2001:2003:f47e:f7c0:bcad:bb7d:39b3:a3e1 (Tuomas Heino)
+*** #ubuntu     jcara_     H    ~jcara@188.166.12.223 (jcara)
+*** #ubuntu     wrix_      H    ~wrix@mailbox.technofaq.org (Wrishiraj
+    Kaushik)
+*** #ubuntu     schmidtm_  G    ~quassel@2001:41d0:a:30dc:178:33:33:178 (Mark
+    Schmidt)
+*** #ubuntu     icey       H    sid214912@canonical/icey (chris)
+*** #ubuntu     rfv        H
+    sid29807@gateway/web/irccloud.com/x-qaurdqxtpgheeygb (rfv)
+*** #ubuntu     hreinnbeck_ H    ~hreinnbec@2a03:b0c0:1:d0::2071:8001 (Hreinn
+    Beck)
+*** #ubuntu     vern       H
+    sid261866@gateway/web/irccloud.com/x-xwdaahzunykkbisb (Vern hart)
+*** #ubuntu     wolsen     H
+    sid160554@gateway/web/irccloud.com/x-uewmyewbslqjyblu (Billy Olsen)
+*** #ubuntu     sdx23      H    ~sdx23@unaffiliated/sdx23 (23)
+*** #ubuntu     Poster     H    ~poster@75.188.11.166 (Poster)
+*** #ubuntu     HankMoody  H    ~HankMoody@unaffiliated/hankmoody (Raoul Duke)
+*** #ubuntu     underyx    G    ~underyx@46.101.201.132 (Bence Nagy)
+*** #ubuntu     Kamilion   H    kamilion@botters/Kamilion (I am kamilion. But
+    you knew that, didn't you.)
+*** #ubuntu     lord4163   G    ~lord4163@90-230-158-145-no86.tbcn.telia.com
+    (Fabian)
+*** #ubuntu     wiak       H    ~wiak@nwgat.ninja (John Doe)
+*** #ubuntu     A_D        H    A_D@unaffiliated/ad/x-3954327 (Roy Mustang,
+    The Flame Alchemist)
+*** #ubuntu     madorn     G
+    ~madorn@139.78.197.104.bc.googleusercontent.com (madorn)
+*** #ubuntu     aksz       H    ~m0rv@private.god.jp (m0rv)
+*** #ubuntu     patriciadomin H    p@nat/ibm/x-zigsezrwezshqgrx (P D)
+*** #ubuntu     sipior     H    ~sipior@192871200.nfra.nl (Michael S. Sipior)
+*** #ubuntu     st-gourichon-f G    ~Stephane@chez.gourichon.org (Gourichon")
+*** #ubuntu     darktan    H
+    darktan@gateway/shell/xshellz/x-gsbauwpkjdfirstf (darktan)
+*** #ubuntu     cart_man   H    ~cart@105.27.205.70 (cart)
+*** #ubuntu     rdz        H    ~rdz@2001:620:120:1::12 (rdz)
+*** #ubuntu     luckman212 G    ~luckman21@unaffiliated/luckman212
+    (luckman212)
+*** #ubuntu     caribou    H    ~quassel@ubuntu/member/caribou (Louis
+    Bouchard)
+*** #ubuntu     unixpro1970 H    ~unixpro19@unaffiliated/unixpro1970
+    (unixpro1970)
+*** #ubuntu     Gallomimia H    ~gallomimi@S010684948cbeac73.ca.shawcable.net
+    (Gallomimia)
+*** #ubuntu     cruxeternus H    ~cruxetern@secspeed.com (Crux Eternus)
+*** #ubuntu     heap_      H    ~heap@localhost.sk (Unknown)
+*** #ubuntu     nessenj    H    ~nessenj@76.14.161.109 (Jim)
+*** #ubuntu     boshhead   H    ~quassel@unaffiliated/boshhead (boshhead)
+*** #ubuntu     NegativeFlare H
+    ~flare183_@24-182-76-227.dhcp.hckr.nc.charter.com (flare183_freenode)
+*** #ubuntu     kt         G    ~kt@unaffiliated/kt2 (kt)
+*** #ubuntu     MegaManSec H
+    ~user@CPE-60-224-28-162.mxic1.lon.bigpond.net.au (Joshua Rogers)
+*** #ubuntu     mniip      H    mniip@haskell/developer/mniip (mniip)
+*** #ubuntu     phunyguy   H    ~vault@ubuntu/member/phunyguy (Phuny Guy)
+*** #ubuntu     Checkmate  H
+    b982b8f1@gateway/web/freenode/ip.185.130.184.241 (185.130.184.241 -
+    http://webchat.freenode.net)
+*** #ubuntu     b0l3x      G    bolex@gateway/shell/xshellz/x-jnllbxgzxjxspzpi
+    (b0l3x)
+*** #ubuntu     Tabmow     H    ~Tabmow@freenode/staff-emeritus/tabmow
+    (realname)
+*** #ubuntu     gryphon    H    ~lynn@c-76-30-210-166.hsd1.tx.comcast.net
+    (realname)
+*** #ubuntu     labrador   H    ~labrador@unaffiliated/labrador (labrador)
+*** #ubuntu     icee       H    mlyle@dRonin/dev/icee (Michael P. Lyle)
+*** #ubuntu     iusr       H    ~iusr@li582-99.members.linode.com (Unknown)
+*** #ubuntu     finlstrm   H
+    ~quassel@pool-96-238-44-51.prvdri.fios.verizon.net (Michael J. Ford)
+*** #ubuntu     peterrooney H    ~peter@S0106001ff341c9a8.gv.shawcable.net
+    (peter rooney)
+*** #ubuntu     uprime     H    thurin@thurin.org (thurin)
+*** #ubuntu     _systemd_is_evil H    ~NOsystemd@unaffiliated/mailjesus
+    (Systemd is Cancer)
+*** #ubuntu     physpi     G
+    sid161004@gateway/web/irccloud.com/x-kxmmdnrxsudlsebb (R)
+*** #ubuntu     robogoat   H    ~robogoat@163.172.136.88 (robogoat)
+*** #ubuntu     anonnumberanon G    ~anonnumbe@unaffiliated/anonnumberanon
+    (Neal Rame)
+*** #ubuntu     Smeef      H    ~deathonat@unaffiliated/smeef (realname)
+*** #ubuntu     varazir    G    ~mircwars@31-208-183-121.cust.bredband2.com
+    (mircwars)
+*** #ubuntu     shazzr     H    ~shazzr@ti0086a430-0328.bb.online.no (shazzr)
+*** #ubuntu     Mechanismus H
+    ~LabMonkey@108-246-46-39.lightspeed.rcsntx.sbcglobal.net (LerbMernker)
+*** #ubuntu     quem       H    ~foo@83-219-194-67.cust.bredband2.com (foo)
+*** #ubuntu     mhoney     H    ~mhoney@107.170.174.121 (Marc)
+*** #ubuntu     Mr_0       H    ~thomas@ip84-247-132-88.breiband.no (Thomas)
+*** #ubuntu     duke       G    ~duke@unaffiliated/dukey (:D)
+*** #ubuntu     frdmn      H    ~frdmn@unaffiliated/frdmn (frdmn)
+*** #ubuntu     popnfresh  H    ~popnfrsh@hackshack.ca (popnfresh)
+*** #ubuntu     degenerate H    ~degenerat@S0106689e199caaf4.no.shawcable.net
+    (degenerate)
+*** #ubuntu     aisrael    H    ~aisrael@ubuntu/member/aisrael (Adam Israel)
+*** #ubuntu     Map        H    ~u@138.197.3.2 (map)
+*** #ubuntu     mavrikant  G    ~mavrikant@wikimedia/Mavrikant (M. Serdar
+    Karaman)
+*** #ubuntu     anewman    H
+    sid282827@gateway/web/irccloud.com/x-powtlosoirojxoex (Alex Newman)
+*** #ubuntu     jamespage  H    sid214907@ubuntu/member/jamespage (James Page)
+*** #ubuntu     victorbjelkholm H
+    sid208353@gateway/web/irccloud.com/x-ehvykplvojdjczhc (Victor Bjelkholm)
+*** #ubuntu     xttraces   G
+    sid251744@gateway/web/irccloud.com/x-jsnvblmfuivgivmc (xttraces)
+*** #ubuntu     lolmac     H
+    sid171216@gateway/web/irccloud.com/x-eccyuhyfwczqlzeh (tom849238)
+*** #ubuntu     DreamSynth G
+    sid275473@gateway/web/irccloud.com/x-vlmmikqbmrtqouot (DreamSynth)
+*** #ubuntu     emdashcomma G
+    sid217805@gateway/web/irccloud.com/x-pghzwlgzbdxhvyha (EmDashComma)
+*** #ubuntu     seanh      G
+    sid72485@gateway/web/irccloud.com/x-niaaarvwcbioqesj (seanh)
+*** #ubuntu     craysiii   G
+    sid205503@gateway/web/irccloud.com/x-zhpsmltdntdnnkes (craysiii)
+*** #ubuntu     N1ght0wl   H
+    sid231165@gateway/web/irccloud.com/x-gjllwgjsearojgte (hoot)
+*** #ubuntu     zas        H
+    sid128553@gateway/web/irccloud.com/x-dvomnchjvedofuqu (Laurent Monin)
+*** #ubuntu     TheNumb    G
+    sid172967@gateway/web/irccloud.com/x-xcdynkhaxhyavyux (TheNumb)
+*** #ubuntu     karlamrhein H
+    sid161194@gateway/web/irccloud.com/x-sdiolpzipuiunncj (Karl Amrhein)
+*** #ubuntu     MalteJ     H
+    sid46380@gateway/web/irccloud.com/x-eklabrxpabtsiwkf (Malte)
+*** #ubuntu     dgpratt    G
+    sid193493@gateway/web/irccloud.com/x-yapsawqhdwnsursy (Daniel Pratt)
+*** #ubuntu     lvrp16     H
+    sid153650@gateway/web/irccloud.com/x-nnocpqmuwnpjlxbn (lvrp16)
+*** #ubuntu     catbusters G
+    uid40652@gateway/web/irccloud.com/x-syekafrsbtyasffm (catbusters)
+*** #ubuntu     WillMoogle H
+    sid38138@gateway/web/irccloud.com/x-eknlaagyafkxjdun (Will)
+*** #ubuntu     Chew       H
+    sid35940@gateway/web/irccloud.com/x-bnyjkianlewdobbo (Olivia)
+*** #ubuntu     prosody    H
+    sid32673@gateway/web/irccloud.com/x-kxoyveaewrzszrxj (.'rosody Vereable
+    Context(ë°„)
+*** #ubuntu     yena       H    sid12940@fsf/member/yena (Secret v1)
+*** #ubuntu     paulmey    H
+    sid63227@gateway/web/irccloud.com/x-jxkpdhgrksyliwhe (Paul Meyer)
+*** #ubuntu     HashNuke   G
+    sid12117@gateway/web/irccloud.com/x-okmqxfyattkrzsay (Akash)
+*** #ubuntu     iSagitt    H
+    sid57875@gateway/web/irccloud.com/x-jmucxcotdwopofrf (iSagitt)
+*** #ubuntu     DuncanT    G
+    sid53099@gateway/web/irccloud.com/x-vopxhgnabqbdwlmr (Duncan Thomas)
+*** #ubuntu     timeless   H    sid4015@firefox/developer/timeless (timeless)
+*** #ubuntu     Kamuela    G
+    sid111576@gateway/web/irccloud.com/x-souotknvizooeoip (Kamuela)
+*** #ubuntu     dingbat    H
+    uid70835@gateway/web/irccloud.com/x-grnvctihelhuhrzx (dingbat)
+*** #ubuntu     foddo      H
+    sid41913@gateway/web/irccloud.com/x-vemyjuzsdsazuwnx (FodT)
+*** #ubuntu     merpnderp  G
+    sid16744@gateway/web/irccloud.com/x-gsnaajvsasomahrj (merpnderp)
+*** #ubuntu     MadPsy     H    ~MadPsy@unaffiliated/madpsy-/x-5109697
+    (MadPsy)
+*** #ubuntu     emilsp     H    ~emilsp@freenode/staff/emilsp (Emë®©ls)
+*** #ubuntu     croppa     H
+    ~stuart@2001:44b8:31e9:8200:4e72:b9ff:fe4e:d449 (Stuart Cosh)
+*** #ubuntu     petan      H    ~g@wikimedia/Petrb (Petr Bena -
+    https://github.com/grumpy-irc/grumpy)
+*** #ubuntu     mquin      H    ~mike@freenode/staff/mquin (Mike Quin)
+*** #ubuntu     maximCH    H    ~maximCH@beer.swill.org (Maxim)
+*** #ubuntu     zack6849   H    zack6849@unaffiliated/zack6849 (zack6849)
+*** #ubuntu     kvothe     H    ~Lkydiruw@2607:5300:60:9c::1 (Lkydiruw)
+*** #ubuntu     ErichEickmeyer H    ~quassel@138.68.240.34 (Erich Eickmeyer)
+*** #ubuntu     mrBen2k2k2k H    ~logstash@52.90.128.212 (logstash)
+*** #ubuntu     DavyCrocket H    ~aaron@c-73-181-133-8.hsd1.wa.comcast.net
+    (Aaron)
+*** #ubuntu     adymitruk  H    ~adymitruk@personal.dymitruk.com (Adam
+    Dymitruk)
+*** #ubuntu     ehw        H    ~ehw@host-89-241-111-214.as13285.net (Eric
+    Williams)
+*** #ubuntu     Pricey     G    ~pricey@2ships.co.uk (pricechilde)
+*** #ubuntu     Dragnslcr  H    ~scott@c-98-216-132-16.hsd1.ma.comcast.net
+    (Scott Lerman)
+*** #ubuntu     tdn        G    ~tdn@x50d248d8.cust.hiper.dk (Thomas)
+*** #ubuntu     SleePy     G    ~SleePy@simplemachines/siteteam/SleePy
+    (SleePy)
+*** #ubuntu     jochenKr   H    ~jochen@zam1020.zam.kfa-juelich.de (Jochen
+    Kreutz)
+*** #ubuntu     jiqiren    H    ~jiqiren@oh-hi.org (bryan)
+*** #ubuntu     _McGuyver  H    mcguyver@unaffiliated/mcguyver (realname)
+*** #ubuntu     spion      H    ~spion@unaffiliated/spion (Gorgi Kosev)
+*** #ubuntu     musti      H    musti@2a00:6d40:60:84fc::13 (freenode)
+*** #ubuntu     kkj        H    ~kkj@irc.nixlab.io (kkj)
+*** #ubuntu     abra0      G    moo@unaffiliated/abra0 (abra_abra)
+*** #ubuntu     shadoxx    H    ~shadoxx@107.170.50.151 (shadoxx)
+*** #ubuntu     G33kDad    H
+    ~quassel@76-233-200-10.lightspeed.frokca.sbcglobal.net (Matt McGraw,,,)
+*** #ubuntu     OnkelTem   H    ~onkeltem@unaffiliated/fantomas (Onkel T?m)
+*** #ubuntu     AGXE       H    ~ethernet@a81-84-159-43.cpe.netcabo.pt
+    (ethernet)
+*** #ubuntu     beaky      H    ~beaky@2a03:b0c0:0:1010::17cf:7003 (beaky)
+*** #ubuntu     namshub    H    ~namshub@205.166.94.157 (j)
+*** #ubuntu     lexAngeles H    ~lexAngele@52.90.128.212 (Lex Angeles)
+*** #ubuntu     zaM-       H    ~zaM-@88-112-153-35.elisa-laajakaista.fi
+    (realname)
+*** #ubuntu     grandfso   H    ~quassel@185.180.205.67 (grandfso)
+*** #ubuntu     JonathanS  H    ~JonathanD@freenode/staff/jonathand (fish)
+*** #ubuntu     geodb27    H    ~quassel@194.167.196.2 (Utilisateur Quassel
+    IRC)
+*** #ubuntu     CobHead    G    ~CobHeadII@unaffiliated/cobhead (no)
+*** #ubuntu     ToAruShiroiNeko H    ~eva@wikimedia/ToAruShiroiNeko
+    (Electronic Video Agent)
+*** #ubuntu     rfleming   H    ~rfleming@unaffiliated/rfleming (rfleming)
+*** #ubuntu     lesshaste  H    ~lesshaste@57519542.skybroadband.com
+    (realname)
+*** #ubuntu     Chaser     H    ~Chaser@192.241.229.182 (kiran)
+*** #ubuntu     ChristiQs  G    ~quassel@sedna-ipv6.space.pacher.com
+    (Christian Pacher)
+*** #ubuntu     Christian_Qs G    ~quassel@sedna-ipv6.space.pacher.com
+    (Christian Pacher)
+*** #ubuntu     Moyst      H    ~moyst@212-149-193-104.bb.dnainternet.fi
+    (MÅˆyst)
+*** #ubuntu     tanja84dk  G    ~tanja84dk@srv04.tanja84.dk (ZNC -
+    https://znc.in)
+*** #ubuntu     hatiac     H    ~hatiac@dsl-jklbng11-54fa5f-139.dhcp.inet.fi
+    (Miko-Matias)
+*** #ubuntu     Exterminador H    Exterminad@unaffiliated/exterminador (ZNC -
+    https://znc.in)
+*** #ubuntu     pocketprotector G    ~pocketpro@unaffiliated/pocketprotector
+    (* I'm not to lame to read BitchX.doc *)
+*** #ubuntu     jrgifford  G    jrgifford@ubuntu/member/jrgifford (James
+    Gifford)
+*** #ubuntu     jemurray   G    ~jemurray@shell.jasonmurray.org (Jason Murray)
+*** #ubuntu     Saviq      H    ~quassel@canonical/saviq (Micha?)
+*** #ubuntu     bornjre    G    ~whoami00@139.59.229.14 (john doe)
+*** #ubuntu     arunpyasi  H    ~aryan@2400:6180:0:d0::56a2:1 (arunpyasi)
+*** #ubuntu     xatr0z     H    ~xtr@autodiscover.xs4all.space (xtr)
+*** #ubuntu     greenywd   H    ~greeny@163.172.81.142 (greeny)
+*** #ubuntu     graphitemaster H    ~graphitem@unaffiliated/graphitemaster
+    (Dale Weiler)
+*** #ubuntu     superkuh   H    ~superkuh@unaffiliated/superkuh (superkuh)
+*** #ubuntu     DJones     H    ~dave@unaffiliated/dgjones (David Jones)
+*** #ubuntu     jdr        H    ~jdr@ld001.wiredrat.net (jdr)
+*** #ubuntu     bonzibuddy H    ~hamnstar@208.81.6.244 (bonzibuddy del
+    hamnstar)
+*** #ubuntu     DeMiNe0    G    ~DeMiNe0@104.131.119.74 (DeMiNe0)
+*** #ubuntu     LambdaComplex H    ~LambdaCom@unaffiliated/lambdacomplex
+    (LambdaComplex)
+*** #ubuntu     haarolean  H    ~haarolean@unaffiliated/zeluboba (Roman
+    Zabaluev)
+*** #ubuntu     Colti      G    Miramar-FL@unaffiliated/colti (unknown)
+*** #ubuntu     damian     H    ~damian@2406:3400:46:0:215:5dff:fe4c:1b0c
+    (damian)
+*** #ubuntu     bboles     H    ~quassel@2607:fcd0:100:8300:1c::a3ed (Brandon
+    Boles)
+*** #ubuntu     jtfidje    H    ~quassel@agder-ikt76.uia.no (Jahn Thomas
+    Fidje,,,)
+*** #ubuntu     michael2   H    ~agio@104.236.177.219 (agio)
+*** #ubuntu     vTox       H    ~vtox@unaffiliated/vtox (vTox)
+*** #ubuntu     uniquorn   G
+    sid154122@gateway/web/irccloud.com/x-kdqcnotsujaosahs (Sara)
+*** #ubuntu     blizzy2    H    ~blizzy@159.89.187.60 (Blizzy)
+*** #ubuntu     SCHAPiE    H    ~schapie@unaffiliated/schaap137 (SCHAAP137)
+*** #ubuntu     costamsm   H    ~admin@costa-server.info.pl (The Lounge User)
+*** #ubuntu     acetakwas  H
+    acetakwas@gateway/shell/xshellz/x-mwtvsljsvceijqcx (Ace Takwas)
+*** #ubuntu     robbins    H
+    ~jeremy@pool-173-72-190-27.clppva.ftas.verizon.net (jeremy)
+*** #ubuntu     Andocromn  G
+    ~quassel@173-166-116-210-newengland.hfc.comcastbusiness.net (Andocromn)
+*** #ubuntu     gravyv     H    ~gravyv@cpe-24-193-65-235.nyc.res.rr.com (...)
+*** #ubuntu     meLon      H    ~meLon@c-71-193-137-184.hsd1.or.comcast.net
+    (meLon)
+*** #ubuntu     jwash      H    jwash@gateway/vpn/privateinternetaccess/jwash
+    (jwash)
+*** #ubuntu     sjohnson   H    ~sjohnson@cow.sj.rfc1459.net (smu johnson)
+*** #ubuntu     Fuchs      G    fuchs@freenode/staff-emeritus/Fuchs
+    (Christian)
+*** #ubuntu     mdemo      H    ~mdemo@c-73-152-218-170.hsd1.wv.comcast.net
+    (The Lounge User)
+*** #ubuntu     aloril     H    ~aloril@80.246.146.6 (Aloril)
+*** #ubuntu     firezep    H    ~flamezy@107.191.98.129 (#burn)
+*** #ubuntu     Norbin     H    ~Norbin@178.62.84.53 (Norbin)
+*** #ubuntu     h12o       G
+    sid292225@gateway/web/irccloud.com/x-oxrfonjcawfbrgql (Hidetomo Hosono)
+*** #ubuntu     legend     H    ~ankitgoel@139.59.47.173 (legend)
+*** #ubuntu     Calvin`    G
+    ~mail@cpc110959-chms6-2-0-cust866.20-1.cable.virginm.net (C. Hartwell)
+*** #ubuntu     fletom     H    ~fletom@104.163.186.44 (fletom)
+*** #ubuntu     N3LRX      H    ~n3lrx@fedora/N3LRX (Randy Berry)
+*** #ubuntu     Adran      G    adran@botters/staff/adran (Adran Duran)
+*** #ubuntu     Messenger_bird H    ~banana@wikipedia/Antonio-Lopez (ananana)
+*** #ubuntu     Seihava    H
+    ~Seihava@ec2-54-252-129-210.ap-southeast-2.compute.amazonaws.com (Regan
+    Donaldson)
+*** #ubuntu     iter       H
+    ~iter@ec2-52-8-52-105.us-west-1.compute.amazonaws.com (iter)
+*** #ubuntu     quintopia  H    ~quintopia@unaffiliated/quintopia (quintopia)
+*** #ubuntu     shananigans H
+    ~shananiga@2001:4800:7816:517:be76:4eff:fe04:f740 (Shannon Mitchell)
+*** #ubuntu     jrabe      H    jrabe@janikrabe.com (Janik Rabe)
+*** #ubuntu     Compu      H    ~Compu@unaffiliated/compu (Compu)
+*** #ubuntu     georgeowell G    ~from@unaffiliated/georgeowell (dimension)
+*** #ubuntu     sharksauce H    ~sharksauc@unaffiliated/sharksauce
+    (sharksauce)
+*** #ubuntu     jlacroix   G    ~quassel@web.iostreamcomputing.net (Jay
+    LaCroix)
+*** #ubuntu     ilbelkyr   G    ilbelkyr@freenode/staff/atheme.ilbelkyr
+    (ilbelkyr)
+*** #ubuntu     deww       H    dc2@unaffiliated/deww ("now with more cheez
+    flavor")
+*** #ubuntu     Klumben    G
+    Nsaiswatch@gateway/shell/panicbnc/x-qvdpvibfukoxhwkq (you)
+*** #ubuntu     memorynoise H
+    memorynois@gateway/shell/panicbnc/x-uivuzfxgdirsdzkb (memorynoise)
+*** #ubuntu     trevor_s   H
+    trevor_s@gateway/shell/panicbnc/x-ucqzcjhhyiyhfkyc (trevor_s)
+*** #ubuntu     creat      H    ~creat@unaffiliated/creat (Creator)
+*** #ubuntu     Helithumper_ G    ~helithump@192.241.130.69 (Peyton)
+*** #ubuntu     Valfor     G    ~Valfor@unaffiliated/mrpps (Valfor)
+*** #ubuntu     PigeonWhisperer H
+    ~npc@modemcable089.202-172-144.mc.videotron.ca (silentshanker's admin)
+*** #ubuntu     akaWolf    H    ~akaWolf@unaffiliated/akawolf (akaWolf)
+*** #ubuntu     mhall119   H    ~mhall@ubuntu/member/mhall119 (Michael Hall)
+*** #ubuntu     Guest79177 H    ~LondynAnt@159.89.113.88 (LondynAntonio)
+*** #ubuntu     baggar11   H    generic@50-39-178-98.bvtn.or.frontiernet.net
+    (baggar11)
+*** #ubuntu     anexit     H    ~anexit@push.anexit.net (anexit)
+*** #ubuntu     thehebs_   G    ~thehebs@paleale.coelho.fi (thehebs)
+*** #ubuntu     n35xdxb0_  H
+    ~n35xdxb0@cpc130684-camd16-2-0-cust846.know.cable.virginm.net (n35xdxb0)
+*** #ubuntu     tessier    H    ~treed@kernel-panic/copilotco (Tracy R Reed)
+*** #ubuntu     Whiskey    H    ~Whiskey@185.57.105.6 (Whiskey)
+*** #ubuntu     Jordan_U   G    ~jordan@c-73-41-152-155.hsd1.ca.comcast.net
+    (Jordan Uggla)
+*** #ubuntu     surtin     G    surtin@if.this.is.a.bnc.i.cant.be.surtin.com
+    (surtin)
+*** #ubuntu     comrumino  H    strayArch@2600:3c01::f03c:91ff:feb0:523 (young
+    no-money padawan)
+*** #ubuntu     klr        H    ~ash@0x.7a69.co.uk (ash)
+*** #ubuntu     johnmark   H    ~johnmark@johnmark.org (JMW)
+*** #ubuntu     Furai      H    ~Furai@cookiehoster.furai.pl (Lucas)
+*** #ubuntu     allu2      H    ~allu2@future.koodaacraft.org (Aleksi)
+*** #ubuntu     chindy     H    ~quassel@2001:bc8:4700:2300::101b (Julian)
+*** #ubuntu     HcsOmot    H    ~HcsOmot@45.77.98.117 (HcsOmot)
+*** #ubuntu     jackivan88 H    ~quassel@76.74.170.229 (John Olinda)
+*** #ubuntu     pjdc       G    paul@unaffiliated/pjdc (Paul Collins)
+*** #ubuntu     big_t      H    big_t@big-t.name (Got ZNC?)
+*** #ubuntu     RtMF       H    ~rtmf@beautifulsunrise.org (Rainbow: the Mad
+    Faerie)
+*** #ubuntu     avantgardist H    ~avantgard@ixion.bytesized-hosting.com
+    (HippiJonE)
+*** #ubuntu     rev_strangehope G
+    ~revstrang@ec2-13-115-230-7.ap-northeast-1.compute.amazonaws.com (Got
+    ZNC?)
+*** #ubuntu     Madars     H    ~null@unaffiliated/madars (Madars)
+*** #ubuntu     codedmart  G
+    sid145527@gateway/web/irccloud.com/x-tinschvnuvbbslzb (Brandon Martin)
+*** #ubuntu     xz         H
+    ~xz@ec2-18-217-219-216.us-east-2.compute.amazonaws.com (xz)
+*** #ubuntu     wagle      H    ~wagle@irc.wagle.io (Perry Wagle,,,,)
+*** #ubuntu     PhilB      G    ~me@unaffiliated/philb (Me)
+*** #ubuntu     Peetz0r    H    ~kwazzul@2a02:58:4a:4c00:baae:edff:fe7d:3469
+    (Peter)
+*** #ubuntu     Mathisen   G    ~mathisen@unaffiliated/mathisen (Ask Me)
+*** #ubuntu     Duzzy      H    ~jbergman@194.71.144.72 (Duzzy)
+*** #ubuntu     gsilvapt   H    Elite21217@ubuntu/member/gsilvapt (Using
+    EliteBNC, I'm part of the elite!)
+*** #ubuntu     chrisml    G    ~chrisml@unaffiliated/chrisml (chris)
+*** #ubuntu     nemesit|znc H    ~nemesit@2a01:488:66:1000:2ea3:4eeb:0:1
+    (nemesit amasis)
+*** #ubuntu     d1str0     G
+    uid290694@gateway/web/irccloud.com/x-wedbeptxnyewbotf (Brady Sullivan)
+*** #ubuntu     ShinyCyril H    ~mike@bangersandmash.mikeanthonywild.com (Got
+    ZNC?)
+*** #ubuntu     nicomachus H    ~nicomachu@unaffiliated/nicomachus
+    (nicomachus)
+*** #ubuntu     chaignc    H    ~yes@ns388631.ip-176-31-254.eu (chaignc)
+*** #ubuntu     madwizard  H    ~trochej@redhat/madwizard (Damian Wojslaw)
+*** #ubuntu     bigjazzsound H    ~quassel@2604:a880:cad:d0::2fd:9001 (Craig
+    James Fielder)
+*** #ubuntu     kuzko      G    ~quassel@51.15.5.43 (kuzko)
+*** #ubuntu     confluency H    ~quassel@2a01:4f8:c17:3ca::2 (H. P. Lovecraft)
+*** #ubuntu     cellardoor H    ~quassel@unaffiliated/cellardoor (Quassel IRC
+    User)
+*** #ubuntu     Mutsumi    H    ~Mutsumi@unaffiliated/mutsumi (Mutsumi)
+*** #ubuntu     justinabrahms H    ~justinabr@107.170.208.252 (Justin Abrahms)
+*** #ubuntu     r4ulrm     H    ~administr@mail.klonal.com.ar (administrador)
+*** #ubuntu     Prisa      H    ~davidh@080-234-158-163.dynamic.caiway.nl
+    (Privacy Safe)
+*** #ubuntu     erikj      H    erikj@unaffiliated/erikj (Erik)
+*** #ubuntu     guideline_ H
+    guideline@gateway/vpn/privateinternetaccess/guideline (realname)
+*** #ubuntu     isene      G    ~Geir_Isen@128.199.49.139 (Geir Isene)
+*** #ubuntu     shpingrlde G    ~beeble@unaffiliated/olscumpy/bot/broguebot
+    (beeble)
+*** #ubuntu     czwolf     H    ~Cz@2607:5300:60:1176::1 (Xchat User)
+*** #ubuntu     Zongva     H    ~ole@185.101.32.76 (Ola Normann)
+*** #ubuntu     geirha     H    geirha@gina.it.ntnu.no (geirha)
+*** #ubuntu     db`        H    db@gateway/shell/panicbnc/x-lfywgpvhtqlgysax
+    (db)
+*** #ubuntu     arooni     H    chasetoys@2600:3c00::f03c:91ff:fe3b:e418 (ZNC
+    Arooni)
+*** #ubuntu     TrentP     H    ~GVUEW97sM@138.68.15.170 (trent)
+*** #ubuntu     iamthad    G    ~iamthad@bnc.iamthad.net (Thadeus Fleming)
+<taro> hi
+*** #ubuntu     swein      H    ~swein@2604:a880:400:d0::48a1:c001 (swein)
+*** #ubuntu     jamesbee   H    james@2600:3c03::f03c:91ff:fedf:6a5f (james)
+*** #ubuntu     luxio      H    ~luxio@unaffiliated/luxio (luxio)
+*** #ubuntu     knittl     G    ~knittl@unaffiliated/knittl (knittl)
+*** #ubuntu     laserbeak4445 H    ~stormshad@185.149.90.106 (Unknown)
+*** #ubuntu     [n0mad]    H    ~n0mad@unaffiliated/n0mad/x-5272660 (n0 mad)
+*** #ubuntu     crayon     H    ~crayon@unaffiliated/crayon (crayon)
+*** #ubuntu     Muligan    H    ~muligan10@208.38.213.146 (Joe Bob Briggs)
+*** #ubuntu     emid       H    ~emid@45.55.245.32 (emid)
+*** #ubuntu     Arkaniad   G    Arkaniad@2600:3c03::f03c:91ff:fe59:ae59
+    (Arkaniad)
+*** #ubuntu     Sweepyoface H    ~sweepyofa@amb-nyc-01.sweepy.pw (Sweepyoface)
+*** #ubuntu     LinusVE    G    ~quassel@legatus.cloud.tilaa.com (Linus)
+*** #ubuntu     konimex    G    koni@gateway/shell/elitebnc/x-fosvsqumsawabxed
+    (konimex)
+*** #ubuntu     nyuszika7h H    nyuszika7h@lykos/dev/nyuszika7h (richard)
+*** #ubuntu     AshIndigo  H
+    ~AshIndigo@79-67-163-198.dynamic.dsl.as9105.com (Ash Indigo)
+*** #ubuntu     mlabbe     H    ~mlabbe@70-36-56-149.dyn.novuscom.net (mlabbe)
+*** #ubuntu     vox        H    ~vox@unaffiliated/vox (what what?)
+*** #ubuntu     kloeri     G    ~kloeri@freenode/staff/exherbo.kloeri (Bryan
+    Ostergaard)
+*** #ubuntu     rkantos    H    robin@d.4e.fi (Name)
+*** #ubuntu     VampiricPadraig G    ~quassel@titan.nologam.com (Padraig)
+*** #ubuntu     `slikts    H    ~nelabs@wikipedia/reinis (slikts)
+*** #ubuntu     Randy      G    randy@freebsd/user/randy (Randy R.
+    <randy@coders.ph>)
+*** #ubuntu     darmok     G    ~lh@akar.errtu.de (Lars Heiermann)
+*** #ubuntu     justache   H
+    justache@gateway/web/irccloud.com/x-owgztdhgnteryrjm (justache)
+*** #ubuntu     zaro__     H
+    sid166788@gateway/web/irccloud.com/x-kydpvtdlkbsuqwzf (Khai Do)
+*** #ubuntu     tfitts     H
+    uid158900@gateway/web/irccloud.com/x-fufeluvglhmwcdns (Tyler Fitts)
+*** #ubuntu     Guest57550 H    ~josephoen@joseph-long.com (Joseph Long)
+*** #ubuntu     stoffepojken H    znc@h-148-185.A328.priv.bahnhof.se
+    (Kristoffer)
+*** #ubuntu     Callek     H    ~sid394@2620:101:8016:74::5:18a (Justin Wood)
+*** #ubuntu     compuguy   H
+    ~compuguy@ec2-34-193-165-89.compute-1.amazonaws.com (compuguy)
+*** #ubuntu     infectiious H    ~droolendu@unaffiliated/droolendug
+    (droolendug)
+*** #ubuntu     RoBz       G    ~RoBz@unaffiliated/robz (RoBz)
+*** #ubuntu     duckydan   H    ~duckydan@192.111.79.220 (Got ZNC?)
+*** #ubuntu     bjonnh     H    ~Bjonnh@unaffiliated/bjonnh (Bjonnh)
+*** #ubuntu     obiwahn    H    ~obiwahn@pdpc/supporter/student/obiwahn (Jan
+    Christoph Uhde)
+*** #ubuntu     michael_mbp G
+    ~michael_m@ec2-52-76-80-88.ap-southeast-1.compute.amazonaws.com (John
+    Dorian)
+*** #ubuntu     skule      H    ~svs@exitus.logiva.dk (steffen)
+*** #ubuntu     Stravy     G    ~Stravy@ns3316513.ip-5-135-166.eu (Me and I)
+*** #ubuntu     davidtest765 H    ~david@84.200.106.122 (david)
+*** #ubuntu     Shaan7_    G    shantanu@gateway/shell/kde/x-vtwbnnqyrkfpnbvk
+    (Shantanu Tushar)
+*** #ubuntu     Shibe      H    ~ShibaInu@botters/ShibaInu (shibainu the
+    programming doge)
+*** #ubuntu     Vashy      H    ~Vashy@54.70.87.105 (Vashy)
+*** #ubuntu     tomaw      H    tom@freenode/staff/tomaw (Tom Wesley
+    <tomaw@freenode.net>)
+*** #ubuntu     Buffman_   G    ~Buffman@my.irc-bit.ch (No One)
+*** #ubuntu     glycerine  H    ~glycerine@159.89.120.58 (Nathan Dorsey)
+*** #ubuntu     zorael     H    ~NaN@2001:41d0:2:80b4:: (jr)
+*** #ubuntu     phage-     H    ~phage@174.138.4.89 (phil)
+*** #ubuntu     gelswip    H    ~gel@protect.the.keions.com (gel)
+*** #ubuntu     iamgr00t   G    ~galaxy@unaffiliated/iamgr00t (gr00t)
+*** #ubuntu     cibs       H    ~cibs@23.102.224.95 (cibs)
+*** #ubuntu     dooglus_   H    ~biufter@unaffiliated/dooglus (dooglus)
+*** #ubuntu     herb       H
+    ~herb@33.93.189.91.lcy-02.canonistack.canonical.com (Herb McNew)
+*** #ubuntu     blablacar  H
+    ~tempie@159.106.226.35.bc.googleusercontent.com (tempie)
+*** #ubuntu     apes_      H    ~apes@pleasantops.com (apes)
+*** #ubuntu     thib       G    ~thib@wikimedia/Thibaut120094 (Thibaut)
+*** #ubuntu     henkkus_   H    henkkus@namibia.aviation.fi (Henrik Selinummi)
+*** #ubuntu     ReimuHakurei_ H    ~Reimu@192.254.71.27 (Alex Ingram)
+*** #ubuntu     TheVacuo1  H    ~aaron@104.129.43.184 (aaron)
+*** #ubuntu     phillijw_  H    ~phillijw@50.116.45.112 (Joe Philly)
+*** #ubuntu     kjsnavely  H
+    sid190860@gateway/web/irccloud.com/x-asgnnwdsxfwyjzzl (Kyle Snavely)
+*** #ubuntu     uplime     H    nchambers@learnprogramming/staff/nchambers
+    (The official freenode bartender)
+*** #ubuntu     illuminated H    ~illuminat@freebsd/user/illuminated (James)
+*** #ubuntu     ayan       H    ~ayan@147.137.211.130.bc.googleusercontent.com
+    (Ayan George)
+*** #ubuntu     angersec   H    ~quassel@quassel.angersec.com (angersec)
+*** #ubuntu     s0lar1s    H    ~quassel@198.199.117.166 (sol)
+*** #ubuntu     clopez     G    ~tau@neutrino.es (clopez)
+*** #ubuntu     bertman    H    ~bert@unaffiliated/bertman (Bert Man)
+*** #ubuntu     javi404    H    ~quassel@unaffiliated/javi404 (javi404)
+*** #ubuntu     jferguson  H
+    ~jferguson@static-108-16-207-87.phlapa.fios.verizon.net (John Ferguson)
+*** #ubuntu     mceier     H    ~mceier@89-68-132-187.dynamic.chello.pl
+    (Mariusz Ceier)
+*** #ubuntu     mrcivvy    H
+    MrCivvy@gateway/shell/panicbnc/x-xvgptpnberodqled (MrCivvy)
+*** #ubuntu     Cypher100  H    ~cypher@unaffiliated/cypher100 (cypher)
+*** #ubuntu     Cueball    H    lee@crush.lb3.co.uk (lee)
+*** #ubuntu     UukGoblin  H    ~jaa@unaffiliated/uukgoblin (someone)
+*** #ubuntu     lsyoyom    H    ~liny01@unaffiliated/lsyoyom (liny01)
+*** #ubuntu     WizBright  H    ~WizBright@172.98.193.6 (Wizzy)
+*** #ubuntu     octanium   H    bjorn@oppetid.nedetid.org (Bjorn Johansen)
+*** #ubuntu     kunwon1    H    ~kunwon1@unaffiliated/kunwon1 (Specialization
+    is for Insects.)
+*** #ubuntu     rax-       G    ~rax-@bnc.localh0st.co.uk (rax-)
+*** #ubuntu     jojantti   G    jojantti@nat/qt/x-xtfnenvjeieoucnb (jojantti)
+*** #ubuntu     ShellcatZero H    ~ShellcatZ@cpe-66-27-89-254.san.res.rr.com
+    (John Shepherd)
+*** #ubuntu     nikow1     H    ~nikow@99.ip-217-182-76.eu (nikow)
+*** #ubuntu     chu        H    ~chu@unaffiliated/chu (Matthew Ball)
+*** #ubuntu     flexd      H    ~flexd@rxd.no (boop)
+*** #ubuntu     jiffe      H    ~jiffe@unaffiliated/jiffe (jiffe)
+*** #ubuntu     eldritch   G    ~eldritch@unaffiliated/eldritch (eldritch)
+*** #ubuntu     digilink   H    ~digilink@unaffiliated/digilink (digilink)
+*** #ubuntu     nhandler   G
+    ~nhandler@freenode/staff/ubuntu.member.nhandler (Nathan Handler)
+*** #ubuntu     ksa        H    ~m@178.62.247.197 (Kim Stig Andersen)
+*** #ubuntu     larsi      H    ~lars@unaffiliated/larsi (lars)
+*** #ubuntu     fooctrl    H    ~havoc@92-109-78-37.cable.dynamic.v4.ziggo.nl
+    (Adnan Hodzic)
+*** #ubuntu     atrius     H    ~atrius@99.160.139.232 (atrius)
+*** #ubuntu     olivierb-  H    ~olivierbo@2001:41d0:1004:22b6:: (Olivier
+    Bourdon via ZNC)
+*** #ubuntu     Khaotic_   H    Khaotic@unaffiliated/khaotic (Khaotic)
+*** #ubuntu     whitekidney_ H    ~wk@191.107.34.95.customer.cdi.no
+    (0x81e70020)
+*** #ubuntu     bobe       G
+    2CvYDzjLR9@gateway/shell/uberspace.de/x-vflxqwxptysxghyf (bobe)
+*** #ubuntu     hadret     H    ~hadret@nodevops.com (Hadret)
+*** #ubuntu     Len        G    ~Lenisko@n248h247.sprintdatacenter.net
+    (Lenisko)
+*** #ubuntu     stub       H    ~stub@canonical/launchpad/stub (Stuart Bishop)
+*** #ubuntu     zanshin    H    ~zanshin@ip68-102-23-189.ks.ok.cox.net (Mark
+    Nichols)
+*** #ubuntu     DLange     G    ~DLange@about/linux/staff/dlange (Daniel
+    Lange)
+*** #ubuntu     fearless1man H
+    makudesu@gateway/shell/insomnia247/x-njtvzgaacxjxpozy (Unknown)
+*** #ubuntu     BLZbubba_  H    ~mark@knm.org (Mark Lehrer)
+*** #ubuntu     mjrosenb   H
+    ~mjrosenb@pool-100-37-241-78.nycmny.fios.verizon.net (Unknown)
+*** #ubuntu     BillyCrook H    ~BillyCroo@bcrook.com (Billy Crook)
+*** #ubuntu     ubuntulog  H    ~logbot@ubuntu/bot/ubuntulog (log bot::
+    contact rt@ubuntu.com)
+*** #ubuntu     CoJaBo     H    ~aztec@unaffiliated/cojabo (aztec)
+*** #ubuntu     berglh     H    ~quassel@ns1.bytefuse.net (berglh)
+*** #ubuntu     ozzloy     H    ~ozzloy@unaffiliated/ozzloy (ozzloy
+    palindromemordnilap)
+*** #ubuntu     theTOOLM1N H    ~teale@162.243.187.139 (Unknown)
+*** #ubuntu     fcanela    H    ~fcanela@unaffiliated/fcanela (fcanela,,,)
+*** #ubuntu     ksx4system_ G    ~ksx4syste@104.244.76.243 (Krzysztof
+    Staniorowski)
+*** #ubuntu     dash__     H    ~quassel@81.27.40.63 (Dag Asheim)
+*** #ubuntu     N3X15      H    ~nexis@mail.nexisonline.net (Got ZNC?)
+*** #ubuntu     pwnslinger_ H    ~mahmad11@209-147-139-8.nat.asu.edu
+    (pwnslinger)
+*** #ubuntu     NC83DC     G
+    sid26837@gateway/web/irccloud.com/x-jdpvkoirheaswllu (Nick)
+*** #ubuntu     uptime     H    alore@wikimania/cagematch/uptime (I'm handin'
+    out allowances to all my goons)
+*** #ubuntu     Ekho-      H    ~Ekho@unaffiliated/ekho (Ekho)
+*** #ubuntu     knaved     H    ~knaved@unaffiliated/knaved (Knaved Avnacnem)
+*** #ubuntu     lead_pipe23 G    ~Lead@c-71-59-62-216.hsd1.ga.comcast.net
+    (Pipe")
+*** #ubuntu     nemith     H    ~bbennett@cyanogenmod/maintainer/Nemith
+    (bbennett)
+*** #ubuntu     johnnyfive H    ~johnny@unaffiliated/isalive (Devops)
+*** #ubuntu     iceiceice  H    ~chris@unaffiliated/iceiceice (realname)
+*** #ubuntu     Nothing4You G    N4Y@nothing4you.w.tf-w.tf (Richard Schwab)
+*** #ubuntu     SwedeMike  H    swmike@ipv6.swm.pp.se (Like a wedgie on
+    steroids)
+*** #ubuntu     killtheliterate H
+    killthelit@gateway/shell/firrre/x-koxewspxaakbetwh (Karamazov)
+*** #ubuntu     Guest13685 H    Crystal@eris.the.sexiest.cat (Sven Olderaan)
+*** #ubuntu     TmvC       H    ~TmvC@37.48.122.74 (TmvC)
+*** #ubuntu     Humbedooh  H    ~humbedooh@apache/staff/humbedooh (Daniel
+    Gruno)
+*** #ubuntu     pesari     H
+    mpesari@gateway/shell/tkk.fi/x-nejiskqkfpsgksrw (Mikko Pesari)
+*** #ubuntu     Trefex_    H    ~quassel@2001:41d0:52:a00::eca (Christophe
+    TREFOIS)
+*** #ubuntu     maco       G    ~quassel@unaffiliated/maco (Mackenzie)
+*** #ubuntu     Zabot      H    ~Zach@lair.cs.siue.edu (realname)
+*** #ubuntu     mths       H    mathias@irssi.science (Mathias)
+*** #ubuntu     GavinAlderson H
+    GavinAlder@gateway/shell/elitebnc/x-sxjvuyclqcdbrygr (GavinAlderson)
+*** #ubuntu     cschneid   H    cschneid@2600:3c00::f03c:91ff:fe73:9540
+    (cschneid)
+*** #ubuntu     ish95ish95 G
+    uid289016@gateway/web/irccloud.com/x-dzpxhhwdjocdmgpl (ish gupta)
+*** #ubuntu     ren0v0     G
+    ~ren0v0@host213-122-101-73.range213-122.btcentralplus.com (ren0v0)
+*** #ubuntu     bipul      H    ~7dodo.net@unaffiliated/bipul (Visit my blog)
+*** #ubuntu     albrecht   H    ~albrecht@37.235.49.70 (Unknown)
+*** #ubuntu     jink       H    mrjink@chat.jink.net (Gillis J. de Nijs)
+*** #ubuntu     rosco      H    ~rosco@eslpc23.epfl.ch (rosco)
+*** #ubuntu     beggi      H    ~beggi@hekla.lazyboyz.org (GuÅvarÅur Å”lafsson)
+*** #ubuntu     Neo        G    ~neo@opennic/Neo (Neo Anderson)
+*** #ubuntu     samcv      H    ~samcv@perl6/developer/samcv (samcv)
+*** #ubuntu     manacit    H    ~nick@unaffiliated/manacit (Nick)
+*** #ubuntu     tomreyn    H    ~tomreyn@megaglest/team/tomreyn (Tom Reynolds)
+*** #ubuntu     bergers89  H
+    ~bergers89@gateway/shell/devio.us/x-tcsiuukmxjyxveje (Stefan Berger)
+*** #ubuntu     Rez        H    ~LoRez@freenode/staff-emeritus/lorez (LoRez)
+*** #ubuntu     SJr        H    ~sjr@unaffiliated/sjr (Steve)
+*** #ubuntu     dmp450     H    ~dmp450@tux7.usask.ca (Derek Perrin)
+*** #ubuntu     ghormoon   H    ~ghormoon@ghorland.net (Jiri 'Ghormoon' Novak)
+*** #ubuntu     g3kk3r     H    ~torrkull@far.torrkulla.net (Kaj Torrkulla)
+*** #ubuntu     speedmann  H    ~speedmann@unaffiliated/speedmann (Sebastian)
+*** #ubuntu     CptLuxx    H    ~quassel@about/windows/staff/cptluxx (CptLuxx)
+*** #ubuntu     BOHverkill G    ~BOHverkil@holarse/core/bohverkill (Burkhard
+    Hampl)
+*** #ubuntu     ben8472    G    ~ben8472@62.113.255.21 (Got ZNC?)
+*** #ubuntu     Frickelpit H    ~pit@ubuntuusers/serverteam/frickelpit (pit)
+*** #ubuntu     mrBen2k2k2k_ H    ~logstash@54.175.144.121 (logstash)
+*** #ubuntu     geheimnis` H    ~geheimnis@23.226.237.192 (geheimnis)
+*** #ubuntu     evulish    H    ~evulish@cpe-66-108-46-190.nyc.res.rr.com
+    (Grant)
+*** #ubuntu     elitedev   H    ~elitedev@unaffiliated/elitedev (elitedev)
+*** #ubuntu     elitedev_  H    ~elitedev@unaffiliated/elitedev (elitedev)
+*** #ubuntu     Guest63460 H    ~ard1t@46.183.122.84 (Ard1t)
+*** #ubuntu     ptx0       H    ~cheesus_c@unaffiliated/ptx0 (Our lord and
+    saviour Cheesus Crust)
+*** #ubuntu     percY-     H    ~percY@138.68.7.139 (percY)
+*** #ubuntu     shah       H    shah@gateway/shell/elitebnc/x-hnxsmqdeahqtlixu
+    (shah linux)
+*** #ubuntu     ibttis     H
+    Elite21152@gateway/shell/elitebnc/x-uvpvledyeayxcdvg (Using EliteBNC, I'm
+    part of the elite!)
+*** #ubuntu     doppo      H    doppo@2604:180::e0fc:a07f (doppo)
+*** #ubuntu     greenbigfrog G
+    Elite14712@gateway/shell/elitebnc/x-jeuyonuacjjpcbeg (If I should not be
+    react it's probally just my bnc)
+*** #ubuntu     huff3r     H    ~Huff3r@47.154.163.102 (realname)
+*** #ubuntu     DerRaiden  H
+    ~quassel@static.11.33.201.195.clients.your-server.de (Rene)
+*** #ubuntu     bkraptor   H    ~bkraptor@unaffiliated/bkraptor (bkraptor)
+*** #ubuntu     kukacz     G    ~kukacz@193.15.240.60 (Lukas Kubin)
+*** #ubuntu     igeni      H    ~textual@C323D0E2.static.ziggozakelijk.nl
+    (Textual User)
+*** #ubuntu     ihavoc     H    ~quassel@76.205.207.16 (ihavoc)
+*** #ubuntu     eddb       H    Left@the.garbagecan.online (Eddy Dwaine
+    Bertrand)
+*** #ubuntu     la_juyis   H    ~quassel@192.241.197.159 (Julia Palandri)
+*** #ubuntu     emerson    G    emerson@freenode/staff/emerson (emerson)
+*** #ubuntu     SchrodingersScat H    ~Schroding@unaffiliated/schrodingersscat
+    (SchrodingersScat)
+*** #ubuntu     kameloso   H    ~NaN@2001:41d0:2:80b4:: ( kameloso!)
+*** #ubuntu     jswagner   H    ~jswagner`@104.131.138.174 (Jason S. Wagner)
+*** #ubuntu     romance    H    ~romance@2a01:8740:1:fe05:5268:971c:8245:1
+    (romance)
+*** #ubuntu     `mist      H    ~mist@h-111-69.A357.priv.bahnhof.se (mist)
+*** #ubuntu     AntiSpamMeta H    asm@AntiSpamMeta/. (http://antispammeta.net)
+*** #ubuntu     justiceBEAVER H    ~gotwwoday@185.21.216.197 (puffpuff)
+*** #ubuntu     xandowsk   H    ~xandowsk@2001:1af8:4700:b0d0:be00::
+    (xandowsk)
+*** #ubuntu     OpenSorce  H    opensorce@unaffiliated/opensorce (opensorce)
+*** #ubuntu     KennosiS   H    ~alquimist@unaffiliated/kennosis (.-.)
+*** #ubuntu     beanumsum  G
+    ~beanumsum@pool-96-246-183-104.nycmny.fios.verizon.net (dbe)
+*** #ubuntu     Kitlith    G    ~Kitlith@theobromine.kitl.pw (Kitlith)
+*** #ubuntu     linuxthefish H    ~linuxthef@unaffiliated/edmundf (Fish)
+*** #ubuntu     Village    G    Lauras@deep.night.80s.lt (Laurynas)
+*** #ubuntu     jk0ne      H    ~Jayk@167.114.6.76 (Jayk)
+*** #ubuntu     lilwiz     H    xD@unaffiliated/lilwiz (lilwiz)
+*** #ubuntu     Dewin      G    ~dewin@40.112.138.169 (Daniel)
+*** #ubuntu     Incepti0n  H    ~Incepti0n@13.92.140.141 (realname)
+*** #ubuntu     PeterReid  H    ~quassel@2001:41d0:2:e845:: (Peter)
+*** #ubuntu     utfans05   G    utfans05@unaffiliated/utfans05 (utfans05)
+*** #ubuntu     Jikan      G    ~Jikan@noein.haruka.fr (Jikan)
+*** #ubuntu     nickware-idle H    ~nickware@unaffiliated/nickware (Nick.  My
+    contact details: http://goo.gl/M02Yd)
+*** #ubuntu     hays       H    ~quassel@fsf/member/hays (hays)
+*** #ubuntu     wyggler2   H    mvlewis@pilot.trilug.org (Michael Lewis)
+*** #ubuntu     mattcode   H    ~mattcode@unaffiliated/mattcode (Got ZNC?)
+*** #ubuntu     clakes     H
+    clakes@gateway/shell/blinkenshell.org/x-oshsjfamljjbhaon (clakes)
+*** #ubuntu     luny       H    ~luny@unaffiliated/luny (luny)
+*** #ubuntu     rymate1234 H    ~rymate@paid.for.by.rymate.co.uk (Ryan)
+*** #ubuntu     nopcode    H
+    ~nop@static.181.231.46.78.clients.your-server.de (nop)
+*** #ubuntu     distantorigin H    ~distantor@168.235.91.52 (distantorigin)
+*** #ubuntu     Taylor     H    ~Taylor@unaffiliated/taylor (Taylor)
+*** #ubuntu     folivora   H    ~out@devnull.drwxr-xr-x.eu (_dr0p_)
+*** #ubuntu     philroche  H
+    ~philroche@ec2-52-51-163-177.eu-west-1.compute.amazonaws.com (Phil Roche)
+*** #ubuntu     Newa       H    neva@dsl-hkibng42-5673c2-183.dhcp.inet.fi
+    (Neva)
+*** #ubuntu     HotSwap`   H    ~hotswap@unaffiliated/hotswap/x-1719459
+    (hotswap)
+*** #ubuntu     ikevin     H    ~kevin@aye-aye.dedibiz.fr (DAGNEAUX Kevin)
+*** #ubuntu     thebwt     G
+    sid199145@gateway/web/irccloud.com/x-fqgbykukmjcdcdpf (Brandon Tomlinson)
+*** #ubuntu     JStoker    G    jstoker@unaffiliated/jstoker (JStoker)
+*** #ubuntu     msev-      H
+    msev-@gateway/shell/panicbnc/x-cyvlafsjjkwspqys (msev-)
+*** #ubuntu     viddy      H    viddy@viddy.no (Marius Eikenes)
+*** #ubuntu     Kristine   H    ~Kristine@pdpc/supporter/student/Kristine
+    (Kristine Moore)
+*** #ubuntu     tonyyarusso G    ~anthony@ubuntu/member/tonyyarusso (Anthony
+    Yarusso)
+*** #ubuntu     Seveas     H    ~seveas@seveas.net (Dennis Kaarsemaker)
+*** #ubuntu     maxxer     H    ~quassel@unaffiliated/maxxer (Lorenzo `maxxer`
+    Milesi)
+*** #ubuntu     avelardi   H    ~irc@linode/staff/avelardi (Anthony Velardi)
+*** #ubuntu     NotLim     H    ~sadasd@190.96.77.94 (asdsada)
+*** #ubuntu     mrozek     H    ~pi@84-55-119-112.customers.ownit.se (pi)
+*** #ubuntu     blazeme8   H    ~blazeme8@downtime.rocks (blazeme8)
+*** #ubuntu     bitch      H
+    hctib@gateway/shell/elitebnc/x-pbncdpllaknmxuqk (Bitch please.)
+*** #ubuntu     thatgraemeguy G    ~thatgraem@unaffiliated/thatgraemeguy
+    (Graeme Donaldson)
+*** #ubuntu     acheronuk  H    acheronuk@ubuntu/member/acheronuk (Rik Mills)
+*** #ubuntu     Linkandzelda H    ~Linkandze@unaffiliated/linkandzelda
+    (Linkandzelda)
+*** #ubuntu     valkyr1e   H    ~valkyrie@unaffiliated/hydralisk (SIN Valkyrie
+    01)
+*** #ubuntu     dnegreira  H    ~v0id@otherreality.net (Destruction Also
+    Breeds Creation)
+*** #ubuntu     Casper26   H    ~Casper26@2001:470:8:2d3:ff:ff:ff:ff
+    (Casper26)
+*** #ubuntu     ndk        H
+    ~ndk@cpc68331-cdif16-2-0-cust239.5-1.cable.virginm.net (ndk)
+*** #ubuntu     stuart02_  G    ~stuart@xenon.stuconnolly.com (Stuart
+    Connolly)
+*** #ubuntu     ddellav    H    ~ddv@citadel.qubitlogic.net (David Della
+    Vecchia)
+*** #ubuntu     decoder_   H    ~quassel@newmf.own-hero.net (decoder)
+*** #ubuntu     ktechmidas H    ~ktechmida@unaffiliated/ktechmidas
+    (ktechmidas)
+*** #ubuntu     mos_basik  G    quassel@2a01:7e00::f03c:91ff:fe26:dac7
+    (mos_basik)
+*** #ubuntu     rysiek|pl  H
+    ~quassel@static.51.54.9.176.clients.your-server.de (rysiek)
+*** #ubuntu     yofel      G    ~quassel@ubuntu/member/yofel (Philip Muskovac)
+*** #ubuntu     saba       H    ~foo@unaffiliated/saba (%)
+*** #ubuntu     ariver     G    ~ariver@bouncy.runsthruit.com (Aaron River)
+*** #ubuntu     pinnen     H    pinnen@unaffiliated/pinnen (Tommy)
+*** #ubuntu     xar-       H    xar-@2600:3c00::f03c:91ff:fe24:4661 (xar-)
+*** #ubuntu     baraba     H    ~baraba@unaffiliated/baraba (baraba)
+*** #ubuntu     jonbryan   H    ~nope@unaffiliated/jonbryan (...)
+*** #ubuntu     txtsd      G    ~txtsd@198.23.246.143 (Herpington Derpson)
+*** #ubuntu     cncr04s    H    ~cncr04s@unaffiliated/cncr04s (cnc)
+*** #ubuntu     Phlogistique H    ~phlogisti@195.154.54.216 (phlogistique)
+*** #ubuntu     tobsterius H    ~tobsteriu@tobsteri.us (tobsterius)
+*** #ubuntu     varesa_    H
+    ~varesa@ec2-52-49-18-111.eu-west-1.compute.amazonaws.com (Esa Varemo)
+*** #ubuntu     phill      H    phill@openlp.io (Phill)
+*** #ubuntu     yothsoggoth H    ~joe@fedora/yothsoggoth (joe)
+*** #ubuntu     daz-_      H    ~trizznick@192.210.139.163 (daz-)
+*** #ubuntu     John_Wayne H    ~JohnWayne@znc.flyingplatypus.org (John Wayne)
+*** #ubuntu     latz_      G    ~latz@li193-194.members.linode.com (Frank
+    Lazzarini)
+*** #ubuntu     KingPin    G    kingpin@bela.kpsn.org (kingpin)
+*** #ubuntu     lucasrolff H    ~lucas.rol@bouncer.optimizer.io (Lucas Rolff)
+*** #ubuntu     nsh        H    ~lol@wikipedia/nsh (Smedley Butler)
+*** #ubuntu     Flannel    H    ~flannel@ubuntu/member/flannel (Flannel)
+*** #ubuntu     kevank     G    ~quassel@freenode/sponsor/kevank (Kevan Kay)
+*** #ubuntu     crane      H    ~crane@chat.craneworks.de (Denny Crane)
+*** #ubuntu     ToeSnacks  G
+    sid84043@gateway/web/irccloud.com/x-rxndsscvdbgizxmu (null)
+*** #ubuntu     ubottu     H    ~ubottu@ubuntu/bot/ubottu (Ubuntu IRC Bot)
+*** #ubuntu     muh-die-kuh H    ~quassel@2001:41d0:51:1::ed7 (Hans-Christian
+    Otto)
+*** #ubuntu     Matthew_   G    sid55177@wikimedia/matthewrbowker
+    (matthewrbowker)
+*** #ubuntu     Spetke     G
+    sid156498@gateway/web/irccloud.com/x-gqrycsjttdreodkd (Petteri Hjort)
+*** #ubuntu     FourDollars H
+    sid12544@gateway/web/irccloud.com/x-elxbmasmfreoutwe (Shih-Yuan Lee)
+*** #ubuntu     KeithIMyers H
+    sid53855@gateway/web/irccloud.com/x-zjclysejuibpiedl (Keith Myers)
+*** #ubuntu     dragly     G
+    sid77242@gateway/web/irccloud.com/x-ppfnkbmhlupcgpzp (dragly)
+*** #ubuntu     catmando   G
+    sid267121@gateway/web/irccloud.com/x-tpzzosvdtnitviwh (catmando)
+*** #ubuntu     pchoo      G
+    sid46104@gateway/web/irccloud.com/x-fblgkkujhmryhwtr (boop)
+*** #ubuntu     Julien-zte H
+    sid248370@gateway/web/irccloud.com/x-kqoyogpafgnatryr (Julien)
+*** #ubuntu     Jonii      G
+    sid185642@gateway/web/irccloud.com/x-fceekscsscxrufpq (Jonii)
+*** #ubuntu     digitalfiz H
+    sid533@gateway/web/irccloud.com/x-wywgfrehyqqjpgjw (devtheops.com)
+*** #ubuntu     jyc        G
+    sid40911@gateway/web/irccloud.com/x-xwmsgzmhnasskdnw (Jonathan Chan)
+*** #ubuntu     ectos      H    ~ectos@115.68.226.254 (ectos)
+*** #ubuntu     teej       G
+    uid154177@gateway/web/irccloud.com/x-atvccxbuqunwfike (teej)
+*** #ubuntu     gvvg__     G
+    sid188075@gateway/web/irccloud.com/x-tlatgnnlppyycdxr (Gilbert Rebeiro)
+*** #ubuntu     zzzack     H    ~sph1nx@159.203.10.145 (sph1nx)
+*** #ubuntu     diginaut   H    ~digisho@138.197.170.239 (digisho)
+*** #ubuntu     gyre007    H
+    sid20783@gateway/web/irccloud.com/x-iteznzvpfrznjjwq (Donnie Brasco)
+*** #ubuntu     popey      H    sid245484@ubuntu/member/popey (Alan Pope)
+*** #ubuntu     mca_gif    G
+    sid283505@gateway/web/irccloud.com/x-bpvbxbpxedthjigh (mca)
+*** #ubuntu     Roedy      G    Roedy@unaffiliated/roedy (Roedy)
+*** #ubuntu     malwar3hun73r H    ~malwar3hu@unaffiliated/malwar3hun73r
+    (malwar3hun73r)
+*** #ubuntu     jonfatino  H    ~jonfatino@184.170.251.3 (jonfatino)
+
+[Thu Apr 19 2018]
+*** You have joined channel #ubuntu                                     [18:42]
+*** Topic for #ubuntu: Official Ubuntu Support Channel | IRC Guidelines:
+    http://ubottu.com/y/gl | This channel supports Ubuntu and its official
+    flavors; versions 14.04, 16.04, and 17.10 | bionic/18.04: /join #ubuntu+1
+    | Unofficial derivatives: use your distro's support channel, not here. |
+    IRC info: http://ubottu.com/y/irc | Pastes to http://paste.ubuntu.com/ |
+    Download: http://ubottu.com/y/dl
+*** #ubuntu: topic set by dax!dax@freenode/staff/dax, 2018-03-01 03:44:38
+*** Users on #ubuntu: taro shiznix_ wuu aLeSD _ADN_ dxiri wanqcryp1 USERNAME00
+    filosi new0 thiras crimson_king r0Oter zen_ VikingHoarder peet rorro
+    Tzunamii multifractal c0ncealed1 murphyslawbbs matzgi inspectorcluseau
+    Richard|Fastly dcc0 wonderworld FierceDeityLink computer2000 erasmus
+    saitoh183 michel[m] vincy shann tvw onio gnuton huayra makije atolani
+    smerdyakow leion newstem jona303 lapaga mjayk fguimaraes vivsoni venmx
+    xet7 sudhackar_ NickG365 teeyonwe zeffy p3rs3us
+*** Users on #ubuntu: tizzja Cheez nellypb repz eraserpencil tombusby
+    Dolanyeah114 amcsi NotHere Jyothis PCatinean ArkQuintet geordy Wiwi_
+    SimonNL TomyWork bfernando mkoed ReusedSalt Kharma Conino mateothegreat
+    Dugroin mrbinaer mikecmpbll DaGoaty jkultra natten lg543 kissiel
+    DocHopper_ jluc OERIAS willcooke aimileus ghostcube xplora1a ibispi CarlFK
+    rauno cptdoobage Lin-Buo-Ren f0rks Phylock ^peter^ howlymowly velizarx
+    dreamon_ cpaelzer jablo crogers odovzen interrobangd N1n034
+*** Users on #ubuntu: zzarr Silmarilion flaviodesousa Vince_ rimd2r VanCo
+    MadAGu Haris Randolf max_m arunkumar413 markeczzz animtakhnet tcraxs borkr
+    larsmw lan dhill__ metts theoceaniscool matthewsewell HerbY_NL2 barq
+    saurabhs_ desti miskatonik talep158 oleg chalcedony xamithan hateball
+    sauvin shootbird DenBeiren VladGh Church Schlawiner AnnaRooks led_ir22
+    en7ropy ubot9 jeffreylevesque dgtlchlk Elysion wook_ peroni trumee kaxing
+    bstr davor Emcy masber FiremanEd allizom
+*** Users on #ubuntu: kallesbar untoreh Joschii wliu_ stephen101 blankhart
+    cmdshftn pystar89 Rokixz Laconic Varth wirehead vonzcfw ericrajuin fxnoob
+    sigsts pragmaticenigma Kryptron mypapit e1337h4cksncr4ck Sven_vB ledeni
+    herbmillerjr wodencafe nowayy e1z0 czart ca_cabo akem_ cpt-oblivious
+    coolball_ L3gacy harrymm camako b3zi- brainwash bumbar_ underd0g modernbob
+    pdrakeweb chamaeleon liefer BionicMac pervader cadeskywalker duttasankha
+    cliluw DisplayError de-facto feodoran
+*** Users on #ubuntu: andregra1 niko nacc urdh Squarism NET||abuse Ad1Tech
+    Barzogh Stinky-Feet estan_ JanC brief shabius Shadowmm hggdh bittyx Ceber
+    kostkon mgor NextContestant `Cam BSaboia neunon Exagone313 mave_ mipesom
+    dinoocch kees StoneCypher padv maum Freejack wgma khisanth__ flugger idwer
+    vt102 Very_slow forkup Nik05 weaksauce gmourey bildramer DF3D2 alxd
+    herekun nwilson5 trekkie1701c Daegalus jjvvx argusbr markus1189 V7 evert_
+    vivid destiny Transfusion mib markus-k
+*** Users on #ubuntu: ssarah sobersabre albttx phoenixz _S4MUR4I_ steven__
+    Guest28638 derpy n35xdxb0 fundies Menzador kolbert BGL carif phil42 epanda
+    Inimesekene jackmcbarn AJ_Z0 f|shy mlhess morphis_ dhs2324234234234 gregl
+    ehlodex craig4who telex foul_owl niee raidghost flying_sausages adellam
+    pari42 Tm_T jack_c ztane ineiros sjl_ zduniak mijndert[m] ph0b0s_ nuc
+    Night_ fabricius noxs freecoder luna_ hunterlabs thxffo Thumpxr inteus
+    yokel poutine @Sigyn CrypticSquared mumixam
+*** Users on #ubuntu: Jazzy_J farid Slart xamindar Skaface82 mcs_ fyrril2
+    zonum hardbot archpc lu_tze WildSoft psych0dellic m4v Ben64 MACscr
+    Hackerpcs isantop disi djarbore mircx1 dskull michaelni genewitch
+    blingrang armyriad Butterfly| n-st GNUdog ianychoi linuxdaemon guiverc
+    leo_ yoshifan kudu levd1 Octa-X Mathis Cyber_Akuma john-34 GerbilSoft
+    jinie PityDaFool LenPayne diarpi pdodger n4n0` binaryhermit SlidingHorn
+    u0m3_ krisd cookiecutter redlegion devster31 tsglove2
+*** Users on #ubuntu: Blueking oerheks insidious theZenman DalekSec arij
+    fcastillo bstempi_ jhutchins darxun xerox123 Ghosthree3 Scenick oijeeboo
+    bn_work yt rscheideman dre topi` wk-work_ kwitschi jnewt kylen_ alpalp_
+    kcas_ lapion cyphase sins- yeticry Simonious_ SunTsu theGoat sarri drsn0w
+    Mia treehug88 rypervenche spont4e slashd rosseaux Adbray K_K_N make91 deem
+    carman hke elec64 jinjonBoo Dovid nct colints lblume datajerk transhuman
+    Guest48 akay Catalysm wallen ijmad chiluk
+*** Users on #ubuntu: seyeongkim DK2 jpe m5w tetris2345[m] franzer fz_salam
+    pedroferry[m] ckboss[m] OS-23778 edwinvanolst[m] simonizor abbiya
+    chrowe[m] kirscht[m] DevOpsGeneral-Be sxar Guest28240 brotkiste[m]
+    oliviamaia[m] ch3n2k[m] tobias[m]1 jounih[m] waqqasdadabhoy[m
+    DiogoGomes[m] snek hotbakedpotato[m rich[m] admin[m]2 jacob[m]1
+    andreasw[m] stathis[m] edong23 remix2000[m] M-bbigras javier[m]
+    rockyiii[m] salman[m] orangesodacan[m] denixx|h2 Rondom dellavg Kon[m]
+    iceskins[m]
+*** Users on #ubuntu: blujaxian brunoqueiros[m] karlhaworth[m] bhuddah
+    JosephGrasser BrAsS_mOnKeY PickledEggs pagios jugo_ riotz gorlock Edgan
+    BytesBaconBB igor_opaniuk necrogami orf__ zwamkat Sleaker_ realies matti_
+    no_maam michagogo fudanshi @TheRedQueen rito irv dunnousernamefn Osirus126
+    luka_33 |Alexia_Death| _ruben austinkeeley pcdummy Emmanuel_Chanel irwiss
+    Guest93544 guntbert Aristide d3r3k bray90820 musalbas DzAirmaX r03nz
+    longsleep flexoboto nadio funabashi
+*** Users on #ubuntu: auronandace _Trullo Poster|n BMO-noire Anarchemist
+    Ricardus messer440 ecormier Zialus ycarene BlackDex gueriLLaPunK
+    ash_worksi Amany yn roothorick sparklyballs adalbert supersoju Modeuse
+    narindergupta jayjo Noskcaj Logan Zren Fleetwood edmz ejat crossmanith
+    shannara beaver ogra_ FilipNortic Ool eliudnir t0h Colar ExploitedKernel
+    matt_ lempamo tolecnal sixth freeguestee designbybeck lborda rodsmith
+    ueberall anonymip _KaszpiR_ rekoil kozy Indicium olegb
+*** Users on #ubuntu: matthelmke rud0lf waltman Soulless Orphis lukasdboer
+    tmiland k12 TheGrumpyScot jonsson__ AndrewMC y0sh vlt SMuZZ SysGhost
+    Random832 drkokandy Daerist ircuser-1 Murii XXCoder vbotka falafel tanuki
+    sysrage jrolland-home NotInTheMood warpx anto Tristam zamba littlebear
+    sakhd malkauns bcowan tester Logicwax TvL2386 clete2 goiko Tempesta aegis
+    Anthaas Chappie-san tabris Doffi FaTaL_G TheTrash petris faxer JackK pumba
+    Mercury_Vapor jjmeyer0 Carll jrolland-work
+*** Users on #ubuntu: XenophonF UsQUE sp3ck sylario habith azizLIGHT wildc4rd
+    nick1234 ChiLLabiS Vic2 camfl hph^ WARlrus explodes bkuhl retoaded
+    keitellf Malinux fullstack segersjerry marlinc ageis grumble el wouter0100
+    epipercepi Nd-69-M BenderRodriguez jagrutid mindstorm blipz sariawan
+    WARBIRD199 lorimark_ Bryanstein salamanderrake Ampelbein Netmage Th3Mafia
+    seprob Mead leftyfb rory fractal nobody BH23 dan2wik Netham45 sssnap mosh\
+    Seven_Six_Two MrFixIt gde33
+*** Users on #ubuntu: systemdPlusLinux oOBadDreamOo shoogz pacbard
+    stwalkerster bugzbunny SynfulAck paraxial croberts _foo bdmc plains
+    lektronx fredrikx Nukien thallada steenman Apachez Telvana malinator
+    thaumavorio dvdmuckle gusnan kyentei Harry NoCode Sulak mpmc mlabbe_
+    Damier- bouncy enissay Moscherkobold Kobaz ShaRose jonne dwar dinasty xit
+    nolsen JimBuntu jemark jksM dave4925 ltrager blanko dh128 broccoli giraffe
+    volker floown stochastix matthiaskrgr rohan felixsanz
+*** Users on #ubuntu: evalenti zamanf StathisA kus_ubuntui686 philippirrip
+    secretmessage Comstock Miron DeeJayTwo Mart__ vila karstensrage mcdonc
+    SPeedY robairt RiPer sunrunner20 Guest1600 darron_a jack1337 zhongfu
+    webuser5224 aananev PtxDK ejr CrazyEddy albech swiftkey neoclust
+    TheSilentLink fearnothing gringaoo mDfRg Granis` katnip dellhem crash_
+    tre99 allquixotic Zooklubba Andreas33 themill Hobbyboy Krenair Br|aN hfp
+    b1nny nmitchell pilcrow LiENUS mneptok ColdKeyboard mz`
+*** Users on #ubuntu: Waggie sparty kim27 Ishaq riex Taggnostr ppf ericus
+    braderhart cooldude _km silver_hook MrBiogene raub dustinspringman claude2
+    Fire-Dragon-DoL K4j markus_e92 MrGeneral masteroman dpb1 vlad__ nonix4_
+    jcara_ wrix_ schmidtm_ icey rfv hreinnbeck_ vern wolsen sdx23 Poster
+    HankMoody underyx Kamilion lord4163 wiak A_D madorn aksz patriciadomin
+    sipior st-gourichon-f darktan cart_man rdz luckman212 caribou unixpro1970
+    Gallomimia cruxeternus heap_ nessenj boshhead
+*** Users on #ubuntu: NegativeFlare kt MegaManSec mniip phunyguy Checkmate
+    b0l3x Tabmow gryphon labrador icee iusr finlstrm peterrooney uprime
+    _systemd_is_evil physpi robogoat anonnumberanon Smeef varazir shazzr
+    Mechanismus quem mhoney Mr_0 duke frdmn popnfresh degenerate aisrael Map
+    mavrikant anewman jamespage victorbjelkholm xttraces lolmac DreamSynth
+    emdashcomma seanh craysiii N1ght0wl zas TheNumb karlamrhein MalteJ dgpratt
+    lvrp16 catbusters WillMoogle Chew prosody yena
+*** Users on #ubuntu: paulmey HashNuke iSagitt DuncanT timeless Kamuela
+    dingbat foddo merpnderp MadPsy emilsp croppa petan mquin maximCH zack6849
+    kvothe ErichEickmeyer mrBen2k2k2k DavyCrocket adymitruk ehw Pricey
+    Dragnslcr tdn SleePy jochenKr jiqiren _McGuyver spion musti kkj abra0
+    shadoxx G33kDad OnkelTem AGXE beaky namshub lexAngeles zaM- grandfso
+    JonathanS geodb27 CobHead ToAruShiroiNeko rfleming lesshaste Chaser
+    ChristiQs Christian_Qs Moyst tanja84dk hatiac Exterminador
+*** Users on #ubuntu: pocketprotector jrgifford jemurray Saviq bornjre
+    arunpyasi xatr0z greenywd graphitemaster superkuh DJones jdr bonzibuddy
+    DeMiNe0 LambdaComplex haarolean Colti damian bboles jtfidje michael2 vTox
+    uniquorn blizzy2 SCHAPiE costamsm acetakwas robbins Andocromn gravyv meLon
+    jwash sjohnson Fuchs mdemo aloril firezep Norbin h12o legend Calvin`
+    fletom N3LRX Adran Messenger_bird Seihava iter quintopia shananigans jrabe
+    Compu georgeowell sharksauce jlacroix
+*** Users on #ubuntu: ilbelkyr deww Klumben memorynoise trevor_s creat
+    Helithumper_ Valfor PigeonWhisperer akaWolf mhall119 Guest79177 baggar11
+    anexit thehebs_ n35xdxb0_ tessier Whiskey Jordan_U surtin comrumino klr
+    johnmark Furai allu2 chindy HcsOmot jackivan88 pjdc big_t RtMF
+    avantgardist rev_strangehope Madars codedmart xz wagle PhilB Peetz0r
+    Mathisen Duzzy gsilvapt chrisml nemesit|znc d1str0 ShinyCyril nicomachus
+    chaignc madwizard bigjazzsound kuzko confluency cellardoor
+*** Users on #ubuntu: Mutsumi justinabrahms r4ulrm Prisa erikj guideline_
+    isene shpingrlde czwolf Zongva geirha db` arooni TrentP iamthad swein
+    jamesbee luxio knittl laserbeak4445 [n0mad] crayon Muligan emid Arkaniad
+    Sweepyoface LinusVE konimex nyuszika7h AshIndigo mlabbe vox kloeri rkantos
+    VampiricPadraig `slikts Randy darmok justache zaro__ tfitts Guest57550
+    stoffepojken Callek compuguy infectiious RoBz duckydan bjonnh obiwahn
+    michael_mbp skule Stravy davidtest765 Shaan7_                       [18:43]
+*** Users on #ubuntu: Shibe Vashy tomaw Buffman_ glycerine zorael phage-
+    gelswip iamgr00t cibs dooglus_ herb blablacar apes_ thib henkkus_
+    ReimuHakurei_ TheVacuo1 phillijw_ kjsnavely uplime illuminated ayan
+    angersec s0lar1s clopez bertman javi404 jferguson mceier mrcivvy Cypher100
+    Cueball UukGoblin lsyoyom WizBright octanium kunwon1 rax- jojantti
+    ShellcatZero nikow1 chu flexd jiffe eldritch digilink nhandler ksa larsi
+    fooctrl atrius olivierb- Khaotic_ whitekidney_ bobe hadret
+*** Users on #ubuntu: Len stub zanshin DLange fearless1man BLZbubba_ mjrosenb
+    BillyCrook ubuntulog CoJaBo berglh ozzloy theTOOLM1N fcanela ksx4system_
+    dash__ N3X15 pwnslinger_ NC83DC uptime Ekho- knaved lead_pipe23 nemith
+    johnnyfive iceiceice Nothing4You SwedeMike killtheliterate Guest13685 TmvC
+    Humbedooh pesari Trefex_ maco Zabot mths GavinAlderson cschneid ish95ish95
+    ren0v0 bipul albrecht jink rosco beggi Neo samcv manacit tomreyn bergers89
+    Rez SJr dmp450 ghormoon g3kk3r
+*** Users on #ubuntu: speedmann CptLuxx BOHverkill ben8472 Frickelpit
+    mrBen2k2k2k_ geheimnis` evulish elitedev elitedev_ Guest63460 ptx0 percY-
+    shah ibttis doppo greenbigfrog huff3r DerRaiden bkraptor kukacz igeni
+    ihavoc eddb la_juyis emerson SchrodingersScat kameloso jswagner romance
+    `mist AntiSpamMeta justiceBEAVER xandowsk tadz SebastianFlyte babilen
+    limbo_ Duckle rideh noah uebera|| Odd_ eschwartz freakyy jgornick_ apw
+    Piper-Off coolchris Anticimex finalriposte Majost
+*** Users on #ubuntu: streaky sha-2 Throttled dino82 Dragon092 lol768 jose
+    Devrim vemacs|ded rubdos xMopx mundus MrC hsiktas Muzer techmagus Metacity
+    Pici bynarie sword_smith trench_ piksu1 janelleb_ raj Triffid_Hunter
+    ahammond Appreciated Zerant- dcmorton dStruct Renegade334 alphawarrior
+    Superman benonsoftware codebam precise eoli3n Doctor_Beard Swish
+    Zachary_DuBois ngc0202 catalase hypraware Kins deepend tonyt Dschingi- DDR
+    antonmpeg_ genpaku Sedated_ Marbug orgasmix_
+*** Users on #ubuntu: blinky42 Ballzak_ confluence_ kspencer avdi andyrock
+    jhill_ xoke_ anuj dinis ohnx cjs226 ybaumy rOss^64 Attoy cryptodan_mobile
+    HappyHotDog dserodio c^ qassim tamaros nyloc ASTRA tcpdump robertf RGamma
+    krisko helpsterTee MonoMonkey tolland wedgie amosbird Keitaro gmh segin
+    karalaine Miklo IonutVan_ habbasi trijntje rhpot1991 devnull MrRooks
+    tarnover Acrisor ripazha LippyLee max-m weltall Gargravarr lynxis trigg
+    zululee anderson tlyu blake_r TaZeR ChunkzZ
+*** Users on #ubuntu: alphaseg m0d elysium Mahaluz AEtherC0r3 Dan_au clampy
+    teward njalk avelldiroll trevorj wgrant SirCmpwn mr_yogurt drmessano
+    Pomidora tekk Fjorgynn komugi Fenhl Spydar007 Jonno_FTW justin_jnf vutral
+    osse RudyValencia Faults ChrisMorrisOrg jacekn ursu RaptorJesus Jode korob
+    cjk dupondje baffle platicus2 ribasushi Diamondcite nicoulaj gluon zh
+    Pelle` k1llian jhebden trobotham yeats kevr Linlz richardwhiuk ikonia
+    zymurgy caliculk toolz blueingr1ss NChief
+*** Users on #ubuntu: pinnerup kbrosnan Escimo Mr_Pan exit70 holdsworth_
+    kermyt Visual` boxmein Numline1 raibutera nooodlesnodes Itored_ lowryder
+    vlee bipolar borbosha Allanis thrillgore jelly bs freanux Swant
+    jerichowasahoax lolcat ducasse mort rjhatl Beeelow m0ltar jhq gustavwiz_
+    jonfatino malwar3hun73r Roedy mca_gif popey gyre007 diginaut zzzack gvvg__
+    teej ectos jyc digitalfiz Jonii Julien-zte pchoo catmando dragly
+    KeithIMyers FourDollars Spetke Matthew_ muh-die-kuh ubottu
+*** Users on #ubuntu: ToeSnacks crane kevank Flannel nsh lucasrolff KingPin
+    latz_ John_Wayne daz-_ yothsoggoth phill varesa_ tobsterius Phlogistique
+    cncr04s txtsd jonbryan baraba xar- pinnen ariver saba yofel rysiek|pl
+    mos_basik ktechmidas decoder_ ddellav stuart02_ ndk Casper26 dnegreira
+    valkyr1e Linkandzelda acheronuk thatgraemeguy bitch blazeme8 mrozek NotLim
+    avelardi maxxer Seveas tonyyarusso Kristine viddy msev- JStoker thebwt
+    ikevin HotSwap` Newa philroche folivora
+*** Users on #ubuntu: Taylor distantorigin nopcode rymate1234 luny clakes
+    mattcode wyggler2 OpenSorce KennosiS beanumsum Kitlith linuxthefish
+    Village jk0ne lilwiz Dewin Incepti0n PeterReid utfans05 Jikan
+    nickware-idle hays
+*** #ubuntu URL: http://www.ubuntu.com
+*** MadAGu (~MadAGu@ppp091138145016.dsl.hol.gr) has quit: Read error: No route
+    to host
+*** #ubuntu modes: +CLcntjf 5:10 #ubuntu-unregged
+*** #ubuntu was created on 2006-11-26 14:42:41
+*** lankanmon
+    (~LKNnet@CPE64777d632383-CM64777d632380.cpe.net.cable.rogers.com) has
+    joined channel #ubuntu
+*** dxiri (~dxiri@186.32.221.68) has quit: Ping timeout: 264 seconds
+*** jona303 (~jona@188.188.80.210) has quit: Ping timeout: 240 seconds
+*** saitoh183 (~saitoh183@modemcable205.42-176-173.mc.videotron.ca) has quit:
+    Quit: Ping timeout (120 seconds)
+*** leion (~Thunderbi@211.138.20.169) has quit: Quit: leion
+*** saitoh183 (~saitoh183@modemcable205.42-176-173.mc.videotron.ca) has joined
+    channel #ubuntu                                                     [18:44]
+*** _sym_ (~user@HSI-KBW-091-089-057-179.hsi2.kabelbw.de) has joined channel
+    #ubuntu
+<_sym_> Hi everyone ;), I stumpled upon a socket file which is owned by root
+        and world read/writable. Is there a chance to privesc through this?
+*** kiwi-n58 (52470db9@gateway/web/cgi-irc/kiwiirc.com/ip.82.71.13.185) has
+    joined channel #ubuntu
+<_sym_> it has the sticky bit set of course                             [18:45]
+*** lufeng (~lufeng@218.201.240.212) has joined channel #ubuntu
+*** jmvanel (~jmv@31-31-127.netrun.cytanet.com.cy) has joined channel #ubuntu
+*** zeffy (~hello@unaffiliated/zeffy) has quit: Quit: goodbye , have a nice
+    chat
+*** zeffy (~hello@2604:180:2:164a::beef:324) has joined channel #ubuntu
+                                                                        [18:48]
+*** zeffy (~hello@2604:180:2:164a::beef:324) has quit: Changing host
+*** zeffy (~hello@unaffiliated/zeffy) has joined channel #ubuntu
+*** sudhackar_ (~sudhackar@103.74.198.4) has quit: Quit: Leaving
+*** lionel- (~lionel-@unaffiliated/lionel-) has joined channel #ubuntu  [18:49]
+*** jochenKr (~jochen@zam1020.zam.kfa-juelich.de) has quit: Remote host closed
+    the connection                                                      [18:50]
+*** eraserpencil (~Thunderbi@118.201.202.98) has quit: Ping timeout: 256
+    seconds
+*** diskin (~diskin@185.49.243.35) has joined channel #ubuntu
+*** protocol_hive (~spektre@99-33-178-191.lightspeed.simica.sbcglobal.net) has
+    joined channel #ubuntu                                              [18:51]
+*** heistheDude (~akshay@unaffiliated/heisthedude) has joined channel #ubuntu
+                                                                        [18:52]
+*** SimonNL (~Simon@546BBE7C.cm-12-4c.dynamic.ziggo.nl) is now known as
+    SimonNL_Afk                                                         [18:53]
+<heistheDude> So my ubuntu crashes randomly after like 5 seconds of booting.
+              Whats wrong?
+*** matzgi (~matt@195.20.112.162) has quit: Quit: Ex-Chat
+<heistheDude> Also it keeps on happening
+*** lapaga (~lapaga@2606:6000:6196:dd00:500d:866c:b995:d5e5) has quit: Quit:
+    Leaving                                                             [18:54]
+
+[Thu Apr 19 2018]
+<JimBuntu> heistheDude, Do you have a boot menu where you can select which
+           kernel will be used? If so, and if this is before the crash, I
+           would try a different kernel. Do you still have a live-USB or such?
+           If so, I would do a quick sanity test that the hardware is good by
+           booting to that... once you have booted from that, you may also be
+           able to mount your fixed disc and check for kernel logs/etc  [18:55]
