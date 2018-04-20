@@ -42,4 +42,7 @@
 (global-set-key (kbd "C-w") 'backward-kill-word)
 (global-set-key (kbd "C-k") 'delete-backward-char)
 
+(global-set-key (kbd "C-a") 'xah-beginning-of-line-or-block)
+(global-set-key (kbd "C-e") 'xah-end-of-line-or-block)
+
 (provide 'init-keybindings) 
